@@ -1,12 +1,17 @@
 package ObjectPages;
 
 import base.CommonAPI;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
@@ -24,6 +29,8 @@ public class HomePage extends CommonAPI{
     public static WebElement searchStatusComponentBridgesTunnels;
 @FindBy(id="edit-submit")
     public static WebElement searchButton;
+    @FindBy(css = "#block-gtranslate-gtranslate > div > select")
+    public static WebElement selectLanguage;
     public HomePage(){};
 
     public HomePage(WebDriver driver)
@@ -35,11 +42,44 @@ public class HomePage extends CommonAPI{
         searchStatusComponentBridgesTunnels.click();
     }
 
-    public void searchBox(){
-        typeOnInputField("edit-search-keys","schedule");
-        searchButton.click();
+    public void Screenshots() throws IOException {
+        driver.findElement(By.xpath("//*[@id='edit-search-keys']")).sendKeys("schedule",Keys.ENTER);
+        TakesScreenshot ts=(TakesScreenshot)driver;
+        File source=ts.getScreenshotAs(OutputType.FILE);
+        FileUtils.copyFile(source,new File("./screenShots/mta.png"));
+
 
     }
+    public void hoverHomePageByXpath(String locator){
+        WebElement element = driver.findElement(By.xpath(locator));
+        Actions action = new Actions(driver);
+        action.moveToElement(element).perform();
+    }
+    public void TransperancyByXpath(String locator){
+        WebElement element = driver.findElement(By.xpath(locator));
+        Actions action = new Actions(driver);
+        action.moveToElement(element).perform();
+        WebDriverWait wait = new WebDriverWait(driver, 10);
+        driver.findElement(By.xpath("//a[text()='Board Materials']")).click();
+
+    }
+    public void clearInputBox(WebElement element)
+    {
+        element.clear();
+    }
+    public void tripPlanner(){
+
+      typeOnInputField("//*[@id=\"txtOriginInput\"]","NewYork");
+      typeOnInputField("//*[@id=\"txtDestinationInput\"]","Virginia");
+    }
+    public void selectLanguage(){
+        selectLanguage.click();
+       Select select=new Select(selectLanguage);
+       select.selectByIndex(1);
+    }
+    public void searchBox(){
+        typeOnInputField("edit-search-keys","schedule");
+        searchButton.click();}
 
 
 }

@@ -3,7 +3,9 @@ package base;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Optional;
@@ -36,10 +38,22 @@ public class CommonAPI {
         driver.findElement(By.id(locator)).sendKeys(value, Keys.ENTER);}
 
     public void typeOnInputField(String locator, String value){
+            driver.findElement(By.xpath(locator)).sendKeys(value,Keys.ENTER);
+        }
+
+
+
+    public void mouseHoverByCSS(String locator){
         try {
-            driver.findElement(By.cssSelector(locator)).sendKeys(value);
-        }catch (Exception ex){
-            driver.findElement(By.id(locator)).sendKeys(value);
+            WebElement element = driver.findElement(By.cssSelector(locator));
+            Actions action = new Actions(driver);
+            Actions hover = action.moveToElement(element);
+        }catch(Exception ex){
+            System.out.println("First attempt has been done, This is second try");
+            WebElement element = driver.findElement(By.cssSelector(locator));
+            Actions action = new Actions(driver);
+            action.moveToElement(element).perform();
+
         }
 
     }
