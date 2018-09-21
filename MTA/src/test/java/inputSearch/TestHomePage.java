@@ -1,21 +1,14 @@
 package inputSearch;
 
 import ObjectPages.HomePage;
-import ObjectPages.SchedulePage;
-import base.CommonAPI;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
 
 
 public class TestHomePage extends HomePage
@@ -28,8 +21,7 @@ HomePage homePage;
     @Test
     public void Test(){
        searchBox();}
-
-    public void TestSchedules(){
+       public void TestSchedules(){
 
     }
    @Test
@@ -37,15 +29,28 @@ HomePage homePage;
        hoverHomePageByXpath("//*[@id=\"menu-221-1\"]/a");
     }
     WebElement element;
-    Actions action;
+    @Test(priority = 1,enabled = true)
+    public void searchInputPage(){
+        //homePage.searchBox2();
+        searchButton.click();
+        boolean actual = driver.findElement(By.cssSelector("#page-title")).isDisplayed();
+        boolean expected = true;
+        System.out.println(actual);
+        Assert.assertEquals(actual,expected);
+    }
+    @Test
+    public void testInputBox(){
+        boolean actual=driver.findElement(By.xpath("//*[@id=\"edit-search-keys\"]")).isEnabled();
+        boolean expected=true;
+        Assert.assertEquals(actual,expected);
+    }
     @Test
     public void TestTransperancyHover(){
         TransperancyByXpath("//*[@id=\"menu-419-1\"]/a");
-
     }
     @Test
     public void TesttripPlanner(){
-        clearInputBox(element);
+        //clearInputBox(element);
         tripPlanner();
     }
     @Test
@@ -55,6 +60,10 @@ HomePage homePage;
     @Test
     public void screenShotTest() throws IOException {
         Screenshots();
+    }
+    @Test
+    public void clear(){
+        clearInputBox();
     }
 }
 

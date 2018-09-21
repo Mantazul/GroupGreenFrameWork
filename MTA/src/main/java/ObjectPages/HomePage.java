@@ -63,9 +63,10 @@ public class HomePage extends CommonAPI{
         driver.findElement(By.xpath("//a[text()='Board Materials']")).click();
 
     }
-    public void clearInputBox(WebElement element)
+    public void clearInputBox()
     {
-        element.clear();
+       driver.findElement(By.xpath("//*[@id=\"txtOriginInput\"]")).clear();
+
     }
     public void tripPlanner(){
 
@@ -78,9 +79,14 @@ public class HomePage extends CommonAPI{
        select.selectByIndex(1);
     }
     public void searchBox(){
-        typeOnInputField("edit-search-keys","schedule");
+        typeOnInputField("//*[@id=\"edit-search-keys\"]","schedule");
         searchButton.click();}
 
+
+    public void searchBox2(){
+        typeOnInputField("//*[@id=\"edit-search-keys\"]","Schedules");
+        searchButton.click();
+    }
 
 }
 

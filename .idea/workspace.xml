@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b836601-ee62-483a-9ba8-d5694287ec95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/classes/ObjectPages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/ObjectPages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/inputSearch/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/inputSearch/TestHomePage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,40 +21,40 @@
     <session id="133133769">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4722" />
+          <entry key="java" value="5241" />
           <entry key="xml" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4722" />
+          <entry key="JAVA" value="5241" />
           <entry key="XML" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="30" />
-          <entry key="png" value="1" />
+          <entry key="java" value="32" />
+          <entry key="png" value="2" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="Image" value="1" />
-          <entry key="JAVA" value="30" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="32" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -68,27 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1822#1823#0" expanded="true" />
-                <element signature="e#1856#1857#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MTA/screenShots/mta.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/homePageMyMtaAlert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="342">
+              <caret line="67" column="75" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,28 +86,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestMyMtaAlert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="243">
               <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state relative-caret-position="166">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1375#1376#0" expanded="true" />
-                <element signature="e#1407#1408#0" expanded="true" />
+                <element signature="e#1127#1128#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1683#1684#0" expanded="true" />
+                <element signature="e#1714#1715#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="141">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestSchedulePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
+            <state relative-caret-position="162">
               <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -206,8 +182,8 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestMyMtaAlert.java" />
         <option value="$PROJECT_DIR$/MTA/src/main/java/ObjectPages/homePageMyMtaAlert.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java" />
         <option value="$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java" />
       </list>
     </option>
   </component>
@@ -275,7 +251,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,7 +323,37 @@
               <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webautomation" type="462c0819:PsiDirectoryNode" />
               <item name="MTA" type="462c0819:PsiDirectoryNode" />
+              <item name="screenShots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="MTA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="MTA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="MTA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="MTA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectPages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
@@ -366,21 +374,29 @@
               <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webautomation" type="462c0819:PsiDirectoryNode" />
               <item name="MTA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="inputSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="MTA" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537548411649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537566928620" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -400,7 +416,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage.screenShotTest">
+  <component name="RunManager" selected="TestNG.TestHomePage.clear">
     <configuration name="TestHomePage.TestSelectLanguage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
@@ -419,7 +435,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.TestTransperancyHover" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.clear" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
@@ -429,25 +445,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="inputSearch" />
       <option name="MAIN_CLASS_NAME" value="inputSearch.TestHomePage" />
-      <option name="METHOD_NAME" value="TestTransperancyHover" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHomePage.TesttripPlanner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MTA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inputSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="inputSearch" />
-      <option name="MAIN_CLASS_NAME" value="inputSearch.TestHomePage" />
-      <option name="METHOD_NAME" value="TesttripPlanner" />
+      <option name="METHOD_NAME" value="clear" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -473,7 +471,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyMtaAlert.TestMyMtaAlert" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.testAssertion" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
@@ -482,8 +480,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="inputSearch" />
-      <option name="MAIN_CLASS_NAME" value="inputSearch.TestMyMtaAlert" />
-      <option name="METHOD_NAME" value="TestMyMtaAlert" />
+      <option name="MAIN_CLASS_NAME" value="inputSearch.TestHomePage" />
+      <option name="METHOD_NAME" value="testAssertion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testInputBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MTA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inputSearch" />
+      <option name="MAIN_CLASS_NAME" value="inputSearch.TestHomePage" />
+      <option name="METHOD_NAME" value="testInputBox" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -492,19 +508,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TestHomePage.TestTransperancyHover" />
-      <item itemvalue="TestNG.TestHomePage.TesttripPlanner" />
-      <item itemvalue="TestNG.TestMyMtaAlert.TestMyMtaAlert" />
       <item itemvalue="TestNG.TestHomePage.TestSelectLanguage" />
       <item itemvalue="TestNG.TestHomePage.screenShotTest" />
+      <item itemvalue="TestNG.TestHomePage.testAssertion" />
+      <item itemvalue="TestNG.TestHomePage.testInputBox" />
+      <item itemvalue="TestNG.TestHomePage.clear" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestHomePage.screenShotTest" />
-        <item itemvalue="TestNG.TestHomePage.TestTransperancyHover" />
+        <item itemvalue="TestNG.TestHomePage.clear" />
+        <item itemvalue="TestNG.TestHomePage.testInputBox" />
+        <item itemvalue="TestNG.TestHomePage.testAssertion" />
         <item itemvalue="TestNG.TestHomePage.TestSelectLanguage" />
-        <item itemvalue="TestNG.TestHomePage.TesttripPlanner" />
-        <item itemvalue="TestNG.TestMyMtaAlert.TestMyMtaAlert" />
+        <item itemvalue="TestNG.TestHomePage.screenShotTest" />
       </list>
     </recent_temporary>
   </component>
@@ -522,41 +538,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_TestSelectLanguage - 2018.09.21 at 10h 36m 39s.xml">
-      <configuration name="TestHomePage.TestSelectLanguage" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 12m 19s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_TestSelectLanguage - 2018.09.21 at 10h 37m 33s.xml">
-      <configuration name="TestHomePage.TestSelectLanguage" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 13m 38s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_TestTransperancyHover - 2018.09.21 at 11h 27m 57s.xml">
-      <configuration name="TestHomePage.TestTransperancyHover" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 15m 41s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_TestTransperancyHover - 2018.09.21 at 11h 32m 31s.xml">
-      <configuration name="TestHomePage.TestTransperancyHover" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 18m 55s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 30m 57s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 20m 18s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 37m 12s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 21m 07s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 41m 23s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 22m 23s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 42m 54s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testAssertion - 2018.09.21 at 17h 23m 28s.xml">
+      <configuration name="TestHomePage.testAssertion" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 44m 36s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testInputBox - 2018.09.21 at 17h 42m 44s.xml">
+      <configuration name="TestHomePage.testInputBox" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_screenShotTest - 2018.09.21 at 12h 46m 58s.xml">
-      <configuration name="TestHomePage.screenShotTest" configurationId="TestNG" />
+    <history-entry file="TestHomePage_testInputBox - 2018.09.21 at 17h 42m 45s.xml">
+      <configuration name="TestHomePage.testInputBox" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1328859" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1328859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -564,13 +581,42 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3243626" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="right" id="Mongo Explorer" order="6" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.16979866" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1328859" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18130311" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3243626" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -583,35 +629,6 @@
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.16979866" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16979866" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -622,7 +639,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java</url>
-          <line>41</line>
+          <line>48</line>
           <properties class="inputSearch.TestHomePage" method="TestTransperancyHover">
             <option name="EMULATED" value="true" />
           </properties>
@@ -715,20 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/Planned_service_changes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/MTA_Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/Maps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -736,20 +739,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/pom.xml">
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/homePageMyMtaAlert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        <state relative-caret-position="540">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestMyMtaAlert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestSchedulePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
+        <state relative-caret-position="162">
           <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/screenShots/mta.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/MTA_Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -763,13 +799,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/homePageMyMtaAlert.java">
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/Planned_service_changes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -780,56 +820,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="342">
+          <caret line="67" column="75" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestMyMtaAlert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/test/java/inputSearch/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        <state relative-caret-position="166">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/ObjectPages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/screenShots/mta.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
