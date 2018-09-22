@@ -11,6 +11,9 @@
     <modules>
         <module>Generic</module>
         <module>BestBuy</module>
+        <module>MTA</module>
+        <module>MSNbc</module>
+        <module>MSNbc</module>
     </modules>
     <dependencyManagement>
         <dependencies>

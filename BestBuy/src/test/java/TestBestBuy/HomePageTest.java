@@ -20,20 +20,13 @@ public class HomePageTest extends CommonAPI {
     methods.MainBestBuy.scrollDown();
     methods.MainBestBuy.sleep();
     methods.MainBestBuy.scrollDown();
-    methods.MainBestBuy.sleep();
-    methods.MainBestBuy.scrollDown();
-    methods.MainBestBuy.sleep();
-    methods.MainBestBuy.scrollDown();
 
     //Testing Scrolling up
     methods.MainBestBuy.sleep();
     methods.MainBestBuy.scrollUp();
     methods.MainBestBuy.sleep();
     methods.MainBestBuy.scrollUp();
-    methods.MainBestBuy.sleep();
-    methods.MainBestBuy.scrollUp();
-    methods.MainBestBuy.sleep();
-    methods.MainBestBuy.scrollUp();
+
 }
     @Test
     public void testAccount() throws  InterruptedException{
