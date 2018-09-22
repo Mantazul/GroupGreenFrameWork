@@ -23,7 +23,7 @@ public class CommonAPI {
 
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv,@Optional String cloudEnv, @Optional("macOS High Sierra ") String os, @Optional("chrome") String browserName, @Optional("60")
-            String browserVersion, @Optional("http://www.amazon.com") String url,@Optional String os_version,@Optional String resolution)throws Exception {
+            String browserVersion, @Optional("http://www.bestbuy.com") String url,@Optional String os_version,@Optional String resolution)throws Exception {
         System.setProperty("webdriver.chrome.driver","/Users/asifchowdhury/Desktop/automateWeb/Generic/Driver/chromedriver");
             driver=new ChromeDriver();
             driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
