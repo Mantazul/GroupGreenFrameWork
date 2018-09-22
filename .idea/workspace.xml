@@ -7,16 +7,20 @@
       <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BestBuyRetail/BestBuyRetail.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BestBuyRetail/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/BestBuyStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/IEDriverServer.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/Generic/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Generic/Driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Driver/chromedriver.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Generic/Driver/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Driver/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../All file/Common+Java+Exceptions.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../All file/Git Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../All file/Git Pull Commands_ahmed.docx" beforeDir="false" />
@@ -116,7 +120,6 @@
       <change beforePath="$PROJECT_DIR$/../All file/project10" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../All file/thank-you.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Asif image2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BestBuy1/BestBuy_App/src/main/java/methods/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BestBuy1/BestBuy_App/src/main/java/methods/CommonMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DatabaseConnection" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GITHUB Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git Push Commands.docx" beforeDir="false" />
@@ -323,12 +326,20 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/search/searchInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/search/searchInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/BestBuyAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/BestBuyAppTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/search/searchInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Driver/geckodriver.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automateWeb.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gittest" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongo-java-driver-3.4.0.jar" beforeDir="false" />
@@ -357,48 +368,53 @@
     <session id="381311425">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1406" />
-          <entry key="xml" value="184" />
+          <entry key="java" value="2784" />
+          <entry key="xml" value="389" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1406" />
-          <entry key="XML" value="184" />
+          <entry key="JAVA" value="2784" />
+          <entry key="XML" value="389" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="17" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="17" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="automateWeb" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -406,8 +422,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="645">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -415,8 +431,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BestBuy/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+            <state relative-caret-position="930">
+              <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -424,8 +440,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="118">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/methods/MainBestBuy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="71" column="80" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -434,19 +462,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="840">
+              <caret line="56" column="54" lean-forward="true" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/InputSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/SearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -468,14 +520,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/searchInputTest.java" />
-        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/BestBuy/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/TestSearch.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/main/java/methods/CommonMethods.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/methods/BestBuyUtil.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/BestBuyTest.java" />
+        <option value="$PROJECT_DIR$/BestBuy/pom.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/methods/MainBestBuy.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/SearchTest.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/InputSearch.java" />
       </list>
     </option>
   </component>
@@ -491,49 +549,17 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="automateWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="automateWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="automateWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="BestBuy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="BestBuy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="BestBuy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="webautomation:Generic:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="141" />
     <option name="y" value="23" />
-    <option name="width" value="1070" />
-    <option name="height" value="807" />
+    <option name="width" value="1166" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -541,7 +567,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -552,28 +577,13 @@
             <path>
               <item name="automateWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="automateWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automateWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="automateWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automateWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automateWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automateWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automateWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Driver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -584,7 +594,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537381183812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537590100868" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -600,6 +610,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BestBuy/driver" />
       <recent name="$PROJECT_DIR$/Generic/Driver" />
       <recent name="$PROJECT_DIR$/BestBuy/src/test/resources" />
     </key>
@@ -616,8 +627,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.searchInput.search">
-    <configuration name="searchInput" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.InputSearch.search">
+    <configuration name="BestBuyTest.homepageTesting" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
       <module name="BestBuy" />
       <extension name="coverage">
         <pattern>
@@ -625,24 +636,68 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="search" />
-      <option name="MAIN_CLASS_NAME" value="search.searchInput" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="TestBestBuy.BestBuyTest" />
+      <option name="METHOD_NAME" value="homepageTesting" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchInput.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BestBuy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="TestBestBuy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="search" />
-      <option name="MAIN_CLASS_NAME" value="search.searchInput" />
+      <option name="PACKAGE_NAME" value="TestBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="TestBestBuy.HomePageTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.searchbar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestBestBuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="TestBestBuy.HomePageTest" />
+      <option name="METHOD_NAME" value="searchbar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputSearch.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestBestBuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="TestBestBuy.InputSearch" />
       <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -651,14 +706,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchTest.searchbar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestBestBuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="TestBestBuy.SearchTest" />
+      <option name="METHOD_NAME" value="searchbar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/asifchowdhury/Desktop/automateWeb/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.searchInput.search" />
-      <item itemvalue="TestNG.searchInput" />
+      <item itemvalue="TestNG.BestBuyTest.homepageTesting" />
+      <item itemvalue="TestNG./Users/asifchowdhury/Desktop/automateWeb/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" />
+      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.HomePageTest.searchbar" />
+      <item itemvalue="TestNG.SearchTest.searchbar" />
+      <item itemvalue="TestNG.InputSearch.search" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.searchInput.search" />
-        <item itemvalue="TestNG.searchInput" />
+        <item itemvalue="TestNG.InputSearch.search" />
+        <item itemvalue="TestNG.SearchTest.searchbar" />
+        <item itemvalue="TestNG.HomePageTest.searchbar" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG./Users/asifchowdhury/Desktop/automateWeb/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -676,96 +766,97 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="searchInput_search - 2018.09.18 at 18h 12m 03s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="_Users_asifchowdhury_Desktop_automateWeb_BestBuy_src_test_resources_BestBuyAppTestRunner_xml - 2018.09.21 at 12h 25m 39s.xml">
+      <configuration name="/Users/asifchowdhury/Desktop/automateWeb/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput_search - 2018.09.18 at 18h 14m 12s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="HomePageTest_homepagetesting - 2018.09.21 at 20h 40m 59s.xml">
+      <configuration name="HomePageTest.homepagetesting" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput - 2018.09.19 at 00h 22m 32s.xml">
-      <configuration name="searchInput" configurationId="TestNG" />
+    <history-entry file="_Users_asifchowdhury_Desktop_automateWeb_BestBuy_src_test_resources_BestBuyAppTestRunner_xml - 2018.09.21 at 20h 52m 05s.xml">
+      <configuration name="/Users/asifchowdhury/Desktop/automateWeb/BestBuy/src/test/resources/BestBuyAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput - 2018.09.19 at 11h 12m 42s.xml">
-      <configuration name="searchInput" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchbar - 2018.09.21 at 20h 53m 18s.xml">
+      <configuration name="HomePageTest.searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput_search - 2018.09.19 at 11h 13m 31s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="HomePageTest - 2018.09.21 at 21h 03m 03s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput_search - 2018.09.19 at 11h 14m 12s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchbar - 2018.09.21 at 22h 21m 54s.xml">
+      <configuration name="HomePageTest.searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput_search - 2018.09.19 at 11h 15m 44s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="SearchTest_searchbar - 2018.09.21 at 22h 32m 36s.xml">
+      <configuration name="SearchTest.searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput - 2018.09.19 at 11h 49m 40s.xml">
-      <configuration name="searchInput" configurationId="TestNG" />
+    <history-entry file="SearchTest_searchbar - 2018.09.21 at 22h 34m 16s.xml">
+      <configuration name="SearchTest.searchbar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput - 2018.09.19 at 12h 02m 26s.xml">
-      <configuration name="searchInput" configurationId="TestNG" />
+    <history-entry file="InputSearch_search - 2018.09.21 at 23h 19m 28s.xml">
+      <configuration name="InputSearch.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="searchInput_search - 2018.09.19 at 14h 15m 34s.xml">
-      <configuration name="searchInput.search" configurationId="TestNG" />
+    <history-entry file="InputSearch_search - 2018.09.21 at 23h 48m 26s.xml">
+      <configuration name="InputSearch.search" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="23" width="1070" height="807" extended-state="0" />
+    <frame x="141" y="23" width="1166" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33949417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970874" visible="true" weight="0.2508897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50291264" side_tool="true" weight="0.25177935" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.33373493" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3855932" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.4039548" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49785408" visible="true" weight="0.6573427" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49785408" weight="0.6573427" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50214595" side_tool="true" weight="0.56643355" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32867134" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.37107778" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24902724" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.22859922" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3103113" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.28313252" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Mongo Explorer" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.16523606" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970874" visible="true" weight="0.25107297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50291264" side_tool="true" weight="0.25177935" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.4759036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49785408" weight="0.6573427" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50214595" side_tool="true" weight="0.56643355" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.37107778" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24902724" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3103113" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -784,68 +875,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/TestSearch.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/methods/CommonMethods.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/methods/BestBuyUtil.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/BestBuyTest.java" />
+    <entry file="file://$PROJECT_DIR$/BestBuy/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="930">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/TestSearch.java">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/methods/CommonMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        <state relative-caret-position="645">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="118">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/searchInput.java">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/methods/MainBestBuy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="298">
+          <caret line="71" column="80" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/InputSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/TestBestBuy/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="54" lean-forward="true" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyAppTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -901,7 +1007,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>BestBuy</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
