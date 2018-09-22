@@ -67,9 +67,7 @@ public class HomePageTest extends CommonAPI {
         methods.MainBestBuy.featuredOffers();
 
     }
+}
 
-
-
-    }
 
 

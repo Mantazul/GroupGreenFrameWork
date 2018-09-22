@@ -3,6 +3,7 @@ package TestBestBuy;
 import base.CommonAPI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
@@ -11,6 +12,8 @@ public class SearchTest extends CommonAPI {
     @Test
 
     public void searchbar ()throws InterruptedException {
+
+        WebElement headerHistory;
         Driver.get("http://www.bestbuy.com");
         methods.MainBestBuy.closePopUp();
         Driver.get("http://www.bestbuy.com");
@@ -33,7 +36,4 @@ public class SearchTest extends CommonAPI {
 
     @AfterTest
     public void driverClose (){driverClose();}
-
-
-
 }
