@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a6ac49d-79a5-4c81-8f75-d7c3b241c0ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankofAmerica18/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankofAmerica18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/BestBuyStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/Generic/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expedia/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewBestBuy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewBestBuy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Common+Java+Exceptions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Git Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Git Pull Commands_ahmed.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/HashMap in Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Home Work 5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Home Work5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Intellij Tutorial.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java ArrayList vs LinkedList.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring by Asif 3702NY (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Mentoring Topics.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Nested Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Portfolio 7_18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Pull Command.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 7 question.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 7th.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 8th.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Portfolio 7_18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.15 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.29 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.34 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.15.36 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.02 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.20 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.45 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.54 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.17.06 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.14 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.20 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.26 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.19.04 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.19.16 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-25 at 11.49.18 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-26 at 11.08.43 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-26 at 11.18.59 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Singleton Class (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Singleton Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Terminal command -Last login.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Test Scenarios - Boot Camp 2018 (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/_tower-git-client.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/bourbon-bitters-neat/bourbon-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/command-line/CLI-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git-for-subversion-users/git-for-subversion-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-AR-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-CN-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/website-optimization/website_optimization-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/workflow-of-version-control/workflow-of-version-control.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/xcode/xcode-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/data_structures_and_algorithms copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/gitcheat-1200x-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/Encap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/MotorCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/oop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/oop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/Encap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/MotorCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/oop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/oop2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/jahidul Java Note.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/project10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/thank-you.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asif image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseConnection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GITHUB Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git Push Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git commands udemy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gti Hub Commands -Asif (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gti Hub Commands -Asif.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home Work5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jahid Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Mentoring 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring Topics new1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidTermAsif_3702NY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidtermJuly17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/CodingExamMarch2018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/driver/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/testng-6.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/UnitTestSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/UnitTestConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/FortuneEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/Months.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/LowestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/MakePyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/UnitTestingMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/XmlReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/DuplicateWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/UnitTestingStringProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/ConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/UnitTestConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/FortuneEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/FindMissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/LowestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/MakePyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/ProcessStudentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/UnitTestingStudentProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/XmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/DuplicateWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/UnitTestingStringProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/mongoSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/CodingExamMarch2018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/driver/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/testng-6.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/UnitTestConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/FortuneEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/Months.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/MakePyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/UnitTestingMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/XmlReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/problems/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/problems/UnitTestingStringProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/ConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/UnitTestConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/FortuneEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/FindMissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/LowestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/MakePyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/ProcessStudentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/UnitTestingStudentProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/XmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/DuplicateWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/UnitTestingStringProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 1 Jahid.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 2 jahid.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2018-09-05 at 7.09.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To learning TestNg.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gittest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testng-6.8.7.jar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/BnkOfAm/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="986334851">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="geckodriver" value="1" />
+          <entry key="java" value="50" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="50" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="27" />
+          <entry key="java" value="446" />
+          <entry key="xml" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="446" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="XML" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BankWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="131" column="127" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-272">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-212">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Chekcking.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Cheking.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Checking.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java" />
+        <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestDropDown/testAutoLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/testAutoLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestAutoLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/HomeLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BnkOfAm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BnkOfAm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dropDown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testDropDown" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537829263588" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BnkOfAm/src/main/java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BnkOfAm" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestAutoLoans.testSelectAutoLoanRates">
+    <configuration name="PopUpTest.testPopUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BnkOfAm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHome" />
+      <option name="MAIN_CLASS_NAME" value="TestHome.PopUpTest" />
+      <option name="METHOD_NAME" value="testPopUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.testSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BnkOfAm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHome" />
+      <option name="MAIN_CLASS_NAME" value="TestHome.SearchTest" />
+      <option name="METHOD_NAME" value="testSearchBox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAutoLoans.testSelectAutoLoanRates" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BnkOfAm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testDropDown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testDropDown" />
+      <option name="MAIN_CLASS_NAME" value="testDropDown.TestAutoLoans" />
+      <option name="METHOD_NAME" value="testSelectAutoLoanRates" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHome.testHome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BnkOfAm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHome" />
+      <option name="MAIN_CLASS_NAME" value="TestHome.TestHome" />
+      <option name="METHOD_NAME" value="testHome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestHome.testHome" />
+      <item itemvalue="TestNG.PopUpTest.testPopUp" />
+      <item itemvalue="TestNG.SearchTest.testSearchBox" />
+      <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
+        <item itemvalue="TestNG.SearchTest.testSearchBox" />
+        <item itemvalue="TestNG.PopUpTest.testPopUp" />
+        <item itemvalue="TestNG.TestHome.testHome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a6ac49d-79a5-4c81-8f75-d7c3b241c0ab" name="Default Changelist" comment="" />
+      <created>1537814729828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537814729828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 15m 00s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 15m 51s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 17m 28s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 17m 36s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 20m 31s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 22m 33s.xml">
+      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PopUpTest_testPopUp - 2018.09.24 at 17h 17m 32s.xml">
+      <configuration name="PopUpTest.testPopUp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchTest_testSearchBox - 2018.09.24 at 17h 19m 29s.xml">
+      <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testAutoLoans_testSelectAutoLoanRates - 2018.09.24 at 17h 54m 18s.xml">
+      <configuration name="testAutoLoans.testSelectAutoLoanRates" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="23" width="1440" height="803" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.22460657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50089765" side_tool="true" weight="0.22460657" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38396624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/driver/geckodriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestAutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Checking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="131" column="127" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BnkOfAm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>surefire-booter-2.20.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
