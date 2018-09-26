@@ -1,4 +1,4 @@
-package TestHome;
+package testHome;
 
 import home.HomePage;
 import org.testng.annotations.Test;

@@ -1,20 +1,23 @@
+
 package testHome;
 
-import home.DropDown;
+import home.PopUp;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
 
-public class TestDropDown extends DropDown {
+public class PopUpWindowTest extends PopUp {
 
     @Test
-    public void testDropDown() {
+    public void testPopUp  (){
        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        printDropDown();
+        goToPopUp();
+        popUpClick(driver);
     }
     @Test
-    public void testSelectDropDown(){
+    public void testPopUpWrite() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnDropdownMenu();
+        goToPopUp();
+        popUpWrite(driver);
     }
-
 }
+

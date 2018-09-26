@@ -27,7 +27,5 @@ public class HomePage extends CommonAPI  {
     public void locationDropdown(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         location.click();
-        // ATMLocations.click();
-        //input.click();
     }
 }

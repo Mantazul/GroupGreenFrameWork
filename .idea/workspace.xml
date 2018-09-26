@@ -136,17 +136,99 @@
       <change beforePath="$PROJECT_DIR$/../All file/project10" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../All file/thank-you.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Asif image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/BnkOfAm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Checking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpWindowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestAutoLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestChecking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestCreditCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestHomeLoans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestInvesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestPrintDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java" beforeDir="false" afterPath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestSavings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/AutoLoans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/BetterMoneyHabits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/Checking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/CreditCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/HomeLoans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/Investing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/PrintDropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/dropDown/Savings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/DropDown$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/DropDown$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/DropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/HomePage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/LogIn$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/LogIn$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/LogIn$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/LogIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/PopUp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/PopUp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/PopUp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/PopUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/Search$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/Search$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/classes/home/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/PopUpTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/PopUpTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/PopUpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/SearchTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/SearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestDropDown$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestDropDown$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestDropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestHome$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestHome$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestHome$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestLogIn$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/TestHome/TestLogIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestBetterMoneyHabits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestChecking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestCreditCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestHomeLoans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestInvesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestPrintDropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/TestSavings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BnkOfAm/target/test-classes/testDropDown/testAutoLoans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DatabaseConnection" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GITHUB Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git Push Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git commands udemy.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GoToTraining 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoToTraining 006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 001.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 002.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 003.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 004.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 005.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 006.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToTraining 006.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GoToTraining 007.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GoToTraining 008.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GoToTraining 009.png" beforeDir="false" />
@@ -359,39 +441,48 @@
     <session id="986334851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="10" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="geckodriver" value="1" />
-          <entry key="java" value="50" />
-          <entry key="xml" value="7" />
+          <entry key="java" value="92" />
+          <entry key="png" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="92" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="7" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="27" />
-          <entry key="java" value="446" />
-          <entry key="xml" value="66" />
+          <entry key="dummy" value="39" />
+          <entry key="java" value="848" />
+          <entry key="properties" value="12" />
+          <entry key="xml" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="446" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="XML" value="66" />
+          <entry key="JAVA" value="848" />
+          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="Properties" value="12" />
+          <entry key="XML" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -405,103 +496,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="435">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1935">
-              <caret line="131" column="127" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="130">
+              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -510,13 +533,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="345">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -531,22 +602,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java" />
@@ -556,7 +622,6 @@
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java" />
-        <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestDropDown/testAutoLoans.java" />
@@ -570,6 +635,21 @@
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/SecretProperties.properties" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dataConnection/JDBC.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" />
+        <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/googleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/pom.xml" />
+        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" />
       </list>
     </option>
   </component>
@@ -585,26 +665,22 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="BnkOfAm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="BnkOfAm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.seleniumhq.selenium:selenium-java:3.14.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -614,10 +690,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -625,7 +700,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -656,63 +730,58 @@
               <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
               <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dropDown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BnkOfAm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testDropDown" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537829668824" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537989883361" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.20261438" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BnkOfAm/src/main/java" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BnkOfAm" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BnkOfAm/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -727,36 +796,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="PopUpTest.testPopUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestLogIn.logIn">
+    <configuration name="PopUpWindowTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BnkOfAm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestHome.*" />
+          <option name="PATTERN" value="testHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestHome" />
-      <option name="MAIN_CLASS_NAME" value="TestHome.PopUpTest" />
-      <option name="METHOD_NAME" value="testPopUp" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="testHome.PopUpWindowTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTest.testSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PopUpWindowTest.testPopUpWrite" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BnkOfAm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestHome.*" />
+          <option name="PATTERN" value="testHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestHome" />
-      <option name="MAIN_CLASS_NAME" value="TestHome.SearchTest" />
-      <option name="METHOD_NAME" value="testSearchBox" />
+      <option name="MAIN_CLASS_NAME" value="testHome.PopUpWindowTest" />
+      <option name="METHOD_NAME" value="testPopUpWrite" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -768,12 +835,12 @@
       <module name="BnkOfAm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testDropDown.*" />
+          <option name="PATTERN" value="optionListsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testDropDown" />
-      <option name="MAIN_CLASS_NAME" value="testDropDown.TestAutoLoans" />
+      <option name="PACKAGE_NAME" value="optionListsTest" />
+      <option name="MAIN_CLASS_NAME" value="optionListsTest.TestAutoLoans" />
       <option name="METHOD_NAME" value="testSelectAutoLoanRates" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -782,17 +849,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHome.testHome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAutoLoans.testSelectFindAndFinaceYourNextCar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BnkOfAm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestHome.*" />
+          <option name="PATTERN" value="optionListsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="optionListsTest" />
+      <option name="MAIN_CLASS_NAME" value="optionListsTest.TestAutoLoans" />
+      <option name="METHOD_NAME" value="testSelectFindAndFinaceYourNextCar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogIn.logIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BnkOfAm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestHome" />
-      <option name="MAIN_CLASS_NAME" value="TestHome.TestHome" />
-      <option name="METHOD_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestLogIn" />
+      <option name="METHOD_NAME" value="logIn" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -801,17 +886,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TestHome.testHome" />
-      <item itemvalue="TestNG.PopUpTest.testPopUp" />
-      <item itemvalue="TestNG.SearchTest.testSearchBox" />
+      <item itemvalue="TestNG.TestAutoLoans.testSelectFindAndFinaceYourNextCar" />
       <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
+      <item itemvalue="TestNG.PopUpWindowTest.testPopUpWrite" />
+      <item itemvalue="TestNG.PopUpWindowTest" />
+      <item itemvalue="TestNG.TestLogIn.logIn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestLogIn.logIn" />
+        <item itemvalue="TestNG.PopUpWindowTest" />
+        <item itemvalue="TestNG.PopUpWindowTest.testPopUpWrite" />
         <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
-        <item itemvalue="TestNG.SearchTest.testSearchBox" />
-        <item itemvalue="TestNG.PopUpTest.testPopUp" />
-        <item itemvalue="TestNG.TestHome.testHome" />
+        <item itemvalue="TestNG.TestAutoLoans.testSelectFindAndFinaceYourNextCar" />
       </list>
     </recent_temporary>
   </component>
@@ -829,55 +916,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 15m 00s.xml">
+    <history-entry file="TestLogIn_logIn - 2018.09.25 at 22h 38m 36s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.25 at 22h 41m 53s.xml">
       <configuration name="TestHome.testHome" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 15m 51s.xml">
-      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    <history-entry file="TestAutoLoans_testSelectAutoApplyNow - 2018.09.25 at 22h 43m 14s.xml">
+      <configuration name="TestAutoLoans.testSelectAutoApplyNow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 17m 28s.xml">
-      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    <history-entry file="TestAutoLoans - 2018.09.26 at 02h 59m 12s.xml">
+      <configuration name="TestAutoLoans" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 17m 36s.xml">
-      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    <history-entry file="TestAutoLoans_testSelectFindAndFinaceYourNextCar - 2018.09.26 at 02h 59m 53s.xml">
+      <configuration name="TestAutoLoans.testSelectFindAndFinaceYourNextCar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 20m 31s.xml">
-      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    <history-entry file="TestAutoLoans_testSelectAutoLoanRates - 2018.09.26 at 03h 00m 13s.xml">
+      <configuration name="TestAutoLoans.testSelectAutoLoanRates" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.24 at 16h 22m 33s.xml">
-      <configuration name="TestHome.testHome" configurationId="TestNG" />
+    <history-entry file="PopUpWindowTest_testPopUpWrite - 2018.09.26 at 03h 02m 29s.xml">
+      <configuration name="PopUpWindowTest.testPopUpWrite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PopUpTest_testPopUp - 2018.09.24 at 17h 17m 32s.xml">
-      <configuration name="PopUpTest.testPopUp" configurationId="TestNG" />
+    <history-entry file="PopUpWindowTest - 2018.09.26 at 03h 02m 54s.xml">
+      <configuration name="PopUpWindowTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_testSearchBox - 2018.09.24 at 17h 19m 29s.xml">
-      <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
+    <history-entry file="TestLogIn_logIn - 2018.09.26 at 03h 04m 54s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testAutoLoans_testSelectAutoLoanRates - 2018.09.24 at 17h 54m 18s.xml">
-      <configuration name="testAutoLoans.testSelectAutoLoanRates" configurationId="TestNG" />
+    <history-entry file="TestLogIn_logIn - 2018.09.26 at 03h 12m 16s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.22460657" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.22460657" />
+      <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50089765" side_tool="true" weight="0.22460657" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Favorites" order="6" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38396624" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38276836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.3846154" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143063" side_tool="true" weight="0.44755244" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -892,31 +991,143 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/driver/geckodriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/TestDropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/AutoLoans.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/BetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/HomeLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Investing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/CreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Savings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Checking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestCreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestHomeLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestInvesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestPrintDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestSavings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/PrintDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestBetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/screenshots/testLanguage (09.24.2018-22:35PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.24.2018-17:17PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.25.2018-22:31PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/SecretProperties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dataConnection/JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -924,6 +1135,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/TestHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/PopUpWindowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestAutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -936,199 +1203,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/driver/geckodriver">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUp.java">
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="240">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="345">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1136,125 +1253,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestAutoLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Checking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java">
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="131" column="127" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="130">
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1313,11 +1346,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BnkOfAm</last-edited>
+          <last-edited>Generic</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20261438" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1325,7 +1359,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>surefire-booter-2.20.1</last-edited>
+          <last-edited>mysql-connector-java-8.0.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

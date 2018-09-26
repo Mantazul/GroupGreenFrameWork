@@ -1,4 +1,4 @@
-package TestHome;
+package testHome;
 
 import home.LogIn;
 import org.openqa.selenium.support.PageFactory;

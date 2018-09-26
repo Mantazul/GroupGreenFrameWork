@@ -20,7 +20,6 @@ import org.testng.ITestResult;
 import org.testng.annotations.*;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -90,8 +89,8 @@ public class CommonAPI {
     }
 
     public WebDriver driver = null;
-    public String browserstack_username= "your user name";
-    public String browserstack_accesskey = "your access key";
+    public String browserstack_username= "Asif T Chowdhury";
+    public String browserstack_accesskey = "3476562393";
     public String saucelabs_username = "";
     public String saucelabs_accesskey = "";
 
@@ -110,10 +109,11 @@ public class CommonAPI {
         }else{
             getLocalDriver(os, browserName);
         }
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
         driver.manage().timeouts().pageLoadTimeout(25, TimeUnit.SECONDS);
         driver.get(url);
         driver.manage().window().maximize();
+        driver.manage().window().fullscreen();
     }
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
@@ -285,7 +285,7 @@ public class CommonAPI {
         select.selectByVisibleText(value);
     }
     public static void sleepFor(int sec)throws InterruptedException{
-        Thread.sleep(sec * 1000);
+        Thread.sleep(sec * 2000);
     }
     public void mouseHoverByCSS(String locator){
         try {
@@ -297,9 +297,7 @@ public class CommonAPI {
             WebElement element = driver.findElement(By.cssSelector(locator));
             Actions action = new Actions(driver);
             action.moveToElement(element).perform();
-
         }
-
     }
     public void mouseHoverByXpath(String locator){
         try {
@@ -311,11 +309,8 @@ public class CommonAPI {
             WebElement element = driver.findElement(By.cssSelector(locator));
             Actions action = new Actions(driver);
             action.moveToElement(element).perform();
-
         }
-
     }
-    //handling Alert
     public void okAlert(){
         Alert alert = driver.switchTo().alert();
         alert.accept();
@@ -325,7 +320,6 @@ public class CommonAPI {
         alert.dismiss();
     }
 
-    //iFrame Handle
     public void iframeHandle(WebElement element){
         driver.switchTo().frame(element);
     }
@@ -334,7 +328,6 @@ public class CommonAPI {
         driver.switchTo().defaultContent();
     }
 
-    //get Links
     public void getLinks(String locator){
         driver.findElement(By.linkText(locator)).findElement(By.tagName("a")).getText();
     }
@@ -351,14 +344,11 @@ public class CommonAPI {
         } catch (Exception e) {
             System.out.println("Exception while taking screenshot "+e.getMessage());;
         }
-
     }
-    //Taking Screen shots
     public void takeScreenShot()throws IOException {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file,new File("screenShots.png"));
     }
-    //Synchronization
     public void waitUntilClickAble(By locator){
         WebDriverWait wait = new WebDriverWait(driver, 10);
         WebElement element = wait.until(ExpectedConditions.elementToBeClickable(locator));
@@ -373,9 +363,6 @@ public class CommonAPI {
     }
     public void upLoadFile(String locator,String path){
         driver.findElement(By.cssSelector(locator)).sendKeys(path);
-        /* path example to upload a file/image
-           path= "C:\\Users\\rrt\\Pictures\\ds1.png";
-         */
     }
     public void clearInput(String locator){
         driver.findElement(By.cssSelector(locator)).clear();
@@ -388,7 +375,6 @@ public class CommonAPI {
         splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
         return splitString;
     }
-    //Handling New Tabs
     public static WebDriver handleNewTab(WebDriver driver1){
         String oldTab = driver1.getWindowHandle();
         List<String> newTabs = new ArrayList<String>(driver1.getWindowHandles());
@@ -418,7 +404,5 @@ public class CommonAPI {
             System.out.println("CSS locator didn't work");
         }
     }
-
-
 
 }

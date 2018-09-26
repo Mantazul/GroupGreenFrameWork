@@ -38,7 +38,7 @@ public class LogIn extends CommonAPI {
     }
     public void enterPassword(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        getPassword().sendKeys("notmypassword");
+        getPassword().sendKeys("3476562394");
     }
     public void clickSignIn(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

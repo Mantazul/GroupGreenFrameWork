@@ -5,15 +5,15 @@
 
     <!--<parameter name="useCloudEnv" value="false"/>-->
     <!--<parameter name="cloudEnvName" value="browserstack"/>-->
-    <!--<parameter name="os" value="OS X"/>-->
-    <!--<parameter name="os_version" value="Sierra"/>-->
+    <parameter name="os" value="OS X"/>
+   <parameter name="os_version" value="Sierra"/>
     <parameter name="browserName" value="chrome"/>
     <!--<parameter name="browserVersion" value="53.0"/>-->
     <parameter name = "url" value = "https://www.bankofamerica.com"/>
-    <test name = "BOA home">
+    <test name = "BankofAmerica test home">
         <classes>
-            <class name="TestHome./>
-            <!--<class name="testDataDriven.TestServicesFromDB"/>-->
+            <class name="testHome.SearchTest"/>
+           <class name="testDataDriven.TestServicesFromDB"/>
 
         </classes>
     </test>

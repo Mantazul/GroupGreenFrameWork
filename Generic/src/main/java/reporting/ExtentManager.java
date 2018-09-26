@@ -1,3 +1,4 @@
+
 package reporting;
 
 import com.relevantcodes.extentreports.ExtentReports;
@@ -11,7 +12,8 @@ public class ExtentManager {
     private static ITestContext context;
 
     public synchronized static ExtentReports getInstance(){
-        if(extent == null){
+
+if(extent == null){
             File outputDirectory = new File(context.getOutputDirectory());
             File resultDirectory = new File(outputDirectory.getParentFile(),"html");
             extent = new ExtentReports(System.getProperty("user.dir")+"/Extent-Report/ExtentReport.html", true);
@@ -28,3 +30,4 @@ public class ExtentManager {
 
     }
 }
+

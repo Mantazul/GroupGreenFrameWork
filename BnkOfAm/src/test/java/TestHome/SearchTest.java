@@ -1,11 +1,9 @@
-package TestHome;
+package testHome;
 
 import home.Search;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
-
-import static base.CommonAPI.convertToString;
 
 public class SearchTest extends Search {
 
