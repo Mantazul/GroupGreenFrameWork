@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
-        <module>BnkOfAm</module>
+        <module>BankofAmerica</module>
     </modules>
     <dependencyManagement>
         <dependencies>
@@ -44,6 +44,11 @@
                 <artifactId>google-oauth-client-jetty</artifactId>
                 <version>1.25.0</version>
             </dependency>
+            <dependency>
+                <groupId>com.aventstack</groupId>
+                <artifactId>extentreports</artifactId>
+                <version>3.0.7</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -54,6 +59,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
                     <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
             <plugin>

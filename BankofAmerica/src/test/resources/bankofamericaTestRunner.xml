@@ -11,10 +11,12 @@
     <parameter name="browserVersion" value="60.0"/>
     <parameter name="url" value="https://www.bankofamerica.com/"/>
 
-    <test name = "BOA home page Test">
+    <test name = "Search Test">
         <classes>
+            <class name="testHome.TestHome"/>
+            <class name="testHome.TestLogIn"/>
+            <class name="testHome.TestDropDown"/>
             <class name="testHome.SearchTest"/>
-            <!--<class name="menu.MenuPage"/>-->
         </classes>
     </test>
 

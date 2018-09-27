@@ -118,27 +118,27 @@ public class CommonAPI {
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BnkOfAm/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BnkOfAm/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
             }
             driver = new ChromeDriver();
         } else if(browserName.equalsIgnoreCase("chrome-options")){
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--disable-notifications");
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BnkOfAm/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BnkOfAm/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
             }
             driver = new ChromeDriver(options);
         }
 
         else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.gecko.driver", "../BnkOfAm/driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "../BankofAmerica/driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.gecko.driver", "../BnkOfAm/driver/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "../BankofAmerica/driver/geckodriver.exe");
             }
             driver = new FirefoxDriver();
 
