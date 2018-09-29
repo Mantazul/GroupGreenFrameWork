@@ -13,7 +13,7 @@
 
     <test name = "BOA home page Test">
         <classes>
-            <class name="testHome.SearchTest"/>
+            <!--<class name="testHome"/>-->
             <!--<class name="menu.MenuPage"/>-->
         </classes>
     </test>

@@ -18,16 +18,14 @@ if(extent == null){
             File resultDirectory = new File(outputDirectory.getParentFile(),"html");
             extent = new ExtentReports(System.getProperty("user.dir")+"/Extent-Report/ExtentReport.html", true);
             Reporter.log("Extent Report Directory"+ resultDirectory, true);
-            extent.addSystemInfo("Host Name", "PNT").addSystemInfo("Environment","QA")
+            extent.addSystemInfo("Host Name", "PNT_Team_Green").addSystemInfo("Environment","QA")
                     .addSystemInfo("User Name", "Asif Chowdhury");
             extent.loadConfig(new File(System.getProperty("user.dir")+ "/report-config.xml"));
         }
         return extent;
     }
-
     public static void setOutputDirectory(ITestContext context){
         ExtentManager.context = context;
-
     }
 }
 

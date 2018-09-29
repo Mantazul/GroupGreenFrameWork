@@ -16,7 +16,7 @@ public class TestHome extends HomePage {
     @Test
     public void testLanguage(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        checkLanguage();
+        language.click();
     }
     @Test
     public void testLocationDropDown(){

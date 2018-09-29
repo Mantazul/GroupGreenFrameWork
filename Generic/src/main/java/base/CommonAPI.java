@@ -35,7 +35,6 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
-    //ExtentReport
     public static ExtentReports extent;
     @BeforeSuite
     public void extentSetup(ITestContext context) {
@@ -78,10 +77,10 @@ public class CommonAPI {
         }
         driver.quit();
     }
-    @AfterSuite
+    /*@AfterSuite
     public void generateReport() {
         extent.close();
-    }
+    }*/
     private Date getTime(long millis) {
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(millis);
@@ -90,7 +89,7 @@ public class CommonAPI {
 
     public WebDriver driver = null;
     public String browserstack_username= "Asif T Chowdhury";
-    public String browserstack_accesskey = "3476562393";
+    public String browserstack_accesskey = "";
     public String saucelabs_username = "";
     public String saucelabs_accesskey = "";
 
@@ -120,7 +119,7 @@ public class CommonAPI {
             if(OS.equalsIgnoreCase("OS X")){
                 System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver.exe");
             }
             driver = new ChromeDriver();
         } else if(browserName.equalsIgnoreCase("chrome-options")){
@@ -129,7 +128,7 @@ public class CommonAPI {
             if(OS.equalsIgnoreCase("OS X")){
                 System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver.exe");
             }
             driver = new ChromeDriver(options);
         }
@@ -168,7 +167,7 @@ public class CommonAPI {
         return driver;
     }
 
-    @AfterMethod
+   @AfterMethod
     public void cleanUp(){
         driver.close();
     }
@@ -196,7 +195,6 @@ public class CommonAPI {
         }catch (Exception ex){
             driver.findElement(By.id(locator)).sendKeys(value);
         }
-
     }
     public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
@@ -233,7 +231,6 @@ public class CommonAPI {
             String st = web.getText();
             text.add(st);
         }
-
         return text;
     }
     public List<WebElement> getListOfWebElementsByCss(String locator) {
@@ -271,7 +268,6 @@ public class CommonAPI {
         String st = driver.findElement(By.name(locator)).getText();
         return st;
     }
-
     public List<String> getListOfString(List<WebElement> list) {
         List<String> items = new ArrayList<String>();
         for (WebElement element : list) {
@@ -279,7 +275,6 @@ public class CommonAPI {
         }
         return items;
     }
-
     public void selectOptionByVisibleText(WebElement element, String value) {
         Select select = new Select(element);
         select.selectByVisibleText(value);
@@ -318,6 +313,8 @@ public class CommonAPI {
     public void cancelAlert(){
         Alert alert = driver.switchTo().alert();
         alert.dismiss();
+    }
+    public void inputValueInTextBoxByWebElement(WebElement account, String toString) {
     }
 
     public void iframeHandle(WebElement element){

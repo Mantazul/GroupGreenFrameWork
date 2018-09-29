@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a6ac49d-79a5-4c81-8f75-d7c3b241c0ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/PopUpWindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/libraries/Maven__WebAutomatation_Generic_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomate/WebAutomate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@BankofAmerica/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@BankofAmerica/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/.idea/compiler.xml" beforeDir="false" />
@@ -19,58 +18,24 @@
       <change beforePath="$PROJECT_DIR$/../Bank/Generic/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankDomain1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/surefire_booter_2_20_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/Extent-Report/ExtentReport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/SecretProperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/SecretProperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/driver/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/driver/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/driver/geckodriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testLanguage (09.24.2018-22:35PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testLanguage (09.24.2018-22:35PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.24.2018-17:17PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.24.2018-17:17PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.25.2018-22:31PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.25.2018-22:31PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.25.2018-22:35PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.25.2018-22:35PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testPopUp (09.26.2018-03:02AM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.26.2018-03:02AM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testPopUpWrite (09.26.2018-03:02AM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testPopUpWrite (09.26.2018-03:02AM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testSearchBox (09.24.2018-17:19PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testSearchBox (09.24.2018-17:19PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/screenshots/testSelectCalculateAutoLoanPayment (09.25.2018-12:20PM).png" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/screenshots/testSelectCalculateAutoLoanPayment (09.25.2018-12:20PM).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/dataConnection/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/PopUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/PopUpHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/AutoLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/AutoLoans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/BetterMoneyHabits.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/BetterMoneyHabits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Checking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/CreditCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/CreditCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/HomeLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/HomeLoans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Investing.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Investing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/PrintDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/PrintDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/main/java/optionLists/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Savings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpWindowTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestAutoLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestBetterMoneyHabits.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestBetterMoneyHabits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestChecking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestCreditCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestCreditCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestHomeLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestHomeLoans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestInvesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestInvesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestPrintDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestPrintDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/optionListsTest/TestSavings.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestSavings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/Extent-Report/ExtentReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/dataConnection/JDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/dataConnection/JDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/googleSheetsAPI/GoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/googleSheetsAPI/GoogleSheetsPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ApplicationLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ApplicationLog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/test-classes/testrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/test-classes/testrunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/BankofAmerica.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/vcs.xml" beforeDir="false" />
@@ -97,6 +62,7 @@
       <change beforePath="$PROJECT_DIR$/../Midterm" beforeDir="false" afterPath="$PROJECT_DIR$/../Midterm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAutomation" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../asifBestbuy" beforeDir="false" afterPath="$PROJECT_DIR$/../asifBestbuy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml version.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -117,48 +83,50 @@
     <session id="986334851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="7" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="14" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.open.time.4" value="22" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="geckodriver" value="1" />
-          <entry key="java" value="129" />
+          <entry key="java" value="158" />
           <entry key="png" value="3" />
           <entry key="properties" value="2" />
-          <entry key="xml" value="27" />
+          <entry key="xml" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="2" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="129" />
+          <entry key="JAVA" value="158" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="2" />
-          <entry key="XML" value="27" />
+          <entry key="XML" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="39" />
-          <entry key="java" value="942" />
+          <entry key="java" value="1161" />
           <entry key="properties" value="12" />
-          <entry key="xml" value="278" />
+          <entry key="xml" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="942" />
+          <entry key="JAVA" value="1161" />
           <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="12" />
-          <entry key="XML" value="278" />
+          <entry key="XML" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -170,73 +138,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1110#1111#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/PopUpWindowTest.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-61">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="270">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/boaTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="120">
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -244,17 +189,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+            <state relative-caret-position="345">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -262,8 +225,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -284,11 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/SearchTest.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestDropDown.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestHome.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/TestLogIn.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/AutoLoans.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/BetterMoneyHabits.java" />
@@ -314,7 +272,6 @@
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/SecretProperties.properties" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dataConnection/JDBC.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java" />
@@ -328,19 +285,26 @@
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/DropDown.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/PopUpWindowTest.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/resources/testRunner.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/resources/bankofamericaTestRunner.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" />
-        <option value="$PROJECT_DIR$/BankofAmerica/pom.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/resources/boaTestRunner.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
       </list>
     </option>
   </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
-      <run-configuration type="TestNG" name="SearchTest.testSearchBox" />
+      <run-configuration type="TestNG" name="TestLogIn.logIn" />
+      <run-configuration type="TestNG" name="Rerun Failed Tests" />
     </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
@@ -353,17 +317,7 @@
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Bank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -371,10 +325,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1381" />
-    <option name="height" value="803" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -382,8 +335,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -401,6 +352,30 @@
               <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
               <item name="BankofAmerica" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BankofAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BankofAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="BankofAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -430,12 +405,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538015950751" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538188609376" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20261438" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
@@ -466,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SearchTest.testSearchBox">
+  <component name="RunManager" selected="TestNG.TestHome.testHome">
     <configuration name="SearchTest.testSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankofAmerica" />
       <extension name="coverage">
@@ -478,42 +455,6 @@
       <option name="PACKAGE_NAME" value="testHome" />
       <option name="MAIN_CLASS_NAME" value="testHome.SearchTest" />
       <option name="METHOD_NAME" value="testSearchBox" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAutoLoans.testSelectAutoApplyNow" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BankofAmerica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="optionListsTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="optionListsTest" />
-      <option name="MAIN_CLASS_NAME" value="optionListsTest.TestAutoLoans" />
-      <option name="METHOD_NAME" value="testSelectAutoApplyNow" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAutoLoans.testSelectAutoLoanRates" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BankofAmerica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="optionListsTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="optionListsTest" />
-      <option name="MAIN_CLASS_NAME" value="optionListsTest.TestAutoLoans" />
-      <option name="METHOD_NAME" value="testSelectAutoLoanRates" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -539,10 +480,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHome.testLanguage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankofAmerica" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestHome" />
+      <option name="METHOD_NAME" value="testLanguage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogIn.logIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankofAmerica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestLogIn" />
+      <option name="METHOD_NAME" value="logIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankofAmerica" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -550,19 +527,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG./Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" />
       <item itemvalue="TestNG.SearchTest.testSearchBox" />
+      <item itemvalue="TestNG.TestLogIn.logIn" />
+      <item itemvalue="TestNG.TestHome.testLanguage" />
       <item itemvalue="TestNG.TestHome.testHome" />
-      <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
-      <item itemvalue="TestNG.TestAutoLoans.testSelectAutoApplyNow" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchTest.testSearchBox" />
-        <item itemvalue="TestNG.TestAutoLoans.testSelectAutoApplyNow" />
-        <item itemvalue="TestNG.TestAutoLoans.testSelectAutoLoanRates" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.TestHome.testHome" />
+        <item itemvalue="TestNG.TestHome.testLanguage" />
+        <item itemvalue="TestNG.TestLogIn.logIn" />
+        <item itemvalue="TestNG.SearchTest.testSearchBox" />
+        <item itemvalue="TestNG./Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -580,35 +557,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLogIn - 2018.09.26 at 20h 56m 16s.xml">
-      <configuration name="TestLogIn" configurationId="TestNG" />
+    <history-entry file="_Users_asifchowdhury_Desktop_BankWeb_BankofAmerica_src_test_resources_bankofamericaTestRunner_xml - 2018.09.28 at 22h 29m 46s.xml">
+      <configuration name="/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_default_ - 2018.09.26 at 21h 53m 16s.xml">
-      <configuration name="&lt;default&gt;" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PopUpWindowTest_testPopUp - 2018.09.26 at 22h 06m 47s.xml">
-      <configuration name="PopUpWindowTest.testPopUp" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchTest_testSearchBox - 2018.09.26 at 22h 07m 02s.xml">
+    <history-entry file="SearchTest_testSearchBox - 2018.09.28 at 22h 30m 27s.xml">
       <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testHome - 2018.09.26 at 22h 09m 42s.xml">
+    <history-entry file="TestLogIn_logIn - 2018.09.28 at 22h 30m 42s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLogIn_logIn - 2018.09.28 at 22h 31m 12s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLogIn_logIn - 2018.09.28 at 22h 31m 20s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLogIn_logIn - 2018.09.28 at 22h 31m 23s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLogIn_logIn - 2018.09.28 at 22h 31m 29s.xml">
+      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testLanguage - 2018.09.28 at 22h 31m 45s.xml">
+      <configuration name="TestHome.testLanguage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testLanguage - 2018.09.28 at 22h 33m 44s.xml">
+      <configuration name="TestHome.testLanguage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome_testHome - 2018.09.28 at 22h 34m 04s.xml">
       <configuration name="TestHome.testHome" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_default_ - 2018.09.26 at 22h 10m 05s.xml">
-      <configuration name="&lt;default&gt;" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchTest_testSearchBox - 2018.09.26 at 22h 11m 14s.xml">
-      <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchTest_testSearchBox - 2018.09.26 at 22h 31m 08s.xml">
-      <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestAutoLoans_testSelectAutoLoanRates - 2018.09.26 at 22h 33m 01s.xml">
-      <configuration name="TestAutoLoans.testSelectAutoLoanRates" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestAutoLoans_testSelectAutoApplyNow - 2018.09.26 at 22h 34m 47s.xml">
-      <configuration name="TestAutoLoans.testSelectAutoApplyNow" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -621,10 +598,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1381" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.217958" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.18819444" />
       <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -633,7 +609,36 @@
       <window_info id="Favorites" order="6" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" visible="true" weight="0.37021858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.36856747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49891382" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49818972" weight="0.38387978" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50181025" side_tool="true" weight="0.3278496" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32823366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3294714" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.20694445" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.20902778" />
+      <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.37021858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -650,11 +655,15 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3294714" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.19188994" />
-    </layout>
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16527778" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/main/java/HomePage.java" />
@@ -703,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestInvesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestChecking.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -721,13 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestSavings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -769,27 +764,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java" />
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestBetterMoneyHabits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestDropDown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -825,83 +799,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/resources.properties" />
     <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/resources/testrunner.xml" />
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/PopUpWindowTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestInvesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/LogStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/ExtentReports.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestBetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -912,38 +857,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+        <state relative-caret-position="255">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -954,22 +871,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="16" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestSavings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        <state relative-caret-position="-3263">
+          <caret line="85" column="41" lean-forward="true" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#7884#7885#0" expanded="true" />
+            <element signature="e#7914#7915#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/boaTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="180">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1026,7 +1044,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BankofAmerica</last-edited>
+          <last-edited>Generic</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1039,7 +1057,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
+          <last-edited>Maven: org.checkerframework:checker-compat-qual:2.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1050,5 +1068,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

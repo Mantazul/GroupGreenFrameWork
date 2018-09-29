@@ -17,12 +17,12 @@ import static org.openqa.selenium.support.How.XPATH;
 
 public class GoogleSheetsPage extends CommonAPI  {
 
-    @FindBy(how = XPATH, using = ".//*[@id='fm-login-id']")
-    public static WebElement account;
-    @FindBy(how = ID, using = "fm-login-password")
-    public static WebElement password;
-    @FindBy(className = "notice-descript")
-    public static WebElement signInErrorMesage;
+    @FindBy(id="onlineId1")
+    public WebElement username;
+    @FindBy(id="passcode1")
+    public WebElement password;
+    @FindBy(id="signIn")
+    public WebElement signin;
     //ALI_GS_TC1
     /*public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
         // Build a new authorized API client service.
@@ -37,7 +37,6 @@ public class GoogleSheetsPage extends CommonAPI  {
             return values;
         }
     }
-
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
 
         List<List<Object>> col2Value = getSpreadSheetRecords(spreadsheetId, range);
@@ -56,4 +55,6 @@ public class GoogleSheetsPage extends CommonAPI  {
         }
         return actual;
     }*/
+
 }
+
