@@ -7,6 +7,8 @@ import reporting.TestLogger;
 
 public class LogIn extends CommonAPI {
 
+    LogIn objLoginPage;
+
     @FindBy(id="onlineId1")
     public WebElement username;
     @FindBy(id="passcode1")
@@ -43,5 +45,9 @@ public class LogIn extends CommonAPI {
     public void clickSignIn(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSignin().click();
+    }
+    public void loginWithInValidusernameandPassword(WebElement element1, WebElement element2){
+      element1.sendKeys();
+      element2.sendKeys();
     }
 }

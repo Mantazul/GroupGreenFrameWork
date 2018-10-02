@@ -88,7 +88,7 @@ public class CommonAPI {
     }
 
     public WebDriver driver = null;
-    public String browserstack_username= "Asif T Chowdhury";
+    public String browserstack_username= "";
     public String browserstack_accesskey = "";
     public String saucelabs_username = "";
     public String saucelabs_accesskey = "";
@@ -98,7 +98,7 @@ public class CommonAPI {
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false")String cloudEnvName,
                       @Optional("OS X") String os,@Optional("10") String os_version, @Optional("chrome-options") String browserName, @Optional("34")
                               String browserVersion, @Optional("http://www.bankofamerica.com") String url)throws IOException {
-        System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BnkOfAm/driver/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
         if(useCloudEnv==true){
             if(cloudEnvName.equalsIgnoreCase("browserstack")) {
                 getCloudDriver(cloudEnvName,browserstack_username,browserstack_accesskey,os,os_version, browserName, browserVersion);
@@ -126,9 +126,9 @@ public class CommonAPI {
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--disable-notifications");
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
             }
             driver = new ChromeDriver(options);
         }
@@ -206,7 +206,6 @@ public class CommonAPI {
     public void typeByCssNEnter(String locator, String value) {
         driver.findElement(By.cssSelector(locator)).sendKeys(value, Keys.ENTER);
     }
-
     public void typeByXpath(String locator, String value) {
         driver.findElement(By.xpath(locator)).sendKeys(value);
     }
@@ -279,6 +278,13 @@ public class CommonAPI {
         Select select = new Select(element);
         select.selectByVisibleText(value);
     }
+    public String getTextByWebElement(WebElement webElement){
+        String text = webElement.getText();
+        return text;
+    }
+    public void clearInputBox(WebElement webElement){
+        webElement.clear();
+    }
     public static void sleepFor(int sec)throws InterruptedException{
         Thread.sleep(sec * 2000);
     }
@@ -328,7 +334,6 @@ public class CommonAPI {
     public void getLinks(String locator){
         driver.findElement(By.linkText(locator)).findElement(By.tagName("a")).getText();
     }
-
     public static void captureScreenshot(WebDriver driver, String screenshotName){
         DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
         Date date = new Date();
@@ -383,7 +388,6 @@ public class CommonAPI {
         boolean value = driver1.findElement(By.cssSelector(locator)).isDisplayed();
         return value;
     }
-
     public void typeOnInputBox(String locator, String value) {
         try{
             driver.findElement(By.id(locator)).sendKeys(value, Keys.ENTER);
