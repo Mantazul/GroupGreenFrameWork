@@ -1,1 +1,7 @@
+pages\DatabaseData.class
+pages\Schedule.class
+pages\PlannedServiceChange.class
 pages\HomePage.class
+pages\GoogleSheetPage.class
+pages\HomePageMyMtaAlerts.class
+pages\TripsPlanner.class

@@ -25,7 +25,6 @@ public class Transperancy extends CommonAPI {
         actions1.moveToElement(element1).click();
 
     }
-
     public Transperancy(){}
     public Transperancy(WebDriver driver){this.driver=driver;
         PageFactory.initElements(driver,this);

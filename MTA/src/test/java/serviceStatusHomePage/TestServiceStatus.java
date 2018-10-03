@@ -15,6 +15,11 @@ public class TestServiceStatus extends HomePage {
         clickOnStatusServicesComponents();
         Assert.assertTrue(true);
     }
+    @Test
+    public void languageOptions(){
+        selectLanguage();
+        System.out.println(selectLanguage());
+    }
 
 
 

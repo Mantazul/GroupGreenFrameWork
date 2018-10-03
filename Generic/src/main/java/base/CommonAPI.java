@@ -2,6 +2,7 @@ package base;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
+import databases.ConnectToMongoDB;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.*;
@@ -35,7 +36,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class CommonAPI {
+public class CommonAPI extends ConnectToMongoDB {
     //ExtentReport
     public static ExtentReports extent;
     @BeforeSuite
@@ -335,7 +336,7 @@ public class CommonAPI {
     public void goBackToHomeWindow(){
         driver.switchTo().defaultContent();
     }
-    public void inputValueInTextBoxByWebElement(WebElement webElement, String value){
+    public void inpuValueInTextBoxByWebElement(WebElement webElement, String value){
         webElement.sendKeys(value + Keys.ENTER);
     }
     public String getTextByWebElement(WebElement webElement){

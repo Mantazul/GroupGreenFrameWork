@@ -12,6 +12,11 @@ import pages.PlannedServiceChange;
     }
     @Test
     public void TestPlan(){
-        getTextPlan();
+        getPlan();
+    }
+    @Test
+    public void textPlanTest(){
+        textPlan();
+
     }
 }

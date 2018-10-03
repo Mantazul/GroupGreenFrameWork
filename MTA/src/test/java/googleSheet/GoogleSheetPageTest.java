@@ -18,7 +18,6 @@ GoogleSheetPage googleSheetPage;
 public void initialize()
 {googleSheetPage= new GoogleSheetPage(driver);
 }
-
      @Test
      public void dd(){
          clickOnsignUp();
@@ -27,17 +26,12 @@ public void initialize()
     Username.isEnabled();
     Password.isEnabled();
      }
-    //driver.findElement(By.id("ctl00_ContentPlaceHolder1_txtLogin")).sendKeys("username", Keys.ENTER);
-       //  driver.findElement(By.name("ctl00$ContentPlaceHolder1$txtPass")).sendKeys("password",Keys.ENTER);
-    // }
-
     @Test
      public void testLogInByInvalidIdPassUsingGoogleSheet() throws InterruptedException, IOException {
         clickOnsignUp();
        sleepFor(3);
        //methodForSheet();
        //sleepFor(3);
-
         int i = 0;
         String spreadsheetId = "1SsicIWg2OfYIAF8RTjvoJaCJfrJreen76Mq4BGXIssI";
         String range = "Sheet1!A2:C";

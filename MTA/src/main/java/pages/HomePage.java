@@ -8,6 +8,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.util.LinkedList;
+import java.util.List;
+
 public class HomePage extends CommonAPI {
 
     @FindBy(css = "t tdiv selectedStatusTab")
@@ -24,10 +27,17 @@ public class HomePage extends CommonAPI {
         this.driver=driver;
         PageFactory.initElements(driver,this);
     }
-
-
     public void clickOnStatusServicesComponents() {
 
         driver.findElement(By.id("railTab")).click();
     }
-}
+    public List<String> selectLanguage(){
+        List<WebElement> languages=driver.findElements(By.xpath("//select[@onchange='doGTranslate(this);']"));
+            List<String>listOfLanguage=new LinkedList<String>();
+            for(WebElement it:languages){
+                listOfLanguage.add(it.getText());
+            }
+            return listOfLanguage;
+        }
+
+    }

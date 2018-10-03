@@ -1,11 +1,13 @@
 package databases;
 
+import base.CommonAPI;
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
+import org.openqa.selenium.WebElement;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,89 +17,39 @@ import java.util.List;
 public class ConnectToMongoDB {
 
     public static MongoDatabase mongoDatabase = null;
-
-    public static MongoDatabase connectToMongoDB() {
+    public static MongoDatabase connectToMongoDB(){
         MongoClient mongoClient = new MongoClient();
-        mongoDatabase = mongoClient.getDatabase("STUDENTS");
+        mongoDatabase = mongoClient.getDatabase("PNT");
         System.out.println("Database Connected");
-
         return mongoDatabase;
     }
-
-    public static String insertIntoToMongoDB(User user){
-        String profile = user.getStName();
+    public String insertIntoMongoDB(List<WebElement> elements,String tableName,String columnName){
         MongoDatabase mongoDatabase = connectToMongoDB();
-        MongoCollection<Document> collection = mongoDatabase.getCollection("profile");
-        Document document = new Document().append("stName",user.getStName()).append("stID", user.getStID()).
-                append("stDOB",user.getStDOB());
-        collection.insertOne(document);
-        return profile + " has been registered";
-    }
-
-    public String insertIntoMongoDB(List<Student> student,String profileName){
-        MongoDatabase mongoDatabase = connectToMongoDB();
-        MongoCollection myCollection = mongoDatabase.getCollection(profileName);
+        MongoCollection myCollection = mongoDatabase.getCollection(tableName);
         boolean collectionExists = mongoDatabase.listCollectionNames()
-                .into(new ArrayList<String>()).contains(profileName);
+                .into(new ArrayList<String>()).contains(tableName);
         if(collectionExists) {
             myCollection.drop();
         }
-        for(int i=0; i<student.size(); i++){
-            MongoCollection<Document> collection = mongoDatabase.getCollection(profileName);
-            Document document = new Document().append("firstName", student.get(i).getFirstName()).append("lastName",
-                    student.get(i).getLastName()).append("score",student.get(i).getScore()).append("id", student.get(i).getId());
+        for(int i=0; i<elements.size(); i++){
+            MongoCollection<Document> collection = mongoDatabase.getCollection(tableName);
+
+            Document document = new Document().append(columnName, elements.get(i).getText());
             collection.insertOne(document);
         }
-        return  "Student has been registered";
+        return  "Language has been registered";
     }
-
-    public static List<User> readUserProfileFromMongoDB(){
-        List<User> list = new ArrayList<User>();
-        User user = new User();
-        MongoDatabase mongoDatabase = connectToMongoDB();
-        MongoCollection<Document> collection = mongoDatabase.getCollection("profile");
-        BasicDBObject basicDBObject = new BasicDBObject();
-        FindIterable<Document> iterable = collection.find(basicDBObject);
-        for(Document doc:iterable){
-            String stName = (String)doc.get("stName");
-            user.setStName(stName);
-            String stID = (String)doc.get("stID");
-            user.setStID(stID);
-            String stDOB = (String)doc.get("stDOB");
-            user.setStID(stDOB);
-            user = new User(stName,stID,stDOB);
-            list.add(user);
-        }
-        return list;
-    }
-
-    public List<Student> readStudentListFromMongoDB(String profileName){
-        List<Student> list = new ArrayList<Student>();
-        Student student = new Student();
+    public List<String> readLanguageListFromMongoDB(String profileName,String columnName){
+        List<String> list = new ArrayList<String>();
         MongoDatabase mongoDatabase = connectToMongoDB();
         MongoCollection<Document> collection = mongoDatabase.getCollection(profileName);
         BasicDBObject basicDBObject = new BasicDBObject();
         FindIterable<Document> iterable = collection.find(basicDBObject);
-        for(Document doc:iterable){
-            String firstName = (String)doc.get("firstName");
-            student.setFirstName(firstName);
-            String lastName = (String)doc.get("lastName");
-            student.setLastName(lastName);
-            String score = (String)doc.get("score");
-            student.setScore(score);
-            String id = (String) doc.get("id");
-            student.setId(id);
-            student = new Student(student.getFirstName(),student.getLastName(),student.getScore(),student.getId());
-            list.add(student);
+        for(Document doc:iterable) {
+            int idInt = 0;
+            String language = (String) doc.get(columnName);
+            list.add(language);
         }
-        return list;
-    }
-
-    public static void main(String[] args){
-        insertIntoToMongoDB(new User("Fahim Ahmed", "3713","07-1988"));
-        List<User> user = readUserProfileFromMongoDB();
-        for(User person:user){
-            System.out.println(person.getStName()+ " "+ person.getStID());
-        }
-    }
-}
+                return list;
+                }
+                }

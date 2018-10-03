@@ -9,15 +9,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import static base.CommonAPI.sleepFor;
 import static googleAPIs.GoogleSheetReader.getSheetsService;
-import static org.openqa.selenium.support.How.ID;
-import static org.openqa.selenium.support.How.XPATH;
 
 public class GoogleSheetPage extends CommonAPI {
    @FindBy(className = "ctl00$ContentPlaceHolder1$txtLogin")
@@ -68,8 +63,8 @@ public class GoogleSheetPage extends CommonAPI {
         List<String> actual = new ArrayList<>();
         for (List row : col2Value) {
             sleepFor(1);
-            inputValueInTextBoxByWebElement(Username, row.get(1).toString());
-            inputValueInTextBoxByWebElement(Password, row.get(2).toString());
+            inpuValueInTextBoxByWebElement(Username, row.get(1).toString());
+            inpuValueInTextBoxByWebElement(Password, row.get(2).toString());
             sleepFor(1);
             //actual.add(getCurrentPageTitle());
            actual.add(getTextByWebElement(signInErrorMesage));
