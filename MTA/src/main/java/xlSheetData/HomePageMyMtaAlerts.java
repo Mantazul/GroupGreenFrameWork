@@ -1,4 +1,4 @@
-package pages;
+package xlSheetData;
 
 import base.CommonAPI;
 import datProviderUtilityWIthXlsReader.XlsDataReaderUtil;

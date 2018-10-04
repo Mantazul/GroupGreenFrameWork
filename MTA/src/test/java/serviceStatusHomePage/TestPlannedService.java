@@ -17,6 +17,5 @@ import pages.PlannedServiceChange;
     @Test
     public void textPlanTest(){
         textPlan();
-
     }
 }

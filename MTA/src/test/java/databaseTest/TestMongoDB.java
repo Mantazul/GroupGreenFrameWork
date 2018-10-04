@@ -19,6 +19,7 @@ public class TestMongoDB extends DatabaseData {
     }
     @Test
     public void insertLanguageListTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         inserDataIntoDatabase();
        }
        @Test

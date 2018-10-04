@@ -31,6 +31,15 @@ public class HomePage extends CommonAPI {
 
         driver.findElement(By.id("railTab")).click();
     }
+    public void clickOnSubWay(){
+        subway.click();
+    }
+    public void cickOnBus(){
+        bus.click();
+    }
+    public void clickOnBridge(){
+        bridgestunnels.click();
+    }
     public List<String> selectLanguage(){
         List<WebElement> languages=driver.findElements(By.xpath("//select[@onchange='doGTranslate(this);']"));
             List<String>listOfLanguage=new LinkedList<String>();
@@ -39,5 +48,6 @@ public class HomePage extends CommonAPI {
             }
             return listOfLanguage;
         }
+
 
     }

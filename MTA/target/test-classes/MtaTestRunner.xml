@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Amazon API Automation Script " parallel="false">
+<suite name="MTA API Automation Script " parallel="false">
 
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
@@ -14,7 +14,14 @@
     <test name = "Search Test">
         <classes>
             <class name="serviceStatusHomePage.TestServiceStatus"/>
+            <class name="serviceStatusHomePage.TestSpecialServiceNotice"/>
+            <class name="testXlSheet.TestHomePageMyMtaAlert"/>
+            <class name="serviceStatusHomePage.TestPlannedService"/>
+            <class name="serviceStatusHomePage.TestTripPlanner"/>
             <class name="googleSheet.GoogleSheetPageTest"/>
+            <class name="testFareAndTolls.ScheduleTest"/>
+            <class name="Transperancy.TestTransperancy"/>
+            <class name="databaseTest.TestMongoDB"/>
         </classes>
     </test>
 

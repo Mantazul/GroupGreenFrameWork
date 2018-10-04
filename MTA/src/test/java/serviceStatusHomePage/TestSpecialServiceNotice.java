@@ -3,35 +3,30 @@ package serviceStatusHomePage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.HomePage;
+import pages.SpecialServiceNotice;
 import reporting.TestLogger;
 
-public class TestServiceStatus extends HomePage {
-    HomePage servicestatus;
+public class TestSpecialServiceNotice extends SpecialServiceNotice {
+    SpecialServiceNotice serviceNotice;
     @BeforeMethod
-    public void initialization(){servicestatus=new HomePage(driver);}
-
-    @Test(priority = 1,enabled = true)
-    public void checkServiceStatusComponents(){
-        clickOnStatusServicesComponents();
+    public void init(){
+      serviceNotice=new SpecialServiceNotice(driver);
+    }
+    @Test
+    public void st238Test(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOn238St();
+    }
+    @Test
+    public void iFrameTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        switchToFrame();
         Assert.assertTrue(true);
     }
     @Test
-    public void languageOptions(){
+    public void imageSizeTest(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        selectLanguage();
+        getImageInfo();
     }
-    @Test
-    public void checkBusTab(){
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        cickOnBus();
-    }
-    @Test
-    public void checkBridge(){
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnBridge();
-    }
-
-
 
 }

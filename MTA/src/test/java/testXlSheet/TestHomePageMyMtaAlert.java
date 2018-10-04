@@ -1,16 +1,11 @@
-package serviceStatusHomePage;
+package testXlSheet;
 
-import datProviderUtilityWIthXlsReader.XlsDataReaderUtil;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import pages.HomePageMyMtaAlerts;
+import xlSheetData.HomePageMyMtaAlerts;
 import reporting.TestLogger;
-
-import java.util.ArrayList;
-import java.util.Iterator;
 
 public class TestHomePageMyMtaAlert extends HomePageMyMtaAlerts{
 
@@ -20,15 +15,16 @@ public class TestHomePageMyMtaAlert extends HomePageMyMtaAlerts{
         myMtaAlerts=new HomePageMyMtaAlerts(driver);}
         @Test
     public void testMymtaHomePage(){
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnsignUp();
         }
         @Test
         public void test(){
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnsignUp();
         driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtLogin\"]")).sendKeys("fahim", Keys.ENTER);
         }
-
-    @Test(dataProvider = "supplyData")
+        @Test(dataProvider = "supplyData")
     public void signIn(String Username,String Password) throws InterruptedException {
         clickOnsignUp();
         signUpDataForXls(Username, Password);
