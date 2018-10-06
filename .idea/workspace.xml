@@ -3,27 +3,53 @@
   <component name="ChangeListManager">
     <list default="true" id="86dd1d3d-56de-4707-9266-f0f4366c99bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/.credentials/sheets-googleapis/StoredCredential" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/.credentials/sheets-googleapis/StoredCredential" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/HomePageMyMtaAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/MtaInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/MtaInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/databaseTest/TestMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/databaseTest/TestMongoDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestHomePageMyMtaAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/testMtaInfo/TestMtaInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/testMtaInfo/TestMtaInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/keywordDriven/InputFromXls.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/keywordDriven/InputFromXls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/DatabaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/DatabaseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/FeatureForKeyWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/FeatureForKeyWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/GoogleSheetPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/GoogleSheetPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/HomePageMyMtaAlerts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/MtaInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/MtaInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/PlannedServiceChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/PlannedServiceChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/Schedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/Schedule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/SpecialServiceNotice.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/SpecialServiceNotice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/Transperancy.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/Transperancy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/pages/TripsPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/pages/TripsPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/classes/xlSheetData/HomePageMyMtaAlerts.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/classes/xlSheetData/HomePageMyMtaAlerts.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/MtaTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/MtaTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/Transperancy/TestTransperancy.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/Transperancy/TestTransperancy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/databaseTest/TestMongoDB$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/databaseTest/TestMongoDB$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/databaseTest/TestMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/databaseTest/TestMongoDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestHomePageMyMtaAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/googleSheet/GoogleSheetPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/googleSheet/GoogleSheetPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/kewwordTest/TestFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/kewwordTest/TestFeatures.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestPlannedService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestPlannedService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestServiceStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestServiceStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestTripPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/serviceStatusHomePage/TestTripPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/testMtaInfo/TestMtaInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/testMtaInfo/TestMtaInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/MTA/target/test-classes/testXlSheet/TestHomePageMyMtaAlert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,10 +70,11 @@
           <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,37 +86,37 @@
           <entry key="MongoServer/PNT/profile" value="5" />
           <entry key="StoredCredential" value="1" />
           <entry key="class" value="37" />
-          <entry key="html" value="1" />
-          <entry key="java" value="149" />
+          <entry key="html" value="2" />
+          <entry key="java" value="197" />
           <entry key="json" value="3" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="23" />
+          <entry key="xml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="37" />
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="149" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="197" />
           <entry key="JSON" value="3" />
           <entry key="MONGO" value="32" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="23" />
+          <entry key="XML" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="java" value="7524" />
-          <entry key="xml" value="142" />
+          <entry key="java" value="10306" />
+          <entry key="xml" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7524" />
+          <entry key="JAVA" value="10306" />
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="XML" value="142" />
+          <entry key="XML" value="147" />
         </counts>
       </usages-collector>
     </session>
@@ -99,20 +126,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="338" column="35" selection-start-line="338" selection-start-column="35" selection-end-line="338" selection-end-column="35" />
+            <state relative-caret-position="142">
+              <caret line="310" column="12" selection-start-line="310" selection-start-column="12" selection-end-line="310" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3175#3176#0" expanded="true" />
+                <element signature="e#3205#3206#0" expanded="true" />
+                <element signature="e#7808#7809#0" expanded="true" />
+                <element signature="e#7837#7838#0" expanded="true" />
+                <element signature="e#10654#10655#0" expanded="true" />
+                <element signature="e#10694#10695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java">
+        <entry file="file://$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+              <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,64 +163,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java">
+        <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="29" column="93" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="93" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1094#1095#0" expanded="true" />
-                <element signature="e#1067#1068#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1350#1351#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="277">
+              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java">
+        <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="239">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -202,48 +199,50 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestGoogleSheetPage.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/GoogleSheetPageTest.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/secret.properties.properties" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/sectret.properties" />
         <option value="$PROJECT_DIR$/Generic/src/secret.properties" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java" />
         <option value="$PROJECT_DIR$/MTA/src/main/java/pages/HomePageMyMtaAlerts.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/MTA/src/main/java/pages/FareAndTolls.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/testFareAndTolls/FareAndTollsTest.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/testFareAndTolls/ScheduleTest.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/MTA/pom.xml" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java" />
         <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/RestAPI/src/test/java/TestWeatherApi/WearherAPI.java" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/databaseTest/TestMongoDB.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestHomePageMyMtaAlert.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestSpecialServiceNotice.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/testBusiness/TestDoingBusiness.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/DoingBusiness.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java" />
         <option value="$PROJECT_DIR$/MTA/src/main/java/pages/MtaInfo.java" />
         <option value="$PROJECT_DIR$/MTA/src/test/java/testMtaInfo/TestMtaInfo.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java" />
-        <option value="$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java" />
-        <option value="$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java" />
+        <option value="$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java" />
       </list>
     </option>
   </component>
@@ -299,75 +298,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datProviderUtilityWIthXlsReader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -379,18 +315,6 @@
               <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
               <item name="MTA" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="MTA" type="462c0819:PsiDirectoryNode" />
-              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="MTA" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -427,15 +351,6 @@
               <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
               <item name="MTA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xlSheetData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="MTA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -453,7 +368,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="databaseTest" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceStatusHomePage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -462,24 +377,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="googleSheet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="MTA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kewwordTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="MTA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testMtaInfo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -523,41 +421,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jsonServer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestWeatherApi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="GreenGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="sunjce_provider.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538622555433" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538854968670" />
     <property name="last_opened_file_path" value="E:/July2018MobileAutomation" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20261438" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -583,18 +459,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestFeatures.testSignInKeyWord">
-    <configuration name="TestFeatures.testSignInByKeyWord" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestTripPlanner.testSelectHoverItem">
+    <configuration name="TestTripPlanner.testAdvance" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kewwordTest.*" />
+          <option name="PATTERN" value="serviceStatusHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kewwordTest" />
-      <option name="MAIN_CLASS_NAME" value="kewwordTest.TestFeatures" />
-      <option name="METHOD_NAME" value="testSignInByKeyWord" />
+      <option name="PACKAGE_NAME" value="serviceStatusHomePage" />
+      <option name="MAIN_CLASS_NAME" value="serviceStatusHomePage.TestTripPlanner" />
+      <option name="METHOD_NAME" value="testAdvance" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -602,17 +478,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFeatures.testSignInKeyWord" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTripPlanner.testArrival" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kewwordTest.*" />
+          <option name="PATTERN" value="serviceStatusHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kewwordTest" />
-      <option name="MAIN_CLASS_NAME" value="kewwordTest.TestFeatures" />
-      <option name="METHOD_NAME" value="testSignInKeyWord" />
+      <option name="PACKAGE_NAME" value="serviceStatusHomePage" />
+      <option name="MAIN_CLASS_NAME" value="serviceStatusHomePage.TestTripPlanner" />
+      <option name="METHOD_NAME" value="testArrival" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -620,17 +496,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFeatures.testSignInWithInvalidIdAndPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTripPlanner.testHoveringTripPlanner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kewwordTest.*" />
+          <option name="PATTERN" value="serviceStatusHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kewwordTest" />
-      <option name="MAIN_CLASS_NAME" value="kewwordTest.TestFeatures" />
-      <option name="METHOD_NAME" value="testSignInWithInvalidIdAndPassword" />
+      <option name="PACKAGE_NAME" value="serviceStatusHomePage" />
+      <option name="MAIN_CLASS_NAME" value="serviceStatusHomePage.TestTripPlanner" />
+      <option name="METHOD_NAME" value="testHoveringTripPlanner" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -638,17 +514,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFeatures.testSignInithvalidIdAndPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTripPlanner.testSelectHoverItem" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kewwordTest.*" />
+          <option name="PATTERN" value="serviceStatusHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kewwordTest" />
-      <option name="MAIN_CLASS_NAME" value="kewwordTest.TestFeatures" />
-      <option name="METHOD_NAME" value="testSignInithvalidIdAndPassword" />
+      <option name="PACKAGE_NAME" value="serviceStatusHomePage" />
+      <option name="MAIN_CLASS_NAME" value="serviceStatusHomePage.TestTripPlanner" />
+      <option name="METHOD_NAME" value="testSelectHoverItem" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -656,17 +532,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMongoDB.readDataTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTripPlanner.testTripsTitle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MTA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="databaseTest.*" />
+          <option name="PATTERN" value="serviceStatusHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="databaseTest" />
-      <option name="MAIN_CLASS_NAME" value="databaseTest.TestMongoDB" />
-      <option name="METHOD_NAME" value="readDataTest" />
+      <option name="PACKAGE_NAME" value="serviceStatusHomePage" />
+      <option name="MAIN_CLASS_NAME" value="serviceStatusHomePage.TestTripPlanner" />
+      <option name="METHOD_NAME" value="testTripsTitle" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -675,19 +551,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TestMongoDB.readDataTest" />
-      <item itemvalue="TestNG.TestFeatures.testSignInWithInvalidIdAndPassword" />
-      <item itemvalue="TestNG.TestFeatures.testSignInithvalidIdAndPassword" />
-      <item itemvalue="TestNG.TestFeatures.testSignInByKeyWord" />
-      <item itemvalue="TestNG.TestFeatures.testSignInKeyWord" />
+      <item itemvalue="TestNG.TestTripPlanner.testArrival" />
+      <item itemvalue="TestNG.TestTripPlanner.testAdvance" />
+      <item itemvalue="TestNG.TestTripPlanner.testTripsTitle" />
+      <item itemvalue="TestNG.TestTripPlanner.testHoveringTripPlanner" />
+      <item itemvalue="TestNG.TestTripPlanner.testSelectHoverItem" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestFeatures.testSignInKeyWord" />
-        <item itemvalue="TestNG.TestFeatures.testSignInByKeyWord" />
-        <item itemvalue="TestNG.TestFeatures.testSignInithvalidIdAndPassword" />
-        <item itemvalue="TestNG.TestFeatures.testSignInWithInvalidIdAndPassword" />
-        <item itemvalue="TestNG.TestMongoDB.readDataTest" />
+        <item itemvalue="TestNG.TestTripPlanner.testSelectHoverItem" />
+        <item itemvalue="TestNG.TestTripPlanner.testHoveringTripPlanner" />
+        <item itemvalue="TestNG.TestTripPlanner.testTripsTitle" />
+        <item itemvalue="TestNG.TestTripPlanner.testAdvance" />
+        <item itemvalue="TestNG.TestTripPlanner.testArrival" />
       </list>
     </recent_temporary>
   </component>
@@ -705,52 +581,52 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 18h 44m 33s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testTripsTitle - 2018.10.06 at 14h 10m 01s.xml">
+      <configuration name="TestTripPlanner.testTripsTitle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 18h 45m 07s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testTripsTitle - 2018.10.06 at 14h 22m 31s.xml">
+      <configuration name="TestTripPlanner.testTripsTitle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 18h 47m 17s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testTripsTitle - 2018.10.06 at 14h 24m 47s.xml">
+      <configuration name="TestTripPlanner.testTripsTitle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 18h 48m 09s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testTripsTitle - 2018.10.06 at 14h 25m 18s.xml">
+      <configuration name="TestTripPlanner.testTripsTitle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 18h 48m 46s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testTripsTitle - 2018.10.06 at 14h 26m 02s.xml">
+      <configuration name="TestTripPlanner.testTripsTitle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 21h 44m 16s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testHoveringTripPlanner - 2018.10.06 at 14h 35m 35s.xml">
+      <configuration name="TestTripPlanner.testHoveringTripPlanner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInithvalidIdAndPassword - 2018.10.03 at 21h 53m 25s.xml">
-      <configuration name="TestFeatures.testSignInithvalidIdAndPassword" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testHoveringTripPlanner - 2018.10.06 at 14h 36m 53s.xml">
+      <configuration name="TestTripPlanner.testHoveringTripPlanner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInByKeyWord - 2018.10.03 at 22h 57m 03s.xml">
-      <configuration name="TestFeatures.testSignInByKeyWord" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testHoveringTripPlanner - 2018.10.06 at 14h 37m 30s.xml">
+      <configuration name="TestTripPlanner.testHoveringTripPlanner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInByKeyWord - 2018.10.03 at 22h 57m 40s.xml">
-      <configuration name="TestFeatures.testSignInByKeyWord" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testHoveringTripPlanner - 2018.10.06 at 14h 38m 19s.xml">
+      <configuration name="TestTripPlanner.testHoveringTripPlanner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFeatures_testSignInByKeyWord - 2018.10.03 at 22h 58m 33s.xml">
-      <configuration name="TestFeatures.testSignInByKeyWord" configurationId="TestNG" />
+    <history-entry file="TestTripPlanner_testHoveringTripPlanner - 2018.10.06 at 14h 41m 10s.xml">
+      <configuration name="TestTripPlanner.testHoveringTripPlanner" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.20268457" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" sideWeight="0.50141644" side_tool="true" weight="0.20268457" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.5679887" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.4362606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -769,7 +645,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32910448" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -778,15 +654,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.5679887" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.4362606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.46033993" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32763976" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -806,44 +682,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1841">
-          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="490" selection-start-line="490" selection-end-line="490" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -862,10 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,33 +748,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/TestWeatherApi/WearherAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,158 +762,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="30" column="134" selection-start-line="30" selection-start-column="134" selection-end-line="30" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testFareAndTolls/ScheduleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="15" column="134" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="134" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestSpecialServiceNotice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="16" column="134" selection-start-line="16" selection-start-column="134" selection-end-line="16" selection-end-column="134" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/Extent-Report/ExtentReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1539" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testMtaInfo/TestMtaInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/MtaInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1118,16 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1135,29 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-543">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/databaseTest/TestMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="338" column="35" selection-start-line="338" selection-start-column="35" selection-end-line="338" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1168,70 +800,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="29" column="93" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/MTA/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/FeatureForKeyWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="533">
+          <caret line="39" column="138" selection-start-line="39" selection-start-column="138" selection-end-line="39" selection-end-column="138" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java">
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/Schedule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="101">
+          <caret line="21" column="134" selection-start-line="21" selection-start-column="134" selection-end-line="21" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/databaseTest/TestMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1240,11 +835,268 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MTA/src/test/java/kewwordTest/TestFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="439">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/keywordDriven/InputFromXls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestSpecialServiceNotice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="16" column="134" selection-start-line="16" selection-start-column="134" selection-end-line="16" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testBusiness/TestDoingBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/DoingBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/PlannedServiceChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/DatabaseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testXlSheet/TestHomePageMyMtaAlert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/xlSheetData/HomePageMyMtaAlerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/GoogleSheetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/googleSheet/GoogleSheetPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/SpecialServiceNotice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/Transperancy/TestTransperancy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/TestMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/MtaInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/testMtaInfo/TestMtaInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/Transperancy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="43" column="134" selection-start-line="43" selection-start-column="134" selection-end-line="43" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/resources/MtaTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestServiceStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="56" column="62" lean-forward="true" selection-start-line="56" selection-start-column="62" selection-end-line="56" selection-end-column="62" />
+          <folding>
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestPlannedService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="310" column="12" selection-start-line="310" selection-start-column="12" selection-end-line="310" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3175#3176#0" expanded="true" />
+            <element signature="e#3205#3206#0" expanded="true" />
+            <element signature="e#7808#7809#0" expanded="true" />
+            <element signature="e#7837#7838#0" expanded="true" />
+            <element signature="e#10654#10655#0" expanded="true" />
+            <element signature="e#10694#10695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/test/java/serviceStatusHomePage/TestTripPlanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MTA/src/main/java/pages/TripsPlanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1152,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>RestAPI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

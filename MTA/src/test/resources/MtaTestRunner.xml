@@ -22,6 +22,7 @@
             <class name="testFareAndTolls.ScheduleTest"/>
             <class name="Transperancy.TestTransperancy"/>
             <class name="databaseTest.TestMongoDB"/>
+            <class name="kewwordTest.TestFeatures"/>
         </classes>
     </test>
 

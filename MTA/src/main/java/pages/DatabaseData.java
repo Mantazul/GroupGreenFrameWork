@@ -16,6 +16,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import reporting.TestLogger;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -26,11 +27,12 @@ import static databases.ConnectToMongoDB.connectToMongoDB;
 public class DatabaseData extends CommonAPI {
 
     public void inserDataIntoDatabase(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
     List<WebElement> language =driver.findElements(By.xpath("//select[@onchange='doGTranslate(this);']"));
     insertIntoMongoDB(language,"LanguageList1","Language");
     }
     public void readData(){
-       // List<WebElement> languages2=driver.findElements(By.xpath("//select[@onchange='doGTranslate(this);']"));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<String> languages2=readLanguageListFromMongoDB("LanguageList1","Language");
         for(String element:languages2){
             System.out.println(element);

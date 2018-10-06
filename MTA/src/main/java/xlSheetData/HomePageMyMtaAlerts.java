@@ -9,25 +9,23 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.DataProvider;
+import reporting.TestLogger;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
 public class HomePageMyMtaAlerts extends CommonAPI {
 
-    @FindBy(xpath = "//*[@id=\"block-block-1426\"]/div/div/ul[2]/li/a")
-    public WebElement SignUp;
-
-
     public void clickOnsignUp(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         driver.findElement(By.xpath("//*[@id=\"block-block-1426\"]/div/div/ul[2]/li/a")).click();
     }
-    public void signUpDataForXls(String Username,String Password) throws InterruptedException {
-        //driver.findElement(By.xpath("//*[@id=\"block-block-1426\"]/div/div/ul[2]/li/a")).click();
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtLogin\"]")).sendKeys(Username);
+    public void signUpDataForXls(String username,String password) throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        driver.findElement(By.xpath("//input[@id='ctl00_ContentPlaceHolder1_txtLogin']")).sendKeys(username);
         sleepFor(2);
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtPass\"]")).sendKeys(Password);
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_btnSubmitLogin\"]")).click();
+        driver.findElement(By.xpath("//input[@id='ctl00_ContentPlaceHolder1_txtPass']")).sendKeys(password);
+        driver.findElement(By.xpath("//input[@id='ctl00_ContentPlaceHolder1_btnSubmitLogin']")).click();
        // driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_lblLoginMsg\"]")).getText();
     }
     public HomePageMyMtaAlerts(){}

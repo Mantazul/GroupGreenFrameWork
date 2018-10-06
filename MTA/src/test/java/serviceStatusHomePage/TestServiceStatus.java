@@ -24,12 +24,27 @@ public class TestServiceStatus extends HomePage {
     @Test
     public void checkBusTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        cickOnBus();
+        clickOnBus();
     }
     @Test
     public void checkBridge(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnBridge();
+    }
+    @Test
+    public void testInputBox(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        searchInput();
+    }
+    @Test
+    public void clickOnSubwayTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnSubWay();
+    }
+    @Test
+    public void checkSearchButton() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        searchButton();
     }
 
 

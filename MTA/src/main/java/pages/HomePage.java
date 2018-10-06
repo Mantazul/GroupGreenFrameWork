@@ -7,20 +7,19 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
 
 import java.util.LinkedList;
 import java.util.List;
 
 public class HomePage extends CommonAPI {
 
-    @FindBy(css = "t tdiv selectedStatusTab")
-    public WebElement subway;
-    @FindBy(id = "railTab")
-    public WebElement rail;
     @FindBy(id = "busTab")
     public WebElement bus;
-    @FindBy(id = "bntTab")
+    @FindBy(xpath= "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[4]")
     public WebElement bridgestunnels;
+    @FindBy(xpath = "//input[@id='searchinputbox']")
+    public static WebElement inputBox;
 
     public HomePage(){}
     public HomePage (WebDriver driver){
@@ -28,25 +27,38 @@ public class HomePage extends CommonAPI {
         PageFactory.initElements(driver,this);
     }
     public void clickOnStatusServicesComponents() {
-
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         driver.findElement(By.id("railTab")).click();
     }
     public void clickOnSubWay(){
-        subway.click();
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        driver.findElement(By.className("t tdiv selectedStatusTab")).click();
     }
-    public void cickOnBus(){
-        bus.click();
+    public void clickOnBus(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        driver.findElement(By.xpath("//li[@id='busTab']")).click();
+    }
+    public void searchInput(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        driver.findElement(By.xpath("//input[@id='edit-search-keys']")).sendKeys("Schedules");
     }
     public void clickOnBridge(){
-        bridgestunnels.click();
+        driver.findElement(By.xpath("//li[@id='bntTab']")).click();
     }
     public List<String> selectLanguage(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<WebElement> languages=driver.findElements(By.xpath("//select[@onchange='doGTranslate(this);']"));
             List<String>listOfLanguage=new LinkedList<String>();
             for(WebElement it:languages){
                 listOfLanguage.add(it.getText());
             }
             return listOfLanguage;
+        }
+        public void searchButton() throws InterruptedException {
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+            searchInput();
+            driver.findElement(By.className("form-submit")).click();
+            sleepFor(2);
         }
 
 

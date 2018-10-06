@@ -3,46 +3,37 @@ package pages;
 import base.CommonAPI;
 import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.model.ValueRange;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import static googleAPIs.GoogleSheetReader.getSheetsService;
 
 public class GoogleSheetPage extends CommonAPI {
-   @FindBy(className = "ctl00$ContentPlaceHolder1$txtLogin")
-          public WebElement Username;
-   @FindBy(xpath = "//*[@id=\"ctl00_ContentPlaceHolder1_txtPass\"]")
-           public WebElement Password;
-      // WebElement Username= driver.findElement(By.cssSelector("#ctl00_ContentPlaceHolder1_txtLogin"));
-       // WebElement Password=driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtPass\"]"));
-       // WebElement Login=driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_btnSubmitLogin\"]"));
-    @FindBy(xpath = "//*[@id=\"ctl00_ContentPlaceHolder1_lblLoginMsg\"]")
-    public WebElement signInErrorMesage;
-    //WebElement signInErrorMesage=driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_lblLoginMsg\"]"));
-    //}
-    //ALI_GS_TC1
-    public  GoogleSheetPage(){}
+    @FindBy(xpath = "//input[@id='ctl00_ContentPlaceHolder1_txtLogin']")
+    public static WebElement username;
+    @FindBy(xpath = "//input[@id='ctl00_ContentPlaceHolder1_txtPass']")
+    public static WebElement password;
+
+    @FindBy(xpath = "//input[@id='ctl00_ContentPlaceHolder1_btnSubmitLogin']")
+    public static WebElement login;
+    @FindBy(xpath = "//span[@id='ctl00_ContentPlaceHolder1_lblLoginMsg']")
+    public static WebElement ErrorMessage;
+
+
+    public GoogleSheetPage(){}
     public GoogleSheetPage(WebDriver driver){this.driver=driver;
-    PageFactory.initElements(driver,this);
-    }
-    public void clickOnsignUp(){
+    PageFactory.initElements(driver,this);}
+    public void signUp(){
         driver.findElement(By.xpath("//*[@id=\"block-block-1426\"]/div/div/ul[2]/li/a")).click();
     }
-    public void signUpDataForXls() throws InterruptedException {
-        //driver.findElement(By.xpath("//*[@id=\"block-block-1426\"]/div/div/ul[2]/li/a")).click();
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtLogin\"]")).sendKeys("Username",Keys.ENTER);
-        sleepFor(2);
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_txtPass\"]")).sendKeys("Password",Keys.ENTER);
-        driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_btnSubmitLogin\"]")).click();
-        // driver.findElement(By.xpath("//*[@id=\"ctl00_ContentPlaceHolder1_lblLoginMsg\"]")).getText();
-    }
+
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         // Build a new authorized API client service.
         Sheets service = getSheetsService();
         ValueRange response = service.spreadsheets().values()
@@ -58,21 +49,25 @@ public class GoogleSheetPage extends CommonAPI {
 
     // //ALI_GS_TC1 LogIn by using Google Sheet sheet data
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
-
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
         List<List<Object>> col2Value = getSpreadSheetRecords(spreadsheetId, range);
         List<String> actual = new ArrayList<>();
         for (List row : col2Value) {
             sleepFor(1);
-            inpuValueInTextBoxByWebElement(Username, row.get(1).toString());
-            inpuValueInTextBoxByWebElement(Password, row.get(2).toString());
-            sleepFor(1);
+            inpuValueInTextBoxByWebElement(username, row.get(1).toString());
+            inpuValueInTextBoxByWebElement(password, row.get(2).toString());
+            login.click();
+            sleepFor(2);
             //actual.add(getCurrentPageTitle());
-           actual.add(getTextByWebElement(signInErrorMesage));
-               System.out.println(getTextByWebElement(signInErrorMesage));
-            clearInputBox(Username);
-            clearInputBox(Password);
+           actual.add(getTextByWebElement(ErrorMessage));
+              System.out.println(getTextByWebElement(ErrorMessage));
+            sleepFor(1);
+            clearInputBox(username);
+            clearInputBox(password);
             sleepFor(1);
         }
         return actual;
+        }
     }
-}
+

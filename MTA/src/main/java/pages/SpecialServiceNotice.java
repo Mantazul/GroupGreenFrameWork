@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
 
 public class SpecialServiceNotice extends CommonAPI {
     @FindBy(xpath = "//a[contains(text(),'238 St')]")
@@ -19,16 +20,16 @@ public class SpecialServiceNotice extends CommonAPI {
         PageFactory.initElements(driver,this);
     }
     public void clickOn238St(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         st238.click();
     }
     public void switchToFrame(){
-        //driver.switchTo().activeElement().getText();
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         st238.click();
-        //iframeHandle(spanFrame);
         spanFrame.isDisplayed();
         System.out.println(spanFrame);
     }
-    public void getImageInfo(){
+    public void getImageInfo(){ TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         st238.click();
         image.getSize();
         System.out.println(image);

@@ -5,6 +5,7 @@ import org.apache.poi.hssf.usermodel.HSSFCell;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import pages.FeatureForKeyWord;
+import reporting.TestLogger;
 
 import java.io.FileInputStream;
 
@@ -22,6 +23,7 @@ public class InputFromXls extends FeatureForKeyWord {
         return cellData;
    }
     public  void SignInByKeyWord() throws Exception {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         String path = "E:\\GreenGroup\\MTA\\Data\\Key2.xls";
         InputFromXls.setExcelFile(path, "sheet1");
         for (int i = 1; i <= 5; i++) {

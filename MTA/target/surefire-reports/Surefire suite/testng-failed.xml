@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="testFareAndTolls.ScheduleTest">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="init"/>
+          <include name="testStatenIslands"/>
+          <include name="testSchedule"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- testFareAndTolls.ScheduleTest -->
+      <class name="testBusiness.TestDoingBusiness">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="init"/>
+          <include name="testBusinessItem"/>
+          <include name="testBusinessTite"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="testAdOnMtaCard"/>
+          <include name="cleanUp"/>
+          <include name="testDoingBusiness"/>
+        </methods>
+      </class> <!-- testBusiness.TestDoingBusiness -->
+      <class name="serviceStatusHomePage.TestServiceStatus">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="checkBusTab"/>
+          <include name="checkBridge"/>
+          <include name="generateReport"/>
+          <include name="testInputBox"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="initialization"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- serviceStatusHomePage.TestServiceStatus -->
+      <class name="databaseTest.TestMongoDB">
+        <methods>
+          <include name="init"/>
+          <include name="afterEachTestMethod"/>
+          <include name="insertLanguageListTest"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="readDataTest"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- databaseTest.TestMongoDB -->
+      <class name="serviceStatusHomePage.TestTripPlanner">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="testForm"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="init"/>
+          <include name="startExtent"/>
+          <include name="testTripsPlannerService"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- serviceStatusHomePage.TestTripPlanner -->
+      <class name="serviceStatusHomePage.TestPlannedService">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="TestPlan"/>
+          <include name="textPlanTest"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="init"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- serviceStatusHomePage.TestPlannedService -->
+      <class name="testMtaInfo.TestMtaInfo">
+        <methods>
+          <include name="init"/>
+          <include name="getMtaTitle"/>
+          <include name="AboutMtaTest"/>
+          <include name="testFinance"/>
+          <include name="afterEachTestMethod"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- testMtaInfo.TestMtaInfo -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
