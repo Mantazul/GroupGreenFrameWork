@@ -35,6 +35,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
+    //ExtentReport
     public static ExtentReports extent;
     @BeforeSuite
     public void extentSetup(ITestContext context) {
@@ -88,8 +89,8 @@ public class CommonAPI {
     }
 
     public WebDriver driver = null;
-    public String browserstack_username= "";
-    public String browserstack_accesskey = "";
+    public String browserstack_username= "asifchowdhury2";
+    public String browserstack_accesskey = "5tNawyLsJrT6xCumx8V9";
     public String saucelabs_username = "";
     public String saucelabs_accesskey = "";
 
@@ -108,36 +109,35 @@ public class CommonAPI {
         }else{
             getLocalDriver(os, browserName);
         }
-        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().timeouts().pageLoadTimeout(25, TimeUnit.SECONDS);
         driver.get(url);
         driver.manage().window().maximize();
-        driver.manage().window().fullscreen();
     }
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "BankofAmerica/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "../Generic/browser-driver/chromedriver.exe");
             }
             driver = new ChromeDriver();
         } else if(browserName.equalsIgnoreCase("chrome-options")){
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--disable-notifications");
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Windows")){
-                System.setProperty("webdriver.chrome.driver", "/Users/asifchowdhury/Desktop/BankWeb/Generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver.exe");
             }
             driver = new ChromeDriver(options);
         }
 
         else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.gecko.driver", "../BankofAmerica/driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "../Generic/browser-driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.gecko.driver", "../BankofAmerica/driver/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "../Generic/browser-driver/geckodriver.exe");
             }
             driver = new FirefoxDriver();
 
@@ -166,10 +166,9 @@ public class CommonAPI {
         }
         return driver;
     }
-
-   @AfterMethod
+    @AfterMethod
     public void cleanUp(){
-        driver.close();
+         driver.quit();
     }
 
     public void clickOnCss(String locator){
@@ -206,6 +205,7 @@ public class CommonAPI {
     public void typeByCssNEnter(String locator, String value) {
         driver.findElement(By.cssSelector(locator)).sendKeys(value, Keys.ENTER);
     }
+
     public void typeByXpath(String locator, String value) {
         driver.findElement(By.xpath(locator)).sendKeys(value);
     }
@@ -230,6 +230,7 @@ public class CommonAPI {
             String st = web.getText();
             text.add(st);
         }
+
         return text;
     }
     public List<WebElement> getListOfWebElementsByCss(String locator) {
@@ -267,6 +268,7 @@ public class CommonAPI {
         String st = driver.findElement(By.name(locator)).getText();
         return st;
     }
+
     public List<String> getListOfString(List<WebElement> list) {
         List<String> items = new ArrayList<String>();
         for (WebElement element : list) {
@@ -274,20 +276,18 @@ public class CommonAPI {
         }
         return items;
     }
+
     public void selectOptionByVisibleText(WebElement element, String value) {
         Select select = new Select(element);
         select.selectByVisibleText(value);
     }
-    public String getTextByWebElement(WebElement webElement){
-        String text = webElement.getText();
-        return text;
-    }
-    public void clearInputBox(WebElement webElement){
-        webElement.clear();
-    }
     public static void sleepFor(int sec)throws InterruptedException{
-        Thread.sleep(sec * 2000);
+        Thread.sleep(sec * 1000);
     }
+    public void inputValueInTextBoxByWebElement(WebElement element, String value){
+        element.sendKeys(value + Keys.ENTER);
+    }
+
     public void mouseHoverByCSS(String locator){
         try {
             WebElement element = driver.findElement(By.cssSelector(locator));
@@ -299,6 +299,7 @@ public class CommonAPI {
             Actions action = new Actions(driver);
             action.moveToElement(element).perform();
         }
+
     }
     public void mouseHoverByXpath(String locator){
         try {
@@ -312,6 +313,7 @@ public class CommonAPI {
             action.moveToElement(element).perform();
         }
     }
+    //handling Alert
     public void okAlert(){
         Alert alert = driver.switchTo().alert();
         alert.accept();
@@ -320,9 +322,8 @@ public class CommonAPI {
         Alert alert = driver.switchTo().alert();
         alert.dismiss();
     }
-    public void inputValueInTextBoxByWebElement(WebElement account, String toString) {
-    }
 
+    //iFrame Handle
     public void iframeHandle(WebElement element){
         driver.switchTo().frame(element);
     }
@@ -331,9 +332,11 @@ public class CommonAPI {
         driver.switchTo().defaultContent();
     }
 
+    //get Links
     public void getLinks(String locator){
         driver.findElement(By.linkText(locator)).findElement(By.tagName("a")).getText();
     }
+
     public static void captureScreenshot(WebDriver driver, String screenshotName){
         DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
         Date date = new Date();
@@ -346,11 +349,14 @@ public class CommonAPI {
         } catch (Exception e) {
             System.out.println("Exception while taking screenshot "+e.getMessage());;
         }
+
     }
+    //Taking Screen shots
     public void takeScreenShot()throws IOException {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file,new File("screenShots.png"));
     }
+    //Synchronization
     public void waitUntilClickAble(By locator){
         WebDriverWait wait = new WebDriverWait(driver, 10);
         WebElement element = wait.until(ExpectedConditions.elementToBeClickable(locator));
@@ -365,6 +371,9 @@ public class CommonAPI {
     }
     public void upLoadFile(String locator,String path){
         driver.findElement(By.cssSelector(locator)).sendKeys(path);
+        /* path example to upload a file/image
+           path= "C:\\Users\\rrt\\Pictures\\ds1.png";
+         */
     }
     public void clearInput(String locator){
         driver.findElement(By.cssSelector(locator)).clear();
@@ -377,6 +386,7 @@ public class CommonAPI {
         splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
         return splitString;
     }
+    //Handling New Tabs
     public static WebDriver handleNewTab(WebDriver driver1){
         String oldTab = driver1.getWindowHandle();
         List<String> newTabs = new ArrayList<String>(driver1.getWindowHandles());
@@ -405,5 +415,13 @@ public class CommonAPI {
             System.out.println("CSS locator didn't work");
         }
     }
+    public void clearInputBox(WebElement webElement){
+        webElement.clear();
+    }
+    public String getTextByWebElement(WebElement webElement){
+        String text = webElement.getText();
+        return text;
+    }
 
 }
+

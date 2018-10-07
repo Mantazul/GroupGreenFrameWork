@@ -16,6 +16,13 @@ public class LogIn extends CommonAPI {
     @FindBy(id="signIn")
     public WebElement signin;
 
+    public void logInToBankOfAmerica(){
+        username.sendKeys("habijabi@gmail.com");
+        password.sendKeys("wrongpassword");
+        signin.click();
+
+    }
+
     public WebElement getSignin() {
         return signin;
     }

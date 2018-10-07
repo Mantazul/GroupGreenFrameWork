@@ -10,7 +10,6 @@ public class TestAutoLoans extends AutoLoans {
         AutoLoans al = PageFactory.initElements(driver, AutoLoans.class);
         al.selectAutoApplyNow();
     }
-
     @Test
     public void testSelectAutoLoanRates() {
         AutoLoans al = PageFactory.initElements(driver, AutoLoans.class);

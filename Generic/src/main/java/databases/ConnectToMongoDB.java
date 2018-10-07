@@ -32,7 +32,7 @@ public class ConnectToMongoDB extends CommonAPI {
             Document document = new Document().append(columnName, elements.get(i).getText());
             collection.insertOne(document);
         }
-        return  "Language has been registered";
+        return  "Show all location";
     }
     public List<String> readLanguageListFromMongoDB(String profileName,String columnName){
         List<String> list = new ArrayList<String>();
@@ -42,8 +42,8 @@ public class ConnectToMongoDB extends CommonAPI {
         FindIterable<Document> iterable = collection.find(basicDBObject);
         for(Document doc:iterable) {
             //int idInt = 0;
-            String language = (String) doc.get(columnName);
-            list.add(language);
+            String location = (String) doc.get(columnName);
+            list.add(location);
         }
         return list;
     }

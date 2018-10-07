@@ -24,7 +24,6 @@ public class MongoConnection extends ConnectToMongoDB {
         for(int i=0;i<actualData.size();i++){
             Assert.assertEquals(actualData.get(i),expectedData.get(i).getText());
         }
-
     }
 }
 

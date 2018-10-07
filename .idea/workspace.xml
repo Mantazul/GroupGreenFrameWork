@@ -8,8 +8,123 @@
       <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebAutomate/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebAutomate/WebAutomate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@BankofAmerica/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@BankofAmerica/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_aventstack_extentreports_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__commons_net_commons_net_3_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_cssparser_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_30_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_8_v20180619.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BankWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/BnkOfAm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/Extent-Report/ExtentReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/screenshots/testPopUp (09.24.2018-17:17PM).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/screenshots/testSearchBox (09.24.2018-17:19PM).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/googleSheetsAPI/googleSheetsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/home/DropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/home/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/home/LogIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/home/PopUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/home/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/AutoLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/BetterMoneyHabits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/Checking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/CreditCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/HomeLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/Investing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/PrintDropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/main/java/menuLists/Savings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/TestHome/PopUpTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/TestHome/SearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/TestHome/TestDropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/TestHome/TestHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/TestHome/TestLogIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestAutoLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestBetterMoneyHabits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestChecking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestCreditCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestHomeLoans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestInvesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestPrintDropDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/BnkOfAm/src/test/java/testMenuLists/TestSavings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/main/java/reporting/ApplicationLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/main/java/reporting/ExtentTestManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/main/java/reporting/TestLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/src/test/resources/testrunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/Generic/target/test-classes/testrunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@BankofAmerica/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" beforeDir="false" />
@@ -18,7 +133,56 @@
       <change beforePath="$PROJECT_DIR$/../Bank/Generic/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bank/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankDomain1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mongoSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/MongoConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/MongoConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/BankofAmerica-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/BankofAmerica-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/dataConnection/JDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/googleSheetsAPI/GoogleSheetPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/googleSheetsAPI/GoogleSheetPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/DropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/classes/home/LogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/test-classes/bankofamericaTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/test-classes/bankofamericaTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/test-classes/optionListsTest/TestAutoLoans.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/test-classes/optionListsTest/TestAutoLoans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/test-classes/testHome/TestGoogleSheetPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/test-classes/testHome/TestGoogleSheetPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankofAmerica/target/test-classes/testHome/TestLogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/BankofAmerica/target/test-classes/testHome/TestLogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/resources/client_secret.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/client_secret.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/googleAPIs/GoogleSheetReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/googleAPIs/GoogleSheetReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/BankofAmerica.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica/.idea/vcs.xml" beforeDir="false" />
@@ -32,7 +196,41 @@
       <change beforePath="$PROJECT_DIR$/../BankofAmerica18/BankofAmerica18.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica18/Generic/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankofAmerica18/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BestBuy" beforeDir="false" afterPath="$PROJECT_DIR$/../BestBuy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuy1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/BestBuyApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/main/java/CellPhones/UiAndroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/main/java/CellPhones/UiPhonePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/main/java/dataSearch/ItemsForSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/main/java/methods/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/test/UiAndroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/BestBuyHome/src/test/java/test/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/Generic/target/classes/base/CommonAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyRetail/src/main/java/base/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyShop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/BestBuyStore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/BestBuyStore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestBuyStore/src/main/java/base/CommonAPI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/DatabaseConnection" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/DatabaseConnection" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/MidTermAsif_3702NY" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/MidTermAsif_3702NY" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/MidtermJuly17" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/MidtermJuly17" afterDir="false" />
@@ -40,12 +238,50 @@
       <change beforePath="$PROJECT_DIR$/../Desktop/Stephen" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/Stephen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/untitled folder" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/untitled folder" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/~$THUB Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/BestBuy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/BestBuy/src/main/java/BestBuyHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/BestBuy/src/main/resources/BestBuyTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/BestBuy/target/classes/BestBuyHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/BestBuy/target/classes/BestBuyTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/Ecommerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/Generic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/Generic/target/classes/base/CommonAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/SecretProperties.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerce/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expedia/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Framework" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GroupGreenFramework" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupGreenFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroupGreenFramework" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Midterm" beforeDir="false" afterPath="$PROJECT_DIR$/../Midterm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAutomation" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAutomation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../asifBestbuy" beforeDir="false" afterPath="$PROJECT_DIR$/../asifBestbuy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/NewBestBuy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/Generic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/NewBestBuy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/GoogleAPIs/GoogleSheetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/Reporting/ApplicationLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/Reporting/ExtentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/Reporting/ExtentTestManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/Reporting/TestLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewBestBuy/src/main/java/base/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAutomation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asifBestbuy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bismillah-png-32.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../xml version.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,6 +289,7 @@
     <ignored path="$PROJECT_DIR$/BnkOfAm/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/BankofAmerica/target/" />
+    <ignored path="$PROJECT_DIR$/RestAPI/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,53 +304,57 @@
     <session id="986334851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="48" />
-          <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="10" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="26" />
+          <entry key="project.closed" value="73" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.4" value="38" />
           <entry key="project.open.time.489" value="1" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.opened" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
           <entry key="geckodriver" value="1" />
-          <entry key="java" value="174" />
-          <entry key="json" value="1" />
-          <entry key="png" value="3" />
+          <entry key="java" value="297" />
+          <entry key="json" value="2" />
+          <entry key="png" value="5" />
           <entry key="properties" value="2" />
-          <entry key="xml" value="37" />
+          <entry key="server/PNT/Current_State" value="25" />
+          <entry key="server/PNT/Current_state" value="6" />
+          <entry key="server/PNT/students" value="11" />
+          <entry key="xml" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Image" value="3" />
-          <entry key="JAVA" value="174" />
-          <entry key="JSON" value="1" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="297" />
+          <entry key="JSON" value="2" />
+          <entry key="MONGO" value="42" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="2" />
-          <entry key="XML" value="37" />
+          <entry key="XML" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="39" />
-          <entry key="java" value="1350" />
+          <entry key="dummy" value="47" />
+          <entry key="java" value="3653" />
           <entry key="properties" value="12" />
-          <entry key="xml" value="282" />
+          <entry key="xml" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1350" />
-          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="JAVA" value="3653" />
+          <entry key="PLAIN_TEXT" value="47" />
           <entry key="Properties" value="12" />
-          <entry key="XML" value="282" />
+          <entry key="XML" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -125,19 +366,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java">
+        <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/InputFromXlsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-508">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,27 +387,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -174,38 +398,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestDropDown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="51" />
+            <state relative-caret-position="345">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -213,35 +407,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="286" column="5" selection-start-line="286" selection-start-column="5" selection-end-line="286" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#9232#9233#0" expanded="true" />
-                <element signature="e#9301#9302#0" expanded="true" />
-                <element signature="e#9350#9351#0" expanded="true" />
-                <element signature="e#9430#9431#0" expanded="true" />
-                <element signature="e#9480#9481#0" expanded="true" />
-                <element signature="e#9547#9548#0" expanded="true" />
-                <element signature="e#10723#10724#0" expanded="true" />
-                <element signature="e#10763#10764#0" expanded="true" />
-                <element signature="e#10798#10799#0" expanded="true" />
-                <element signature="e#10841#10842#0" expanded="true" />
-                <element signature="e#11180#11181#0" expanded="true" />
-                <element signature="e#11247#11248#0" expanded="true" />
-                <element signature="e#11988#11989#0" expanded="true" />
-                <element signature="e#12022#12023#0" expanded="true" />
-                <element signature="e#13388#13389#0" expanded="true" />
-                <element signature="e#13436#13437#0" expanded="true" />
-                <element signature="e#13475#13476#0" expanded="true" />
-                <element signature="e#13525#13526#0" expanded="true" />
-                <element signature="e#15168#15169#0" expanded="true" />
-                <element signature="e#15242#15243#0" expanded="true" />
-                <element signature="e#15286#15287#0" expanded="true" />
-                <element signature="e#15353#15354#0" expanded="true" />
-                <element signature="e#15396#15397#0" expanded="true" />
-                <element signature="e#15476#15477#0" expanded="true" />
+                <element signature="e#17055#17056#0" expanded="true" />
+                <element signature="e#17089#17090#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/AutoLoans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/ByInputFromXls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -255,6 +472,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generic</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -262,32 +484,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Checking.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/CreditCards.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/HomeLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Investing.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/PrintDropDown.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dropDown/Savings.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestDropDown/testAutoLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/testAutoLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestAutoLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestBetterMoneyHabits.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestChecking.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestCreditCards.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/HomeLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestHomeLoans.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestInvesting.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestPrintDropDown.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testDropDown/TestSavings.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/TestHome/PopUpTest.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/SecretProperties.properties" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/dataConnection/JDBC.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/LogIn.java" />
-        <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/HomePage.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/PopUpHandle.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/googleSheetsPage.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/TestHome.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/home/Search.java" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/java/testHome/SearchTest.java" />
@@ -299,7 +498,6 @@
         <option value="$PROJECT_DIR$/BnkOfAm/src/test/resources/bankofamericaTestRunner.xml" />
         <option value="$PROJECT_DIR$/BnkOfAm/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java" />
-        <option value="$PROJECT_DIR$/BankofAmerica/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/resources/boaTestRunner.xml" />
@@ -307,19 +505,38 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/XlsDataReader.java" />
         <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsReader.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestByInputFromXls.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/home/ByInputFromXls.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JASONServer/viewWeatherMap/WeatherMapTest.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JASONServer/Resources.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/ViewWeatherApp/GetTest.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JASONServer/PostResources.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/ExcellFile.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/DataReader.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/ExcelFile.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/MongoConnection.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
-        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java" />
         <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/ImportFromXlsTest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/InputFromXls.java" />
+        <option value="$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/InputFromXlsTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/BankofAmerica/pom.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="TestNG" name="TestLogIn.logIn" />
-    </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -331,7 +548,12 @@
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BankWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -339,10 +561,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="278" />
-    <option name="y" value="29" />
-    <option name="width" value="1112" />
-    <option name="height" value="803" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -350,6 +571,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,37 +583,60 @@
             <path>
               <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="BankofAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538438678660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538857848373" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20261438" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BnkOfAm/src/test" />
+      <recent name="$PROJECT_DIR$/BnkOfAm/src/main/java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BankofAmerica/data" />
       <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
+      <recent name="$PROJECT_DIR$/BankofAmerica/driver" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader" />
       <recent name="$PROJECT_DIR$/BnkOfAm/src/test/java" />
-      <recent name="$PROJECT_DIR$/BnkOfAm" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="home" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BnkOfAm/src/test" />
-      <recent name="$PROJECT_DIR$/BnkOfAm/src/main/java" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="keyWordDriven" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -406,7 +652,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.TestLogIn.logIn">
-    <configuration name="PopUpWindowTest.testPopUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InputFromXlsTest.testSignInByKeyWord" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankofAmerica" />
       <extension name="coverage">
         <pattern>
@@ -415,8 +661,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testHome" />
-      <option name="MAIN_CLASS_NAME" value="testHome.PopUpWindowTest" />
-      <option name="METHOD_NAME" value="testPopUp" />
+      <option name="MAIN_CLASS_NAME" value="testHome.InputFromXlsTest" />
+      <option name="METHOD_NAME" value="testSignInByKeyWord" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -424,7 +670,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopUpWindowTest.testPopUpWrite" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTest.testSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankofAmerica" />
       <extension name="coverage">
         <pattern>
@@ -433,8 +679,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testHome" />
-      <option name="MAIN_CLASS_NAME" value="testHome.PopUpWindowTest" />
-      <option name="METHOD_NAME" value="testPopUpWrite" />
+      <option name="MAIN_CLASS_NAME" value="testHome.SearchTest" />
+      <option name="METHOD_NAME" value="testSearchBox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGoogleSheetPage.clicktest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankofAmerica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestGoogleSheetPage" />
+      <option name="METHOD_NAME" value="clicktest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -453,24 +717,6 @@
       <option name="PACKAGE_NAME" value="testHome" />
       <option name="MAIN_CLASS_NAME" value="testHome.TestGoogleSheetPage" />
       <option name="METHOD_NAME" value="testLogInByInvalidIdPassUsingGoogleSheet" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHome.testLanguage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BankofAmerica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testHome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testHome" />
-      <option name="MAIN_CLASS_NAME" value="testHome.TestHome" />
-      <option name="METHOD_NAME" value="testLanguage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -497,19 +743,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TestLogIn.logIn" />
-      <item itemvalue="TestNG.TestHome.testLanguage" />
-      <item itemvalue="TestNG.PopUpWindowTest.testPopUpWrite" />
-      <item itemvalue="TestNG.PopUpWindowTest.testPopUp" />
       <item itemvalue="TestNG.TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" />
+      <item itemvalue="TestNG.TestGoogleSheetPage.clicktest" />
+      <item itemvalue="TestNG.InputFromXlsTest.testSignInByKeyWord" />
+      <item itemvalue="TestNG.SearchTest.testSearchBox" />
+      <item itemvalue="TestNG.TestLogIn.logIn" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestLogIn.logIn" />
+        <item itemvalue="TestNG.SearchTest.testSearchBox" />
+        <item itemvalue="TestNG.TestGoogleSheetPage.clicktest" />
         <item itemvalue="TestNG.TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" />
-        <item itemvalue="TestNG.TestHome.testLanguage" />
-        <item itemvalue="TestNG.PopUpWindowTest.testPopUp" />
-        <item itemvalue="TestNG.PopUpWindowTest.testPopUpWrite" />
+        <item itemvalue="TestNG.InputFromXlsTest.testSignInByKeyWord" />
       </list>
     </recent_temporary>
   </component>
@@ -527,35 +773,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHome_testLanguage - 2018.09.30 at 13h 21m 32s.xml">
-      <configuration name="TestHome.testLanguage" configurationId="TestNG" />
+    <history-entry file="_Users_asifchowdhury_Desktop_BankWeb_BankofAmerica_src_test_resources_bankofamericaTestRunner_xml - 2018.10.06 at 01h 18m 33s.xml">
+      <configuration name="/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PopUpWindowTest_testPopUp - 2018.09.30 at 18h 47m 10s.xml">
-      <configuration name="PopUpWindowTest.testPopUp" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PopUpWindowTest_testPopUp - 2018.09.30 at 19h 29m 05s.xml">
-      <configuration name="PopUpWindowTest.testPopUp" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHome_testLanguage - 2018.09.30 at 19h 46m 09s.xml">
-      <configuration name="TestHome.testLanguage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogIn_logIn - 2018.10.01 at 14h 29m 16s.xml">
-      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.01 at 19h 44m 35s.xml">
+    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.06 at 01h 20m 20s.xml">
       <configuration name="TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.01 at 19h 45m 14s.xml">
+    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.06 at 01h 20m 43s.xml">
       <configuration name="TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.01 at 19h 47m 43s.xml">
+    <history-entry file="TestGoogleSheetPage_clicktest - 2018.10.06 at 01h 21m 48s.xml">
+      <configuration name="TestGoogleSheetPage.clicktest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.06 at 11h 16m 29s.xml">
       <configuration name="TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogIn_logIn - 2018.10.01 at 19h 51m 44s.xml">
-      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    <history-entry file="TestGoogleSheetPage_clicktest - 2018.10.06 at 11h 17m 02s.xml">
+      <configuration name="TestGoogleSheetPage.clicktest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogIn_logIn - 2018.10.01 at 19h 51m 59s.xml">
-      <configuration name="TestLogIn.logIn" configurationId="TestNG" />
+    <history-entry file="InputFromXlsTest_testSignInByKeyWord - 2018.10.06 at 13h 40m 07s.xml">
+      <configuration name="InputFromXlsTest.testSignInByKeyWord" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestGoogleSheetPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.06 at 13h 45m 59s.xml">
+      <configuration name="TestGoogleSheetPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestGoogleSheetPage_clicktest - 2018.10.06 at 13h 46m 51s.xml">
+      <configuration name="TestGoogleSheetPage.clicktest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchTest_testSearchBox - 2018.10.06 at 16h 30m 56s.xml">
+      <configuration name="SearchTest.testSearchBox" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -568,9 +814,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="278" y="29" width="1112" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="814" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.20413668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.18025751" />
       <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -579,27 +825,27 @@
       <window_info id="Favorites" order="6" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.36671367" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.3067047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49891382" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49818972" visible="true" weight="0.38363892" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49818972" weight="0.8292683" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50181025" side_tool="true" weight="0.3278496" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32722145" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.38163558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3294714" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.32904148" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.20694445" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.3125894" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.2375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.18025751" />
       <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -608,24 +854,24 @@
       <window_info id="Favorites" order="6" sideWeight="0.50268334" side_tool="true" weight="0.22460657" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.36671367" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" visible="true" weight="0.30731103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49891382" weight="0.32786885" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49818972" weight="0.38387978" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49818972" weight="0.8292683" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50181025" side_tool="true" weight="0.3278496" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32823366" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.38163558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3294714" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.32904148" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.20694445" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.3125894" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -636,97 +882,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/CreditCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Savings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestCreditCards.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Investing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestHomeLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestChecking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestPrintDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/PrintDropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/screenshots/testLanguage (09.24.2018-22:35PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.24.2018-17:17PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/screenshots/testPopUp (09.25.2018-22:31PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/SecretProperties.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/PopUp.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Savings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="18" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/PopUpHandle.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/testGoogleSheetsAPI/TestGoogleSheetsPage.java" />
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/AutoLoans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -737,40 +917,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/Checking.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/ProtocolHandshake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="129">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/resources.properties" />
-    <entry file="file://$PROJECT_DIR$/BnkOfAm/src/test/java/resources/testrunner.xml" />
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/JDBC.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="300">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestInvesting.java">
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/JASONServer/viewWeatherMap/WeatherMapTest.java" />
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/JASONServer/PostResources.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="600">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/LogStatus.class">
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/ViewWeatherApp/GetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="240">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/PopUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestCreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -781,33 +974,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/resources/testrunner.xml">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/DataReader.java" />
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestChecking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestAutoLoans.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestHomeLoans.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestInvesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestPrintDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/optionListsTest/TestSavings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/screenshots/DropDownList (10.03.2018-10:56AM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/screenshots/DropDownList (10.03.2018-10:59AM).png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/PopUpWindowTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -816,11 +1023,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/XlsDataReader.java" />
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/DropDown.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestByInputFromXls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/ExcelFile.java" />
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -831,40 +1045,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json" />
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/resources/bankofamericaTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/boaTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="465">
+          <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/dataConnection/MongoConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="385">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/keyWordDriven/InputFromXls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/InputFromXlsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#85#86#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#17055#17056#0" expanded="true" />
+            <element signature="e#17089#17090#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -876,119 +1187,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/ExtentReports.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="286" column="5" selection-start-line="286" selection-start-column="5" selection-end-line="286" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#9232#9233#0" expanded="true" />
-            <element signature="e#9301#9302#0" expanded="true" />
-            <element signature="e#9350#9351#0" expanded="true" />
-            <element signature="e#9430#9431#0" expanded="true" />
-            <element signature="e#9480#9481#0" expanded="true" />
-            <element signature="e#9547#9548#0" expanded="true" />
-            <element signature="e#10723#10724#0" expanded="true" />
-            <element signature="e#10763#10764#0" expanded="true" />
-            <element signature="e#10798#10799#0" expanded="true" />
-            <element signature="e#10841#10842#0" expanded="true" />
-            <element signature="e#11180#11181#0" expanded="true" />
-            <element signature="e#11247#11248#0" expanded="true" />
-            <element signature="e#11988#11989#0" expanded="true" />
-            <element signature="e#12022#12023#0" expanded="true" />
-            <element signature="e#13388#13389#0" expanded="true" />
-            <element signature="e#13436#13437#0" expanded="true" />
-            <element signature="e#13475#13476#0" expanded="true" />
-            <element signature="e#13525#13526#0" expanded="true" />
-            <element signature="e#15168#15169#0" expanded="true" />
-            <element signature="e#15242#15243#0" expanded="true" />
-            <element signature="e#15286#15287#0" expanded="true" />
-            <element signature="e#15353#15354#0" expanded="true" />
-            <element signature="e#15396#15397#0" expanded="true" />
-            <element signature="e#15476#15477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestGoogleSheetPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/googleSheetsAPI/GoogleSheetPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/LogIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="51" />
+        <state relative-caret-position="300">
+          <caret line="23" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/TestLogIn.java">
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/home/ByInputFromXls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/test/java/testHome/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankofAmerica/src/main/java/optionLists/AutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>

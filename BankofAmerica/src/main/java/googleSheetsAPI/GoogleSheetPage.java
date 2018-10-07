@@ -5,25 +5,22 @@ import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.model.ValueRange;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static base.CommonAPI.sleepFor;
 import static googleAPIs.GoogleSheetReader.getSheetsService;
-import static org.openqa.selenium.support.How.ID;
-import static org.openqa.selenium.support.How.XPATH;
 
 public class GoogleSheetPage extends CommonAPI  {
 
     @FindBy(id="onlineId1")
-    public WebElement username;
+    public static WebElement username;
     @FindBy(id="passcode1")
-    public WebElement password;
+    public static WebElement password;
     @FindBy(id="signIn")
-    public WebElement signin;
+    public static WebElement signin;
+    @FindBy(xpath = "/html/body/div[1]/div/div/div[1]/div[4]/div[2]/div/li")
     public static WebElement signInErrorMesage;
     //ALI_GS_TC1
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
@@ -39,26 +36,28 @@ public class GoogleSheetPage extends CommonAPI  {
             return values;
         }
     }
-
-    // //ALI_GS_TC1 LogIn by using Google Sheet sheet data
+    public void click(){
+        typeOnInputBox("onlineId1",
+                "asiftanvir");
+    }
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
 
         List<List<Object>> col2Value = getSpreadSheetRecords(spreadsheetId, range);
         List<String> actual = new ArrayList<>();
         for (List row : col2Value) {
+           sleepFor(1);
+           inputValueInTextBoxByWebElement(username, row.get(1).toString());
+           inputValueInTextBoxByWebElement(password, row.get(2).toString());
+           signin.click();
             sleepFor(1);
-            inputValueInTextBoxByWebElement(username, row.get(1).toString());
-            inputValueInTextBoxByWebElement(password, row.get(2).toString());
-            sleepFor(1);
-            //actual.add(getCurrentPageTitle());
-            actual.add(getTextByWebElement(signInErrorMesage));
-            System.out.println(getTextByWebElement(signInErrorMesage));
-            clearInputBox(username);
-            clearInputBox(password);
+           //actual.add(getCurrentPageTitle());
+           actual.add(getTextByWebElement(signInErrorMesage));
+           System.out.println(getTextByWebElement(signInErrorMesage));
+           clearInputBox(username);
+           clearInputBox(password);
             sleepFor(1);
         }
         return actual;
     }
-
 }
 
