@@ -18,12 +18,10 @@ public class GoogleSheetPage extends CommonAPI {
     public static WebElement username;
     @FindBy(xpath = "//input[@id='ctl00_ContentPlaceHolder1_txtPass']")
     public static WebElement password;
-
     @FindBy(xpath = "//input[@id='ctl00_ContentPlaceHolder1_btnSubmitLogin']")
     public static WebElement login;
     @FindBy(xpath = "//span[@id='ctl00_ContentPlaceHolder1_lblLoginMsg']")
     public static WebElement ErrorMessage;
-
 
     public GoogleSheetPage(){}
     public GoogleSheetPage(WebDriver driver){this.driver=driver;

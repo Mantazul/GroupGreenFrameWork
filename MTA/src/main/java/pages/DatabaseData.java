@@ -41,7 +41,6 @@ public class DatabaseData extends CommonAPI {
     public DatabaseData(){}
     public DatabaseData(WebDriver driver){this.driver=driver;
     PageFactory.initElements(driver,this);}
-
 }
 
 

@@ -22,12 +22,12 @@ public class TestMongoDB extends DatabaseData {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         inserDataIntoDatabase();
        }
-       @Test
-       public void readDataTest(){
+    @Test
+    public void readDataTest(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         readData();
        }
-        }
+}
 
 
 

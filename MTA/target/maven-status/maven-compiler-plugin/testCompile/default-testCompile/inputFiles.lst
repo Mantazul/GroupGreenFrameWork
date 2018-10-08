@@ -1,8 +1,12 @@
 E:\GreenGroup\MTA\src\test\java\databaseTest\TestMongoDB.java
 E:\GreenGroup\MTA\src\test\java\googleSheet\GoogleSheetPageTest.java
 E:\GreenGroup\MTA\src\test\java\Transperancy\TestTransperancy.java
+E:\GreenGroup\MTA\src\test\java\testBusiness\TestDoingBusiness.java
 E:\GreenGroup\MTA\src\test\java\testFareAndTolls\ScheduleTest.java
-E:\GreenGroup\MTA\src\test\java\serviceStatusHomePage\TestHomePageMyMtaAlert.java
 E:\GreenGroup\MTA\src\test\java\serviceStatusHomePage\TestPlannedService.java
 E:\GreenGroup\MTA\src\test\java\serviceStatusHomePage\TestTripPlanner.java
 E:\GreenGroup\MTA\src\test\java\serviceStatusHomePage\TestServiceStatus.java
+E:\GreenGroup\MTA\src\test\java\testMtaInfo\TestMtaInfo.java
+E:\GreenGroup\MTA\src\test\java\testXlSheet\TestHomePageMyMtaAlert.java
+E:\GreenGroup\MTA\src\test\java\kewwordTest\TestFeatures.java
+E:\GreenGroup\MTA\src\test\java\serviceStatusHomePage\TestSpecialServiceNotice.java

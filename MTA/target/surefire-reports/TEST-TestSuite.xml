@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="631.58" tests="44" errors="0" skipped="5" failures="18">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="847.4" tests="52" errors="0" skipped="0" failures="2">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Owner\AppData\Local\Temp\surefire1395195414145146525\surefirebooter3258747885425976722.jar C:\Users\Owner\AppData\Local\Temp\surefire1395195414145146525 2018-10-05T17-39-27_808-jvmRun1 surefire7525147743183953838tmp surefire_08490964485375773914tmp"/>
+    <property name="sun.java.command" value="C:\Users\Owner\AppData\Local\Temp\surefire9085036280004396007\surefirebooter5131250711693243305.jar C:\Users\Owner\AppData\Local\Temp\surefire9085036280004396007 2018-10-07T21-35-18_787-jvmRun1 surefire5745651067059080327tmp surefire_04800954373902387748tmp"/>
     <property name="surefire.test.class.path" value="E:\GreenGroup\MTA\target\test-classes;E:\GreenGroup\MTA\target\classes;E:\GreenGroup\Generic\target\classes;C:\Users\Owner\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Owner\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Owner\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\Owner\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Owner\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Owner\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Owner\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Owner\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Owner\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Owner\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Owner\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Owner\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Owner\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Owner\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\Owner\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\Owner\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\Owner\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\selenium-server\3.14.0\selenium-server-3.14.0.jar;C:\Users\Owner\.m2\repository\org\apache\commons\commons-lang3\3.7\commons-lang3-3.7.jar;C:\Users\Owner\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Owner\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\Owner\.m2\repository\commons-net\commons-net\3.6\commons-net-3.6.jar;C:\Users\Owner\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.30\htmlunit-2.30.jar;C:\Users\Owner\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.28\htmlunit-core-js-2.28.jar;C:\Users\Owner\.m2\repository\net\sourceforge\htmlunit\htmlunit-cssparser\1.0.0\htmlunit-cssparser-1.0.0.jar;C:\Users\Owner\.m2\repository\net\sourceforge\htmlunit\neko-htmlunit\2.30\neko-htmlunit-2.30.jar;C:\Users\Owner\.m2\repository\org\apache\httpcomponents\httpmime\4.5.5\httpmime-4.5.5.jar;C:\Users\Owner\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.4.8.v20180619\jetty-repacked-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\jetty-client\9.4.8.v20180619\jetty-client-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\jetty-http\9.4.8.v20180619\jetty-http-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\jetty-io\9.4.8.v20180619\jetty-io-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\jetty-util\9.4.8.v20180619\jetty-util-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\jetty-xml\9.4.8.v20180619\jetty-xml-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\seleniumhq\selenium\htmlunit-driver\2.30.0\htmlunit-driver-2.30.0.jar;C:\Users\Owner\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.8.v20180619\websocket-api-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.4.8.v20180619\websocket-client-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.4.8.v20180619\websocket-common-9.4.8.v20180619.jar;C:\Users\Owner\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Users\Owner\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Users\Owner\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar;C:\Users\Owner\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Users\Owner\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\Owner\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\Owner\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\Owner\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\Owner\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\Owner\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\Owner\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Owner\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Users\Owner\.m2\repository\com\google\api-client\google-api-client\1.24.1\google-api-client-1.24.1.jar;C:\Users\Owner\.m2\repository\com\google\oauth-client\google-oauth-client\1.24.1\google-oauth-client-1.24.1.jar;C:\Users\Owner\.m2\repository\com\google\http-client\google-http-client\1.24.1\google-http-client-1.24.1.jar;C:\Users\Owner\.m2\repository\com\google\http-client\google-http-client-jackson2\1.24.1\google-http-client-jackson2-1.24.1.jar;C:\Users\Owner\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.2\jackson-core-2.9.2.jar;C:\Users\Owner\.m2\repository\com\google\oauth-client\google-oauth-client-jetty\1.23.0\google-oauth-client-jetty-1.23.0.jar;C:\Users\Owner\.m2\repository\com\google\oauth-client\google-oauth-client-java6\1.23.0\google-oauth-client-java6-1.23.0.jar;C:\Users\Owner\.m2\repository\org\mortbay\jetty\jetty\6.1.26\jetty-6.1.26.jar;C:\Users\Owner\.m2\repository\org\mortbay\jetty\jetty-util\6.1.26\jetty-util-6.1.26.jar;C:\Users\Owner\.m2\repository\org\mortbay\jetty\servlet-api\2.5-20081211\servlet-api-2.5-20081211.jar;C:\Users\Owner\.m2\repository\com\google\apis\google-api-services-sheets\v4-rev498-1.23.0\google-api-services-sheets-v4-rev498-1.23.0.jar;C:\Users\Owner\.m2\repository\org\mongodb\mongo-java-driver\3.6.0-beta1\mongo-java-driver-3.6.0-beta1.jar;C:\Users\Owner\.m2\repository\mysql\mysql-connector-java\6.0.6\mysql-connector-java-6.0.6.jar;C:\Users\Owner\.m2\repository\com\aventstack\extentreports\3.0.7\extentreports-3.0.7.jar;C:\Users\Owner\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\Owner\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\Owner\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\Owner\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\Owner\.m2\repository\org\jsoup\jsoup\1.9.2\jsoup-1.9.2.jar;C:\Users\Owner\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Owner\.m2\repository\com\relevantcodes\extentreports\2.41.1\extentreports-2.41.1.jar;C:\Users\Owner\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\Owner\.m2\repository\io\rest-assured\rest-assured\3.1.0\rest-assured-3.1.0.jar;C:\Users\Owner\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar;C:\Users\Owner\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar;C:\Users\Owner\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Owner\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\Owner\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Owner\.m2\repository\io\rest-assured\json-path\3.1.0\json-path-3.1.0.jar;C:\Users\Owner\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar;C:\Users\Owner\.m2\repository\io\rest-assured\rest-assured-common\3.1.0\rest-assured-common-3.1.0.jar;C:\Users\Owner\.m2\repository\io\rest-assured\xml-path\3.1.0\xml-path-3.1.0.jar;C:\Users\Owner\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\Owner\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Owner\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Owner\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\Owner\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Owner"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Owner\AppData\Local\Temp\surefire1395195414145146525\surefirebooter3258747885425976722.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Owner\AppData\Local\Temp\surefire9085036280004396007\surefirebooter5131250711693243305.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,486 +60,103 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="insertLanguageListTest" classname="databaseTest.TestMongoDB" time="30.86">
-    <failure message="Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]" type="com.mongodb.MongoTimeoutException">com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
-	at databaseTest.TestMongoDB.insertLanguageListTest(TestMongoDB.java:23)
-</failure>
-    <system-out><![CDATA[Extent Report DirectoryE:\GreenGroup\MTA\target\surefire-reports\html
-TestMongoDB: insert Language List Test
-TestMongoDB: inser Data Into Database
-Database Connected
-]]></system-out>
-    <system-err><![CDATA[Oct 05, 2018 5:39:33 PM com.relevantcodes.extentreports.ExtentReports loadConfig
-WARNING: Unable to perform report configuration. The file E:\GreenGroup\MTA\report-config.xml was not found.
-Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 20153
-Only local connections are allowed.
-Oct 05, 2018 5:39:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-Oct 05, 2018 5:39:43 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Oct 05, 2018 5:39:43 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
-Oct 05, 2018 5:39:44 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Exception in monitor thread while connecting to server 127.0.0.1:27017
-com.mongodb.MongoSocketOpenException: Exception opening socket
-	at com.mongodb.connection.SocketStream.open(SocketStream.java:62)
-	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:123)
-	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:111)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
-	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
-	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
-	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
-	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:589)
-	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:59)
-	at com.mongodb.connection.SocketStream.open(SocketStream.java:57)
-	... 3 more
-
-]]></system-err>
-  </testcase>
-  <testcase name="readDataTest" classname="databaseTest.TestMongoDB" time="30.138">
-    <failure message="Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]" type="com.mongodb.MongoTimeoutException">com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
-	at databaseTest.TestMongoDB.readDataTest(TestMongoDB.java:28)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestMongoDB: read Data Test
-TestMongoDB: read Data
-Database Connected
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 5488
-Only local connections are allowed.
-Oct 05, 2018 5:40:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-Oct 05, 2018 5:40:23 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
-Oct 05, 2018 5:40:23 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
-Oct 05, 2018 5:40:24 PM com.mongodb.diagnostics.logging.JULLogger log
-INFO: Exception in monitor thread while connecting to server 127.0.0.1:27017
-com.mongodb.MongoSocketOpenException: Exception opening socket
-	at com.mongodb.connection.SocketStream.open(SocketStream.java:62)
-	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:123)
-	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:111)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
-	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
-	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
-	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
-	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:589)
-	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:59)
-	at com.mongodb.connection.SocketStream.open(SocketStream.java:57)
-	... 3 more
-
-]]></system-err>
-  </testcase>
-  <testcase name="dd" classname="googleSheet.GoogleSheetPageTest" time="2.153"/>
-  <testcase name="testLogInByInvalidIdPassUsingGoogleSheet" classname="googleSheet.GoogleSheetPageTest" time="17.499"/>
-  <testcase name="testSignInKeyWord" classname="kewwordTest.TestFeatures" time="3.322"/>
-  <testcase name="testSignInithvalidIdAndPassword" classname="kewwordTest.TestFeatures" time="2.639"/>
-  <testcase name="TestPlan" classname="serviceStatusHomePage.TestPlannedService" time="3.229">
-    <failure message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59860}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: f299414802e9a1aa91608d56f92c258b" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: 
-stale element reference: element is not attached to the page document
+  <testcase name="insertLanguageListTest" classname="databaseTest.TestMongoDB" time="1.676"/>
+  <testcase name="readDataTest" classname="databaseTest.TestMongoDB" time="0.156"/>
+  <testcase name="dd" classname="googleSheet.GoogleSheetPageTest" time="3.157"/>
+  <testcase name="testLogInByInvalidIdPassUsingGoogleSheet" classname="googleSheet.GoogleSheetPageTest" time="19.951"/>
+  <testcase name="testSignInKeyWord" classname="kewwordTest.TestFeatures" time="4.346"/>
+  <testcase name="testSignInithvalidIdAndPassword" classname="kewwordTest.TestFeatures" time="5.01"/>
+  <testcase name="TestPlan" classname="serviceStatusHomePage.TestPlannedService" time="8.018"/>
+  <testcase name="testDescription" classname="serviceStatusHomePage.TestPlannedService" time="15.975"/>
+  <testcase name="testFroute" classname="serviceStatusHomePage.TestPlannedService" time="10.63"/>
+  <testcase name="testSubways" classname="serviceStatusHomePage.TestPlannedService" time="4.95"/>
+  <testcase name="textPlanTest" classname="serviceStatusHomePage.TestPlannedService" time="9.122"/>
+  <testcase name="checkBridge" classname="serviceStatusHomePage.TestServiceStatus" time="0.112"/>
+  <testcase name="checkBusTab" classname="serviceStatusHomePage.TestServiceStatus" time="0.1"/>
+  <testcase name="checkSearchButton" classname="serviceStatusHomePage.TestServiceStatus" time="4.739"/>
+  <testcase name="clickOnSubwayTest" classname="serviceStatusHomePage.TestServiceStatus" time="0.361">
+    <failure message="invalid selector: Compound class names not permitted&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60241}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 53fd9b756b8779dd4d0b193638534633&#10;*** Element info: {Using=class name, value=t tdiv selectedStatusTab}" type="org.openqa.selenium.InvalidSelectorException">org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Compound class names not permitted
   (Session info: chrome=69.0.3497.100)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59860}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: f299414802e9a1aa91608d56f92c258b
-	at serviceStatusHomePage.TestPlannedService.TestPlan(TestPlannedService.java:17)
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60241}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 53fd9b756b8779dd4d0b193638534633
+*** Element info: {Using=class name, value=t tdiv selectedStatusTab}
+	at serviceStatusHomePage.TestServiceStatus.clickOnSubwayTest(TestServiceStatus.java:42)
 </failure>
-    <system-out><![CDATA[TestPlannedService: Test Plan
-TestPlannedService: get Plan
+    <system-out><![CDATA[TestServiceStatus: click On Subway Test
+TestServiceStatus: click On Sub Way
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 15787
+    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 32940
 Only local connections are allowed.
-Oct 05, 2018 5:42:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 07, 2018 9:39:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
   </testcase>
-  <testcase name="textPlanTest" classname="serviceStatusHomePage.TestPlannedService" time="10.033">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//img[@src=&apos;/nyct/images/TransitTrax_logo.jpg&apos;]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59946}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: a0f452f2b38ab929d1ddaf39f0612c47&#10;*** Element info: {Using=xpath, value=//img[@src=&apos;/nyct/images/TransitTrax_logo.jpg&apos;]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//img[@src='/nyct/images/TransitTrax_logo.jpg']"}
+  <testcase name="languageOptions" classname="serviceStatusHomePage.TestServiceStatus" time="0.099"/>
+  <testcase name="testBusiness" classname="serviceStatusHomePage.TestServiceStatus" time="7.128"/>
+  <testcase name="testEHquarter" classname="serviceStatusHomePage.TestServiceStatus" time="7.192"/>
+  <testcase name="testEmployment" classname="serviceStatusHomePage.TestServiceStatus" time="4.629"/>
+  <testcase name="testInputBox" classname="serviceStatusHomePage.TestServiceStatus" time="0.121"/>
+  <testcase name="iFrameTest" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="2.951"/>
+  <testcase name="imageSizeTest" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="2.857"/>
+  <testcase name="st238Test" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="4.334"/>
+  <testcase name="testAdvance" classname="serviceStatusHomePage.TestTripPlanner" time="0.109"/>
+  <testcase name="testArrival" classname="serviceStatusHomePage.TestTripPlanner" time="0.529"/>
+  <testcase name="testForm" classname="serviceStatusHomePage.TestTripPlanner" time="1.18"/>
+  <testcase name="testHoveringTripPlanner" classname="serviceStatusHomePage.TestTripPlanner" time="6.498"/>
+  <testcase name="testSelectHoverItem" classname="serviceStatusHomePage.TestTripPlanner" time="12.155">
+    <failure message="invalid selector: An invalid or illegal selector was specified&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61068}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: c2bdf3fd9f0680150bb86aae28e59613&#10;*** Element info: {Using=css selector, value=//a[contains(text(),&apos;Trip Planners&apos;)]}" type="org.openqa.selenium.InvalidSelectorException">org.openqa.selenium.InvalidSelectorException: 
+invalid selector: An invalid or illegal selector was specified
   (Session info: chrome=69.0.3497.100)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
 System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59946}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: a0f452f2b38ab929d1ddaf39f0612c47
-*** Element info: {Using=xpath, value=//img[@src='/nyct/images/TransitTrax_logo.jpg']}
-	at serviceStatusHomePage.TestPlannedService.textPlanTest(TestPlannedService.java:22)
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61068}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: c2bdf3fd9f0680150bb86aae28e59613
+*** Element info: {Using=css selector, value=//a[contains(text(),'Trip Planners')]}
+	at serviceStatusHomePage.TestTripPlanner.testSelectHoverItem(TestTripPlanner.java:57)
 </failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestPlannedService: text Plan Test
-TestPlannedService: text Plan
+    <system-out><![CDATA[TestTripPlanner: select Hovering Item
+TestTripPlanner: hovering Trip Planner
+First attempt has been done, This is second try
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 35157
+    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 10581
 Only local connections are allowed.
-Oct 05, 2018 5:42:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 07, 2018 9:42:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
   </testcase>
-  <testcase name="checkBridge" classname="serviceStatusHomePage.TestServiceStatus" time="0.008">
-    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
-	at serviceStatusHomePage.TestServiceStatus.checkBridge(TestServiceStatus.java:32)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestServiceStatus: check Bridge
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 24331
-Only local connections are allowed.
-Oct 05, 2018 5:42:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="checkBusTab" classname="serviceStatusHomePage.TestServiceStatus" time="0.004">
-    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
-	at serviceStatusHomePage.TestServiceStatus.checkBusTab(TestServiceStatus.java:27)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestServiceStatus: check Bus Tab
-TestServiceStatus: cick On Bus
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 22057
-Only local connections are allowed.
-Oct 05, 2018 5:42:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="languageOptions" classname="serviceStatusHomePage.TestServiceStatus" time="0.073"/>
-  <testcase name="testInputBox" classname="serviceStatusHomePage.TestServiceStatus" time="10.103">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;partial link text&quot;,&quot;selector&quot;:&quot;searchinputbox&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60197}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: c7319a67a700b55fa2554c5e5f3aa31b&#10;*** Element info: {Using=partial link text, value=searchinputbox}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"partial link text","selector":"searchinputbox"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60197}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: c7319a67a700b55fa2554c5e5f3aa31b
-*** Element info: {Using=partial link text, value=searchinputbox}
-	at serviceStatusHomePage.TestServiceStatus.testInputBox(TestServiceStatus.java:37)
-</failure>
-    <system-out><![CDATA[TestServiceStatus: test Input Box
-TestServiceStatus: search Input
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 15493
-Only local connections are allowed.
-Oct 05, 2018 5:43:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="iFrameTest" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="3.678"/>
-  <testcase name="imageSizeTest" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="1.943"/>
-  <testcase name="st238Test" classname="serviceStatusHomePage.TestSpecialServiceNotice" time="3.437"/>
-  <testcase name="testArrival" classname="serviceStatusHomePage.TestTripPlanner" time="0.612"/>
-  <testcase name="testForm" classname="serviceStatusHomePage.TestTripPlanner" time="0.614">
-    <failure message="unknown error: Element &lt;input id=&quot;xmodeX&quot; name=&quot;xmodeX&quot; type=&quot;checkbox&quot; value=&quot;X&quot;&gt; is not clickable at point (1100, 406). Other element would receive the click: &lt;div class=&quot;ui-datepicker-title&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60584}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 66bbca951a852e4cdc0903a34084a287" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
-unknown error: Element <input id="xmodeX" name="xmodeX" type="checkbox" value="X"> is not clickable at point (1100, 406). Other element would receive the click: <div class="ui-datepicker-title">...</div>
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60584}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 66bbca951a852e4cdc0903a34084a287
-	at serviceStatusHomePage.TestTripPlanner.testForm(TestTripPlanner.java:22)
-]]></failure>
-    <system-out><![CDATA[TestTripPlanner: test Form
-TestTripPlanner: fill Out Form
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 41874
-Only local connections are allowed.
-Oct 05, 2018 5:44:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="setUp" classname="serviceStatusHomePage.TestTripPlanner" time="19.453">
-    <failure message="timeout&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60644}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 0b5d54e99be2f98c34e0e0c4621fc359" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
-timeout
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60644}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 0b5d54e99be2f98c34e0e0c4621fc359
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 37649
-Only local connections are allowed.
-Oct 05, 2018 5:44:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-[1538775881.858][SEVERE]: Timed out receiving message from renderer: 13.759
-[1538775881.859][SEVERE]: Timed out receiving message from renderer: -0.004
-]]></system-err>
-  </testcase>
-  <testcase name="startExtent" classname="serviceStatusHomePage.TestTripPlanner" time="0">
-    <skipped/>
-  </testcase>
-  <testcase name="init" classname="serviceStatusHomePage.TestTripPlanner" time="0">
-    <skipped/>
-  </testcase>
-  <testcase name="testTripsPlannerService" classname="serviceStatusHomePage.TestTripPlanner" time="0">
-    <skipped message="timeout&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60644}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 0b5d54e99be2f98c34e0e0c4621fc359"/>
-  </testcase>
-  <testcase name="afterEachTestMethod" classname="serviceStatusHomePage.TestTripPlanner" time="0">
-    <skipped/>
-  </testcase>
-  <testcase name="cleanUp" classname="serviceStatusHomePage.TestTripPlanner" time="0">
-    <skipped/>
-  </testcase>
-  <testcase name="testAdOnMtaCard" classname="testBusiness.TestDoingBusiness" time="10.017">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Doing Business With Us&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60706}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 84b669e7ca762da881eeccec401500df&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;Doing Business With Us&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Doing Business With Us')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60706}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 84b669e7ca762da881eeccec401500df
-*** Element info: {Using=xpath, value=//a[contains(text(),'Doing Business With Us')]}
-	at testBusiness.TestDoingBusiness.testAdOnMtaCard(TestDoingBusiness.java:24)
-</failure>
-    <system-out><![CDATA[TestDoingBusiness: test Ad On Mta Card
-TestDoingBusiness: click On Ad On Mta Card
-TestDoingBusiness: click On Doing Business
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 30375
-Only local connections are allowed.
-Oct 05, 2018 5:44:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testBusinessItem" classname="testBusiness.TestDoingBusiness" time="10.072">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Doing Business With Us&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60750}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 5ab29fa1bd312bcf8b42c1bd20c9ec32&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;Doing Business With Us&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Doing Business With Us')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60750}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 5ab29fa1bd312bcf8b42c1bd20c9ec32
-*** Element info: {Using=xpath, value=//a[contains(text(),'Doing Business With Us')]}
-	at testBusiness.TestDoingBusiness.testBusinessItem(TestDoingBusiness.java:29)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestDoingBusiness: test Business Item
-TestDoingBusiness: click On Doing Business Items
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 48427
-Only local connections are allowed.
-Oct 05, 2018 5:45:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testBusinessTite" classname="testBusiness.TestDoingBusiness" time="10.02">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Doing Business With Us&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60790}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: f963d64c9296c209dd31a8c48adf9efc&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;Doing Business With Us&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Doing Business With Us')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60790}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: f963d64c9296c209dd31a8c48adf9efc
-*** Element info: {Using=xpath, value=//a[contains(text(),'Doing Business With Us')]}
-	at testBusiness.TestDoingBusiness.testBusinessTite(TestDoingBusiness.java:33)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestDoingBusiness: get Doing Business Title
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 45875
-Only local connections are allowed.
-Oct 05, 2018 5:45:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testDoingBusiness" classname="testBusiness.TestDoingBusiness" time="10.062">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;Doing Business With Us&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60828}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: fb02ef44b52807df3d3df269725b09b7&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;Doing Business With Us&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Doing Business With Us')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60828}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: fb02ef44b52807df3d3df269725b09b7
-*** Element info: {Using=xpath, value=//a[contains(text(),'Doing Business With Us')]}
-	at testBusiness.TestDoingBusiness.testDoingBusiness(TestDoingBusiness.java:18)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestDoingBusiness: test Doing Business
-TestDoingBusiness: click On Doing Business
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 22291
-Only local connections are allowed.
-Oct 05, 2018 5:45:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testSchedule" classname="testFareAndTolls.ScheduleTest" time="10.025">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;menu-399-1&quot;]/a&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60866}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 58c6c56a7169ba7f61f8455eb75235dd&#10;*** Element info: {Using=xpath, value=//*[@id=&quot;menu-399-1&quot;]/a}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="menu-399-1"]/a"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60866}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 58c6c56a7169ba7f61f8455eb75235dd
-*** Element info: {Using=xpath, value=//*[@id="menu-399-1"]/a}
-	at testFareAndTolls.ScheduleTest.testSchedule(ScheduleTest.java:19)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-cliking on schedule
-ScheduleTest: click On Schedule
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 33066
-Only local connections are allowed.
-Oct 05, 2018 5:45:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testStatenIslands" classname="testFareAndTolls.ScheduleTest" time="10.076">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;menu-399-1&quot;]/a&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60906}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 28347e9b6723314b4daba765bd6ca110&#10;*** Element info: {Using=xpath, value=//*[@id=&quot;menu-399-1&quot;]/a}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="menu-399-1"]/a"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60906}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 28347e9b6723314b4daba765bd6ca110
-*** Element info: {Using=xpath, value=//*[@id="menu-399-1"]/a}
-	at testFareAndTolls.ScheduleTest.testStatenIslands(ScheduleTest.java:24)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-ScheduleTest: click On Schedule
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 22839
-Only local connections are allowed.
-Oct 05, 2018 5:46:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="AboutMtaTest" classname="testMtaInfo.TestMtaInfo" time="10.038">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;MTA Info&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60942}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: d6a01d2bb3188f8af21e29059607104a&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;MTA Info&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'MTA Info')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60942}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: d6a01d2bb3188f8af21e29059607104a
-*** Element info: {Using=xpath, value=//a[contains(text(),'MTA Info')]}
-	at testMtaInfo.TestMtaInfo.AboutMtaTest(TestMtaInfo.java:29)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestMtaInfo: About Mta Test
-TestMtaInfo: about Mta
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 25211
-Only local connections are allowed.
-Oct 05, 2018 5:46:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="getMtaTitle" classname="testMtaInfo.TestMtaInfo" time="10.047">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;MTA Info&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60982}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 6f43a191eb84abf7e628a4ae8a312d49&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;MTA Info&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'MTA Info')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60982}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 6f43a191eb84abf7e628a4ae8a312d49
-*** Element info: {Using=xpath, value=//a[contains(text(),'MTA Info')]}
-	at testMtaInfo.TestMtaInfo.getMtaTitle(TestMtaInfo.java:23)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestMtaInfo: get Mta Title
-TestMtaInfo: Mta Title
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 42773
-Only local connections are allowed.
-Oct 05, 2018 5:46:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testFinance" classname="testMtaInfo.TestMtaInfo" time="10.026">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[contains(text(),&apos;MTA Info&apos;)]&quot;}&#10;  (Session info: chrome=69.0.3497.100)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;FAHIM-AHMED-198&apos;, ip: &apos;192.168.141.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61023}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 02a369d80c05d885e11abefa20815212&#10;*** Element info: {Using=xpath, value=//a[contains(text(),&apos;MTA Info&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'MTA Info')]"}
-  (Session info: chrome=69.0.3497.100)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'FAHIM-AHMED-198', ip: '192.168.141.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\Owner\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61023}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
-Session ID: 02a369d80c05d885e11abefa20815212
-*** Element info: {Using=xpath, value=//a[contains(text(),'MTA Info')]}
-	at testMtaInfo.TestMtaInfo.testFinance(TestMtaInfo.java:34)
-</failure>
-    <system-out><![CDATA[Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
-TestMtaInfo: test Finance
-TestMtaInfo: about Mta
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 33392
-Only local connections are allowed.
-Oct 05, 2018 5:46:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
-  <testcase name="testMtaInfo" classname="testMtaInfo.TestMtaInfo" time="2.163"/>
-  <testcase name="testMtaPoliceSearch" classname="testMtaInfo.TestMtaInfo" time="5.785"/>
-  <testcase name="testMtaPoliceSearchBox" classname="testMtaInfo.TestMtaInfo" time="10.934"/>
-  <testcase name="testNavigate" classname="testMtaInfo.TestMtaInfo" time="3.468"/>
-  <testcase name="signIn" classname="testXlSheet.TestHomePageMyMtaAlert" time="5.665"/>
-  <testcase name="signIn" classname="testXlSheet.TestHomePageMyMtaAlert" time="5.922"/>
-  <testcase name="test" classname="testXlSheet.TestHomePageMyMtaAlert" time="6.171"/>
-  <testcase name="testMymtaHomePage" classname="testXlSheet.TestHomePageMyMtaAlert" time="2.867"/>
-  <testcase name="TestHovering" classname="Transperancy.TestTransperancy" time="0.104"/>
-  <testcase name="testGetText" classname="Transperancy.TestTransperancy" time="7.383"/>
-  <testcase name="testTransperancyHover" classname="Transperancy.TestTransperancy" time="8.688"/>
-  <testcase name="checkServiceStatusComponents" classname="serviceStatusHomePage.TestServiceStatus" time="0.091"/>
+  <testcase name="testTitle" classname="serviceStatusHomePage.TestTripPlanner" time="0.121"/>
+  <testcase name="testTripsPlannerService" classname="serviceStatusHomePage.TestTripPlanner" time="0.101"/>
+  <testcase name="testTripsTitle" classname="serviceStatusHomePage.TestTripPlanner" time="7.296"/>
+  <testcase name="testAdOnMtaCard" classname="testBusiness.TestDoingBusiness" time="4.821"/>
+  <testcase name="testBusinessItem" classname="testBusiness.TestDoingBusiness" time="5.357"/>
+  <testcase name="testBusinessTite" classname="testBusiness.TestDoingBusiness" time="2.634"/>
+  <testcase name="testDoingBusiness" classname="testBusiness.TestDoingBusiness" time="3.282"/>
+  <testcase name="testSchedule" classname="testFareAndTolls.ScheduleTest" time="7.596"/>
+  <testcase name="testStatenIslands" classname="testFareAndTolls.ScheduleTest" time="5.269"/>
+  <testcase name="AboutMtaTest" classname="testMtaInfo.TestMtaInfo" time="6.252"/>
+  <testcase name="getMtaTitle" classname="testMtaInfo.TestMtaInfo" time="5.692"/>
+  <testcase name="testFinance" classname="testMtaInfo.TestMtaInfo" time="5.035"/>
+  <testcase name="testMtaInfo" classname="testMtaInfo.TestMtaInfo" time="2.554"/>
+  <testcase name="testMtaPoliceSearch" classname="testMtaInfo.TestMtaInfo" time="10.244"/>
+  <testcase name="testMtaPoliceSearchBox" classname="testMtaInfo.TestMtaInfo" time="16.027"/>
+  <testcase name="testNavigate" classname="testMtaInfo.TestMtaInfo" time="3.704"/>
+  <testcase name="signIn" classname="testXlSheet.TestHomePageMyMtaAlert" time="8.596"/>
+  <testcase name="signIn" classname="testXlSheet.TestHomePageMyMtaAlert" time="6.669"/>
+  <testcase name="test" classname="testXlSheet.TestHomePageMyMtaAlert" time="8.753"/>
+  <testcase name="testMymtaHomePage" classname="testXlSheet.TestHomePageMyMtaAlert" time="6.594"/>
+  <testcase name="TestHovering" classname="Transperancy.TestTransperancy" time="0.113"/>
+  <testcase name="testGetText" classname="Transperancy.TestTransperancy" time="8.386"/>
+  <testcase name="testTransperancyHover" classname="Transperancy.TestTransperancy" time="5.962"/>
+  <testcase name="checkServiceStatusComponents" classname="serviceStatusHomePage.TestServiceStatus" time="0.098"/>
 </testsuite>

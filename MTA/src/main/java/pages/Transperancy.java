@@ -29,7 +29,6 @@ public class Transperancy extends CommonAPI {
         WebElement element1=driver.findElement(By.cssSelector("#menu-402-1 > a"));
         Actions actions1=new Actions(driver);
         actions1.moveToElement(element1).click();
-
     }
     public void hoverTransperancy() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -45,11 +44,10 @@ public class Transperancy extends CommonAPI {
         hoverTransperancy();
         String title=capital.getText();
         System.out.println(title);
-    return title;
+        return title;
     }
     public Transperancy(){}
     public Transperancy(WebDriver driver){this.driver=driver;
         PageFactory.initElements(driver,this);
     }
-
 }

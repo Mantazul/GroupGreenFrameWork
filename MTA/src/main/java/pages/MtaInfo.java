@@ -63,6 +63,4 @@ public class MtaInfo extends CommonAPI {
         searchButtonMta.click();
         sleepFor(2);
     }
-
-
 }

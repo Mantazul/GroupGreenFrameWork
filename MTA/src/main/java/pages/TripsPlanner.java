@@ -76,5 +76,4 @@ public class TripsPlanner extends CommonAPI {
         Actions actions=new Actions(driver);
         actions.moveToElement(element).click().perform();
     }
-
 }

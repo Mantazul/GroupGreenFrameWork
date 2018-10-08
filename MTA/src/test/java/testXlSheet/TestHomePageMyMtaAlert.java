@@ -20,12 +20,12 @@ public class TestHomePageMyMtaAlert extends HomePageMyMtaAlerts{
     }
         @Test
     public void testMymtaHomePage(){
-            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnsignUp();
         }
         @Test
         public void test() throws InterruptedException {
-            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnsignUp();
         signUpDataForXls("fahim","fsaag");
         }

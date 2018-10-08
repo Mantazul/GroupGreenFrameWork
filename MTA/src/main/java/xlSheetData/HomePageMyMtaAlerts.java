@@ -38,5 +38,4 @@ public class HomePageMyMtaAlerts extends CommonAPI {
                 XlsDataReaderUtil.getDataFromExcel();
         return testData.iterator();
     }
-
 }

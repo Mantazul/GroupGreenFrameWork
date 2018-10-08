@@ -56,6 +56,4 @@ public class TestTripPlanner extends TripsPlanner {
     public void testSelectHoverItem() throws InterruptedException {
         selectHoveringItem();
     }
-
-
 }

@@ -46,7 +46,19 @@ public class TestServiceStatus extends HomePage {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchButton();
     }
-
-
-
+    @Test
+    public void testEmployment(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        employment();
+    }
+    @Test
+    public void testEHquarter(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        eMtaHeadQuarter();
+    }
+    @Test
+    public void testBusiness(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        eMtaBusiness();
+    }
 }

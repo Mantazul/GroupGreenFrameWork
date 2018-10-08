@@ -32,7 +32,7 @@ public class HomePage extends CommonAPI {
     }
     public void clickOnSubWay(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        driver.findElement(By.className("t tdiv selectedStatusTab")).click();
+        driver.findElement(By.id("railTab")).click();
     }
     public void clickOnBus(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -59,6 +59,20 @@ public class HomePage extends CommonAPI {
             searchInput();
             driver.findElement(By.className("form-submit")).click();
             sleepFor(2);
+        }
+        public void employment(){
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+            driver.findElement(By.xpath("//a[contains(text(),'Employment')]")).click();
+        }
+        public void eMtaHeadQuarter(){
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+            employment();
+            driver.findElement(By.xpath("//a[contains(text(),'MTA Headquarters')]")).click();
+        }
+        public void eMtaBusiness(){
+            TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+            employment();
+            driver.findElement(By.xpath("//a[contains(text(),'MTA Business Service Center')]")).click();
         }
 
 
