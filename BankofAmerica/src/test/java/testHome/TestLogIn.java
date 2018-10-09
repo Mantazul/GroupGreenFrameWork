@@ -10,9 +10,8 @@ public class TestLogIn extends LogIn {
   @Test
     public void logIn(){
        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        LogIn login = PageFactory.initElements(driver, LogIn.class);
-        login.enterUserName();
-        login.enterPassword();
-        login.clickSignIn();
+       LogIn login = PageFactory.initElements(driver, LogIn.class);login.enterUserName();
+       login.enterPassword();
+       login.clickSignIn();
     }
 }

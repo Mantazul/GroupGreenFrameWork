@@ -230,7 +230,6 @@ public class CommonAPI {
             String st = web.getText();
             text.add(st);
         }
-
         return text;
     }
     public List<WebElement> getListOfWebElementsByCss(String locator) {
@@ -276,7 +275,6 @@ public class CommonAPI {
         }
         return items;
     }
-
     public void selectOptionByVisibleText(WebElement element, String value) {
         Select select = new Select(element);
         select.selectByVisibleText(value);
@@ -287,7 +285,6 @@ public class CommonAPI {
     public void inputValueInTextBoxByWebElement(WebElement element, String value){
         element.sendKeys(value + Keys.ENTER);
     }
-
     public void mouseHoverByCSS(String locator){
         try {
             WebElement element = driver.findElement(By.cssSelector(locator));
@@ -299,7 +296,6 @@ public class CommonAPI {
             Actions action = new Actions(driver);
             action.moveToElement(element).perform();
         }
-
     }
     public void mouseHoverByXpath(String locator){
         try {
@@ -322,7 +318,6 @@ public class CommonAPI {
         Alert alert = driver.switchTo().alert();
         alert.dismiss();
     }
-
     //iFrame Handle
     public void iframeHandle(WebElement element){
         driver.switchTo().frame(element);

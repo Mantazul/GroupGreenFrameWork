@@ -20,9 +20,7 @@ public class LogIn extends CommonAPI {
         username.sendKeys("habijabi@gmail.com");
         password.sendKeys("wrongpassword");
         signin.click();
-
     }
-
     public WebElement getSignin() {
         return signin;
     }
@@ -56,5 +54,11 @@ public class LogIn extends CommonAPI {
     public void loginWithInValidusernameandPassword(WebElement element1, WebElement element2){
       element1.sendKeys();
       element2.sendKeys();
+    }
+    public void logInByDataProvider(String userName, String passWord) throws InterruptedException {
+        username.sendKeys(userName);
+        password.sendKeys(passWord);
+        signin.click();
+        Thread.sleep(1000);
     }
 }

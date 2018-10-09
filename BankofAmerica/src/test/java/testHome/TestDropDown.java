@@ -16,5 +16,4 @@ public class TestDropDown extends DropDown {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnDropdownMenu();
     }
-
 }

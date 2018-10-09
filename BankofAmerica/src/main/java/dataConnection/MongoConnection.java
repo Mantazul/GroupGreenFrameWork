@@ -15,7 +15,7 @@ public class MongoConnection extends ConnectToMongoDB {
     public void DropDownList (){
         driver.findElement(By.id("NAV_CONTACT_US")).click();
         List<WebElement> dropdownlist= driver.findElements(By.xpath("//*[@id=\"stateListId\"]/option"));
-       insertIntoMongoDB(dropdownlist,"Current_State","state");
+        insertIntoMongoDB(dropdownlist,"Current_State","state");
     }
     @Test
     public void readData() {
@@ -28,4 +28,3 @@ public class MongoConnection extends ConnectToMongoDB {
 }
 
 
-//*[@id="stateListId"]

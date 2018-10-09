@@ -32,9 +32,7 @@ public class PostResources {
         Response response = request.delete("http://localhost:3000/posts/91");
         int statusCode = response.getStatusCode();
         Assert.assertEquals(statusCode, 200);
-
     }
-
     @Test
     public void putPost() {
         RequestSpecification request = RestAssured.given();
@@ -49,7 +47,7 @@ public class PostResources {
         request.body(jsonObject.toJSONString());
 
 
-        Response response = request.put("http://localhost:3000/posts/999");
+        Response response = request.put("http://localhost:3000/posts/991");
 
         int statusCode = response.getStatusCode();
         Assert.assertEquals(statusCode, 200);

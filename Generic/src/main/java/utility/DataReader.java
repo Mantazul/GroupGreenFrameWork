@@ -79,7 +79,6 @@ public class DataReader {
         }
         return data;
     }
-
     public String getCellValue(HSSFCell cell) {
         Object value = null;
 
@@ -97,7 +96,6 @@ public class DataReader {
         }
         return value.toString();
     }
-
     public void writeBack(String value) throws IOException {
         wb = new HSSFWorkbook();
         sheet = wb.createSheet();

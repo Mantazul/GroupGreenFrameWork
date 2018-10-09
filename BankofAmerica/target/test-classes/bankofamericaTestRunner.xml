@@ -6,17 +6,17 @@
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
     <parameter name="os" value="OS X"/>
-    <parameter name="os_version" value="Mojave"/>
+    <parameter name="os_version" value="Sierra"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="69.0"/>
     <parameter name="url" value="https://www.bankofamerica.com/"/>
 
     <test name = "BankofAmerica site test">
         <classes>
-            <!--<class name="testHome.TestHome"/>
+            <class name="testHome.TestHome"/>
             <class name="testHome.TestLogIn"/>
             <class name="testHome.TestDropDown"/>
-            <class name="testHome.SearchTest"/>-->
+            <class name="testHome.SearchTest"/>
             <class name="testHome.TestGoogleSheetPage"/>
         </classes>
     </test>

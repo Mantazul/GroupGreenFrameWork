@@ -11,7 +11,7 @@ public class TestHome extends HomePage {
     @Test
     public void testHome(){
       TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        checkHomePage();
+      checkHomePage();
     }
     @Test
     public void testLanguage(){

@@ -9,8 +9,8 @@ public class XlsDataReaderUtil {
 
         ArrayList<Object[]> myData = new ArrayList<Object[]>();
         try {
-            reader = new XlsReader("/Users/asifchowdhury/Desktop/BankWeb/Generic/src/main/java/dataProviderUtilityWithXlsReader/BankofAmericaDataReader.xls");
-      }
+            reader = new XlsReader("/Users/asifchowdhury/Desktop/BankWeb/BankofAmerica/data/BankofAmericaDataReader.xls");
+        }
         catch (Exception e){
             e.printStackTrace();
         }
@@ -21,8 +21,6 @@ public class XlsDataReaderUtil {
             Object obj[] = {username, password};
             myData.add(obj);
         }
-
         return  myData;
     }
-
 }

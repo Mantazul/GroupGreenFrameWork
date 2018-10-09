@@ -24,7 +24,6 @@ public class DropDown extends CommonAPI {
         driver.findElement(By.cssSelector("#NAV_CONTACT_US")).click();
         clickByXpath("//select[@id='stateListId']");
         clickByXpath("//*[@id=\"stateListId\"]/option[4]");
-
     }
 }
 

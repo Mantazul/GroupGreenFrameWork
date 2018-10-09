@@ -26,7 +26,6 @@ public class InputFromXls extends CommonAPI {
         signin.click();
 
     }
-
     public void signInToLinkedInAccount(){
         username.sendKeys("asiftanvir");
         password.sendKeys("3476562394");

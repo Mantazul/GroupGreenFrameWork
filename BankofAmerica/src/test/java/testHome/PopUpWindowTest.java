@@ -1,11 +1,11 @@
 
 package testHome;
 
-import home.PopUp;
+import home.PopUpHandle;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
 
-public class PopUpWindowTest extends PopUp {
+public class PopUpWindowTest extends PopUpHandle {
 
     @Test
     public void testPopUp  (){
