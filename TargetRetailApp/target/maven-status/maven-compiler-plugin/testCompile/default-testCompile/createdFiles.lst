@@ -1,0 +1,10 @@
+testDataDriven\TestByInputFromXls$1.class
+testDataDriven\TestLogInByXlsFile$1.class
+testDataDriven\TestLogInByXlsFile.class
+keyWordDataDriven\InputFromXlsTest$1.class
+testDataDriven\TestByInputFromXls.class
+testHomePageTarget\TargetLoginTest.class
+testHomePageTarget\ShoppingCartTest.class
+testHomePageTarget\TargetHomePageTest.class
+testHomePageTarget\TestGoogleSheetPage.class
+keyWordDataDriven\InputFromXlsTest.class
