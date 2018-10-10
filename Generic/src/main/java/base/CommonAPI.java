@@ -87,7 +87,6 @@ public class CommonAPI {
         calendar.setTimeInMillis(millis);
         return calendar.getTime();
     }
-
     public WebDriver driver = null;
     public String browserstack_username= "asifchowdhury2";
     public String browserstack_accesskey = "5tNawyLsJrT6xCumx8V9";

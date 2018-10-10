@@ -1,7 +1,6 @@
 keyWordDriven/InputFromXls.class
-home/PopUp.class
-home/PopUp$3.class
 home/PopUpHandle$2.class
+dataDriven/LogInByXlsFile.class
 home/Search$2.class
 home/HomePage.class
 home/HomePage$1.class
@@ -11,11 +10,8 @@ home/HomePage$2.class
 home/DropDown$1.class
 home/LogIn$3.class
 googleSheetsAPI/GoogleSheetPage.class
-home/PopUp$1.class
 keyWordDriven/InputFromXls$2.class
-dataConnection/MongoConnection.class
 home/Search.class
-home/PopUp$2.class
 optionLists/Savings.class
 optionLists/HomeLoans.class
 optionLists/Checking.class
@@ -25,13 +21,13 @@ optionLists/CreditCards.class
 home/DropDown$2.class
 home/DropDown.class
 home/HomePage$3.class
+dataConnection/LogInData.class
 home/LogIn.class
 home/PopUpHandle.class
 home/PopUpHandle$1.class
 keyWordDriven/InputFromXls$1.class
 keyWordDriven/InputFromXls$3.class
 home/Search$1.class
-home/ByInputFromXls.class
 optionLists/Investing.class
 optionLists/AutoLoans.class
 optionLists/BetterMoneyHabits.class

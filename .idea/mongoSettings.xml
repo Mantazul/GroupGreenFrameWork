@@ -56,6 +56,28 @@
             <SshTunnelingConfiguration />
           </option>
         </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="label" value="server" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="label" value="server2" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+        </ServerConfiguration>
       </list>
     </option>
   </component>
