@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c661b5-4130-4635-91d0-ce2abbce49c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/Xls_Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/datProviderUtilityWIthXlsReader/Xls_Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/datProviderUtilityWIthXlsReader/Xls_Reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/test-classes/JASONServer/PostResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/test-classes/JASONServer/PostResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/main/java/dataDriven/LogInByXlsFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/main/java/homePageTarget/TargetLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/main/java/homePageTarget/TargetLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/main/java/homePageTarget/TargetShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/main/java/homePageTarget/TargetShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/main/java/homePageTarget/XcelElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testDataDriven/TestByInputFromXls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testDataDriven/TestLogInByXlsFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/ShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/ShoppingCartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/TargetHomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/TargetHomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/TargetLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/test/java/testHomePageTarget/TargetLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/src/test/resources/targetTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/src/test/resources/targetTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/classes/dataDriven/LogInByXlsFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/TargetLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/classes/homePageTarget/XcelElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/targetTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/targetTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testDataDriven/TestByInputFromXls$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testDataDriven/TestByInputFromXls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testDataDriven/TestLogInByXlsFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testDataDriven/TestLogInByXlsFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/ShoppingCartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/ShoppingCartTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/TargetHomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/TargetHomePageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/TargetLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TargetRetailApp/target/test-classes/testHomePageTarget/TargetLoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -312,7 +276,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-33" />
     <option name="y" value="150" />
     <option name="width" value="1417" />
@@ -391,7 +355,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539282181383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539282601722" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
