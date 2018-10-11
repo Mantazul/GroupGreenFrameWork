@@ -38,7 +38,6 @@ public class DataReader {
         }
         return data;
     }
-
     public String[] fileReader2(String path, int sheetIndex) throws IOException {
         String[] data = {};
         File file = new File(path);

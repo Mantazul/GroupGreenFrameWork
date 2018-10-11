@@ -7,10 +7,9 @@ public class XlsDataReaderUtil {
     static Xls_Reader reader;
 
     public static ArrayList<Object[]> getDataFromExcel(){
-
         ArrayList<Object[]> myData = new ArrayList<Object[]>();
         try {
-            reader = new Xls_Reader("C:\\Users\\Jewell\\Desktop\\Project\\Generic\\src\\main\\java\\datProviderUtilityWIthXlsReader\\Workbook2.xls");
+            reader = new Xls_Reader("C:\\Users\\Jewell\\Desktop\\WebAutomationFramework\\Generic\\src\\main\\java\\datProviderUtilityWIthXlsReader\\Workbook2.xls");
         }
         catch (Exception e){
             e.printStackTrace();
@@ -23,7 +22,6 @@ public class XlsDataReaderUtil {
             Object obj[] = {Items};
             myData.add(obj);
         }
-
         return  myData;
     }
 }

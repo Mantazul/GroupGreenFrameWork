@@ -27,7 +27,7 @@ public class TargetShoppingCart extends CommonAPI {
 
     public TargetShoppingCart() { }
     public void clickOnShoppingCart() {
-      // TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+         //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ShoopingCart.click();
     }
     public void clickOnAddQuantity() {

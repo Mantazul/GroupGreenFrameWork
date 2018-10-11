@@ -31,11 +31,11 @@ public class TargetLogin extends CommonAPI {
     }
 
     public void clickOnEnterEmailOrMobile() {
-
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         EnterEmailOrMobile.click();
     }
     public void clickOnTargetLogin() {
-
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         EnterPassWord.click();
     }
     public void clickOnForgotPassWord() {
@@ -54,6 +54,7 @@ public class TargetLogin extends CommonAPI {
        PageFactory.initElements(driver, this);
     }
     public void logInByDataProvider(String userName, String passWord) throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         username.sendKeys(userName);
         password.sendKeys(passWord);
         signin.click();

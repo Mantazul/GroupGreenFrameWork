@@ -3,6 +3,7 @@ package testHomePageTarget;
 import homePageTarget.TargetLogin;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import reporting.TestLogger;
 
 public class TargetLoginTest extends TargetLogin {
 
@@ -13,17 +14,17 @@ public void init() {
 }
 @Test
 public void ClickOnTargetLoginF(){
-
+    TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
     clickOnTargetLogin();
 }
 @Test
 public void EnterPassWordF(){
-
+    TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
     clickOnEnterEmailOrMobile();
 }
 @Test
 public void RecoverPasswordF(){
-
-    //clickOnForgotPassWord();
-}
+    TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+    clickOnForgotPassWord();
+    }
 }

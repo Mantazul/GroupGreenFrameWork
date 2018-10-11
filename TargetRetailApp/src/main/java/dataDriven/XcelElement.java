@@ -1,4 +1,4 @@
-package homePageTarget;
+package dataDriven;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebElement;
