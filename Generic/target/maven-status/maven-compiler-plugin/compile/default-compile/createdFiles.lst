@@ -1,0 +1,10 @@
+googleAPIs/GoogleSheetReader.class
+base/CommonAPI.class
+reporting/ExtentManager.class
+databases/ConnectToMongoDB.class
+reporting/ApplicationLog.class
+reporting/ExtentTestManager.class
+utility/DataReader.class
+reporting/TestLogger.class
+dataProviderUtilityWithXlsReader/XlsDataReaderUtil.class
+dataProviderUtilityWithXlsReader/XlsReader.class
