@@ -10,7 +10,7 @@ import reporting.TestLogger;
 
 import java.util.List;
 
-public class TestMongoDB extends DatabaseData {
+public class SelectLanguage extends DatabaseData {
     DatabaseData data;
     String Languages;
     @BeforeMethod
@@ -27,7 +27,7 @@ public class TestMongoDB extends DatabaseData {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         readData();
        }
-}
+    }
 
 
 

@@ -11,7 +11,7 @@ import reporting.TestLogger;
 import java.io.IOException;
 import java.util.List;
 
-public class GoogleSheetPageTest extends GoogleSheetPage {
+public class SignInByTest extends GoogleSheetPage {
 GoogleSheetPage googleSheetPage;
 @BeforeMethod
 public void initialize()

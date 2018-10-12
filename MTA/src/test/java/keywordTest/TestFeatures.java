@@ -1,4 +1,4 @@
-package kewwordTest;
+package keywordTest;
 
 import keywordDriven.InputFromXls;
 import org.openqa.selenium.support.PageFactory;

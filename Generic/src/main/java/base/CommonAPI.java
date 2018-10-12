@@ -100,7 +100,7 @@ public class CommonAPI extends ConnectToMongoDB {
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false")String cloudEnvName,
                       @Optional("windows") String os,@Optional("10") String os_version, @Optional("chrome-options") String browserName, @Optional("60")
-                              String browserVersion, @Optional("http://www.mta.info") String url)throws IOException {
+                              String browserVersion, @Optional("http://www.costco.com") String url)throws IOException {
         System.setProperty("webdriver.chrome.driver", "E:\\GreenGroup\\Generic\\browser-driver\\chromedriver.exe");
         if(useCloudEnv==true){
             if(cloudEnvName.equalsIgnoreCase("browserstack")) {

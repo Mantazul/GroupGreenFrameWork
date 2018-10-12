@@ -12,6 +12,7 @@
         <module>MTA</module>
         <module>Generic</module>
         <module>RestAPI</module>
+        <module>Cotsco</module>
     </modules>
     <dependencyManagement>
         <dependencies>
