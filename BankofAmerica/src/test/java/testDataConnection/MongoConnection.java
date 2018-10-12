@@ -18,7 +18,8 @@ public class MongoConnection extends LogInData {
 
         List<WebElement> expectedData = driver.findElements(By.xpath("//*[@id=\"stateListId\"]/option"));
         List<String> actualData = LocationListFromMongoDB("Current_state","state");
-        for(int i = 0; i <=actualData.size(); i++){
+        for(int i = 0; i <actualData.size(); i++){
+            System.out.println(actualData.get(i));
             //Assert.assertEquals(actualData.get(i),expectedData.get(i).getText());
         }
     }

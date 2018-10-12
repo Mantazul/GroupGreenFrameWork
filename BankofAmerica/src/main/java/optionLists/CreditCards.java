@@ -14,6 +14,7 @@ public class CreditCards extends CommonAPI {
     @FindBy(id = "buildCreditCards")public WebElement buildCreditCards;
     @FindBy(id = "smallBusinessCards")public WebElement smallBusinessCards;
     @FindBy(id = "manageCreditCardAccount")public WebElement manageCreditCardAccount;
+
     public void selectCreditCards(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         creditCards.click();

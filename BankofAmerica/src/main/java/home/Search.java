@@ -11,6 +11,7 @@ import java.util.List;
 public class Search extends CommonAPI {
     @FindBy(css = "#nav-search-query")public WebElement searchBox;
     @FindBy(xpath = "//input[@alt='Search']") public WebElement searchButton;
+
     public WebElement getSearchButton() {
         return searchButton;
     }

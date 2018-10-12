@@ -13,6 +13,7 @@ public class HomeLoans extends CommonAPI {
     @FindBy(id = "homeEquity")public WebElement homeEquity;
     @FindBy(id = "findAHome")public WebElement findHome;
     @FindBy(id = "firstTimeHomeBuyer")public WebElement firsTimeHomeBuyer;
+
     public void selectHomeLoans(){
         homeLoans.click();
     }

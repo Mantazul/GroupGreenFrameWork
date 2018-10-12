@@ -11,8 +11,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class TestGoogleSheetPage extends GoogleSheetPage {
-
-   GoogleSheetPage objGoogleSheetsPage;
+    GoogleSheetPage objGoogleSheetsPage;
    LogIn objLoginPage;
 
     @BeforeMethod
@@ -23,10 +22,9 @@ public class TestGoogleSheetPage extends GoogleSheetPage {
     @Test
     public void testLogInByInvalidIdPassUsingGoogleSheet() throws IOException, InterruptedException {
         sleepFor(3);
-
         int i = 0;
-        String spreadsheetId = "1xmmP7QmoGj9F6zBUqJbVN5_1pTxn5v1X5j4tuqDDwUo";
-        String range = "Sheet1!A2:B";
+        String spreadsheetId = "1xZFJh5IlbIBR7pM9Iq7lnRb834rLgp0OrO8imPudlzY";
+        String range = "Sheet1!A2:D";
         List<String> actualErrorMessage = signInByInvalidIdPass(spreadsheetId, range);
         List<List<Object>> expectedErrorMessage = getSpreadSheetRecords(spreadsheetId, range);
         for (List row : expectedErrorMessage) {

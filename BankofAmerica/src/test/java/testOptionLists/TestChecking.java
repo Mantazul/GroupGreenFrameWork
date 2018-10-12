@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 
 public class TestChecking extends Checking {
-
     @Test
     public void testCheking(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
