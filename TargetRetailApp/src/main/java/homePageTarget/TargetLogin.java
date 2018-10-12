@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import reporting.TestLogger;
 
 import static googleSheetsAPI.GoogleSheetPage.password;
-import static googleSheetsAPI.GoogleSheetPage.signin;
+import static googleSheetsAPI.GoogleSheetPage.Signin;
 import static googleSheetsAPI.GoogleSheetPage.username;
 
 public class TargetLogin extends CommonAPI {
@@ -49,7 +49,7 @@ public class TargetLogin extends CommonAPI {
     public TargetLogin() {
     }
     public TargetLogin(WebDriver driver) {
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         driver = driver;
        PageFactory.initElements(driver, this);
     }
@@ -57,7 +57,7 @@ public class TargetLogin extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         username.sendKeys(userName);
         password.sendKeys(passWord);
-        signin.click();
+        SignIn.click();
         Thread.sleep(1000);
     }
 }

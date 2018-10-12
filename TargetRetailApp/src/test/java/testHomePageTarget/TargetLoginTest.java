@@ -13,7 +13,7 @@ public void init() {
     targetLogin = new TargetLogin(driver);
 }
 @Test
-public void ClickOnTargetLoginF(){
+public void ClickOnTargetLogin(){
     TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
     clickOnTargetLogin();
 }

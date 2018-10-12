@@ -3,6 +3,7 @@ package googleSheetsAPI;
 import base.CommonAPI;
 import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.model.ValueRange;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -13,14 +14,18 @@ import java.util.List;
 import static googleAPIs.GoogleSheetReader.getSheetsService;
 
 public class GoogleSheetPage extends CommonAPI {
-
-    @FindBy(id="onlineId1")
+    public static WebDriver driver = null;
+    @FindBy(xpath = "//*[@id=\"username\"]")
     public static WebElement username;
-    @FindBy(id="passcode1")
+    @FindBy(xpath = "//*[@id=\"password\"]")
     public static WebElement password;
-    @FindBy(id="signIn")
-    public static WebElement signin;
-    @FindBy(xpath = "/html/body/div[1]/div/div/div[1]/div[4]/div[2]/div/li")
+    //@FindBy(id="onlineId1")
+    //public static WebElement username;
+    //@FindBy(id="passcode1")
+    //public static WebElement password;
+    @FindBy(xpath = "//*[@id=\"accountNav-signIn\"]/a/div")
+    public static WebElement Signin;
+    @FindBy(xpath = "username--longInstruction")
     public static WebElement signInErrorMesage;
     //ALI_GS_TC1
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
@@ -37,8 +42,8 @@ public class GoogleSheetPage extends CommonAPI {
         }
     }
     public void click(){
-        typeOnInputBox("onlineId1",
-                "asiftanvir");
+        typeOnInputBox("//*[@id=\"username\"]",
+                "Jewell");
     }
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
 
@@ -48,7 +53,7 @@ public class GoogleSheetPage extends CommonAPI {
            sleepFor(1);
            inputValueInTextBoxByWebElement(username, row.get(1).toString());
            inputValueInTextBoxByWebElement(password, row.get(2).toString());
-           signin.click();
+           Signin.click();
             sleepFor(1);
            //actual.add(getCurrentPageTitle());
            actual.add(getTextByWebElement(signInErrorMesage));

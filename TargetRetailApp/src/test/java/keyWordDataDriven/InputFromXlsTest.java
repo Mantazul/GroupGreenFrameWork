@@ -10,7 +10,6 @@ import java.io.IOException;
 
 public class InputFromXlsTest extends InputFromXls {
     InputFromXls objInputXls;
-
     @BeforeMethod
     public void initializePage(){
       objInputXls = PageFactory.initElements(driver, InputFromXls.class);
@@ -18,6 +17,6 @@ public class InputFromXlsTest extends InputFromXls {
     @Test
     public void testSignInByKeyWord() throws IOException, InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        objInputXls.logInToBankOfAmerica();
+        objInputXls.logInToTarget();
     }
 }

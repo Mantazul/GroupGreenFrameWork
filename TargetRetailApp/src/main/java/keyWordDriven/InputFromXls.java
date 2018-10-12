@@ -19,14 +19,14 @@ public class InputFromXls extends CommonAPI {
     @FindBy(css = "#login-submit")
     public static WebElement signInButton;
 
-    public void logInToBankOfAmerica(){
-        username.sendKeys("habijabi@gmail.com");
+    public void logInToTarget(){
+        username.sendKeys("jmintegr1@gmail.com");
         password.sendKeys("wrongpassword");
         signin.click();
 
     }
-    public void signInToLinkedInAccount(){
-        username.sendKeys("asiftanvir");
+    public void signInToTarget(){
+        username.sendKeys("Jewell");
         password.sendKeys("3476562394");
         signInButton.click();
     }
@@ -34,7 +34,7 @@ public class InputFromXls extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         switch (feature){
             case "SignIn":
-                signInToLinkedInAccount();
+                signInToTarget();
                 break;
             default:
                 throw new InvalidArgumentException("Invalid feature");
@@ -43,7 +43,7 @@ public class InputFromXls extends CommonAPI {
     DataReader reader = new DataReader();
     public String[] getDataFromSignInKeyWord(String fileName) throws IOException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        String path = "../BankofAmerica/data/" + fileName;
+        String path = "../target/data/" + fileName;
         String[] output = reader.colReader(path, 2);
         return output;
     }
