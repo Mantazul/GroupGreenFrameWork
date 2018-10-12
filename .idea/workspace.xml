@@ -189,7 +189,7 @@
       <change beforePath="$PROJECT_DIR$/../../Desktop/Portfolio 7_18.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desktop/Portfolio 7_18.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Desktop/Stephen" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desktop/Stephen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Desktop/untitled folder" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desktop/untitled folder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Desktop/~$THUB Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop/~$THUB Commands.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desktop/~$THUB Commands.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ecommerce/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ecommerce/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ecommerce/.idea/misc.xml" beforeDir="false" />
@@ -214,6 +214,8 @@
       <change beforePath="$PROJECT_DIR$/../../Ecommerce/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Expedia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Expedia/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Midterm" beforeDir="false" afterPath="$PROJECT_DIR$/../../Midterm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../NewBestBuy/.idea/NewBestBuy.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../NewBestBuy/.idea/compiler.xml" beforeDir="false" />
@@ -395,7 +397,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -461,9 +463,9 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-235" />
+    <option name="y" value="60" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
   </component>
@@ -568,7 +570,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539381478135" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539382032156" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -759,7 +761,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="0" y="31" width="1440" height="812" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
