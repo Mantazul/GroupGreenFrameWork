@@ -19,10 +19,6 @@ public class GoogleSheetPage extends CommonAPI {
     public static WebElement username;
     @FindBy(xpath = "//*[@id=\"password\"]")
     public static WebElement password;
-    //@FindBy(id="onlineId1")
-    //public static WebElement username;
-    //@FindBy(id="passcode1")
-    //public static WebElement password;
     @FindBy(xpath = "//*[@id=\"accountNav-signIn\"]/a/div")
     public static WebElement Signin;
     @FindBy(xpath = "username--longInstruction")

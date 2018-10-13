@@ -35,4 +35,35 @@ public class TargetGiftCardsTest extends TargetGiftCards {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnVideoGameGiftCards();
     }
+    @Test
+    public void clickOnGiftCardByDeliveryTypeF(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnVideoGameGiftCards();
+    }
+    @Test
+    public void clickOnTargetGiftCardsHelpF(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnTargetGiftCardsHelp();
+    }
+    @Test
+    public void clickOnFAQsF(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickonFAQs();
+    }
+    @Test
+    public void clickOnCheckYourBalanceF(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnCheckYourBalance();
+    }
+    @Test
+    public void clickOnFraudPreventionInfoF(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnFraudPreventionInfo();
+    }
+    @Test
+    public void clickOnCorporateAndGiftCardsF() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        clickOnCorporateAndGiftCards();
+    }
 }

@@ -35,7 +35,7 @@ public class ConnectToMongoDB extends CommonAPI {
         }
         return  "Show all location";
     }
-    public List<String> readLanguageListFromMongoDB(String profileName,String columnName){
+    public List<String> LocationListFromMongoDB(String profileName,String columnName){
         List<String> list = new ArrayList<String>();
         MongoDatabase mongoDatabase = connectToMongoDB();
         MongoCollection<Document> collection = mongoDatabase.getCollection(profileName);

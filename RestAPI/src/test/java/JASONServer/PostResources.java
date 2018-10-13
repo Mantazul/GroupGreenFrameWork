@@ -24,7 +24,6 @@ public class PostResources {
         int statusCode = response.getStatusCode();
         Assert.assertEquals(statusCode, 201);
     }
-
     @Test
     public void deletePost() {
         RequestSpecification request = RestAssured.given();
@@ -46,7 +45,6 @@ public class PostResources {
 
         request.body(jsonObject.toJSONString());
 
-
         Response response = request.put("http://localhost:3000/posts/999");
 
         int statusCode = response.getStatusCode();
@@ -57,7 +55,6 @@ public class PostResources {
         RequestSpecification request = RestAssured.given();
         request.header("Content-Type", "application/json");
         JSONObject jsonObject = new JSONObject();
-
 
         jsonObject.put("id", 999);
         jsonObject.put("title", "Huckleberry Fin");
