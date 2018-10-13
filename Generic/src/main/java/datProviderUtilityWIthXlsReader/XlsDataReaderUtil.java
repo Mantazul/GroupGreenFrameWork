@@ -17,8 +17,8 @@ public class XlsDataReaderUtil {
         // change only sheet name in line 19
         for (int rowNum =2; rowNum <= reader.getRowCount("Sheet1"); rowNum++){
             String  Items = reader.getCellData("Sheet1", "Items",rowNum );
-//        String passCode = reader.getCellData("Sheet1","passCode", rowNum);
-//        String message = reader.getCellData("Sheet1","message", rowNum);
+        //String passCode = reader.getCellData("Sheet1","passCode", rowNum);
+        //String message = reader.getCellData("Sheet1","message", rowNum);
             Object obj[] = {Items};
             myData.add(obj);
         }

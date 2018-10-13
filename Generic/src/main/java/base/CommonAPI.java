@@ -300,7 +300,6 @@ public class CommonAPI {
             action.moveToElement(element).perform();
         }
     }
-    //handling Alert
     public void okAlert(){
         Alert alert = driver.switchTo().alert();
         alert.accept();
@@ -309,7 +308,6 @@ public class CommonAPI {
         Alert alert = driver.switchTo().alert();
         alert.dismiss();
     }
-    //iFrame Handle
     public void iframeHandle(WebElement element){
         driver.switchTo().frame(element);
     }
@@ -324,7 +322,6 @@ public class CommonAPI {
         DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
         Date date = new Date();
         df.format(date);
-
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         try {
             FileUtils.copyFile(file, new File(System.getProperty("user.dir")+ "/screenshots/"+screenshotName+" "+df.format(date)+".png"));
@@ -353,9 +350,6 @@ public class CommonAPI {
     }
     public void upLoadFile(String locator,String path){
         driver.findElement(By.cssSelector(locator)).sendKeys(path);
-        /* path example to upload a file/image
-           path= "C:\\Users\\rrt\\Pictures\\ds1.png";
-         */
     }
     public void clearInput(String locator){
         driver.findElement(By.cssSelector(locator)).clear();

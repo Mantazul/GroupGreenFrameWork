@@ -26,11 +26,10 @@ public class TargetHomePage extends CommonAPI {
     @FindBy(css = "#cart")
     public static WebElement Cart;
     @FindBy(css = "#mainContainer > div:nth-child(2)")
-
     public static WebElement ViewCart;
 
     public TargetHomePage() {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
     }
     public void clickOnRegisterR() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -57,7 +56,6 @@ public class TargetHomePage extends CommonAPI {
     }
     public void clickOnCategories() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-
         Categories.click();
     }
     public void clickOnDeals() {

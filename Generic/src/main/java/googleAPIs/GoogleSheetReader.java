@@ -34,7 +34,6 @@ public class GoogleSheetReader extends CommonAPI {
     private static HttpTransport HTTP_TRANSPORT;
     // Global instance of the scopes
     private static final List<String> SCOPES = Arrays.asList(SheetsScopes.SPREADSHEETS_READONLY);
-
     static {
         try {
             HTTP_TRANSPORT = GoogleNetHttpTransport.newTrustedTransport();

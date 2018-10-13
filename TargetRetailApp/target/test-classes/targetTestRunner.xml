@@ -8,7 +8,7 @@
     <parameter name="os" value="Windows"/>
     <parameter name="os_version" value="Windows 10"/>
     <parameter name="browserName" value="chrome"/>
-    <parameter name="browserVersion" value="60.0"/>
+    <parameter name="browserVersion" value="69.0"/>
     <parameter name="url" value="https://www.target.com/"/>
 
     <test name = "Target website test">

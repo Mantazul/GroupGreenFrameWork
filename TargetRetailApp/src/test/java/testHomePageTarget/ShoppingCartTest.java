@@ -11,8 +11,7 @@ public class ShoppingCartTest extends TargetShoppingCart {
     TargetShoppingCart shoppingCart ;
 
     @BeforeMethod
-    public void init() {
-        shoppingCart = PageFactory.initElements(driver, TargetShoppingCart.class);
+    public void init() { shoppingCart = PageFactory.initElements(driver, TargetShoppingCart.class);
     }
     @Test
     public void ClickOnShoppingCartF() {

@@ -15,7 +15,7 @@ import static googleSheetsAPI.GoogleSheetPage.username;
 
 public class TargetLogin extends CommonAPI {
     TargetLogin objLoginPage;
-    public static WebDriver driver = null;
+    public static WebDriver Driver = null;
     @FindBy(xpath = "//*[@id=\"username\"]")
     public static WebElement EnterEmailOrMobile;
     @FindBy(xpath = "//*[@id=\"password\"]")
@@ -49,7 +49,7 @@ public class TargetLogin extends CommonAPI {
     public TargetLogin() {
     }
     public TargetLogin(WebDriver driver) {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         driver = driver;
        PageFactory.initElements(driver, this);
     }

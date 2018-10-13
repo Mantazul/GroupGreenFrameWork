@@ -8,10 +8,10 @@ import reporting.TestLogger;
 
 public class TargetHomePageTest extends TargetHomePage {
 
-    TargetHomePage ObjTargetHomePage;
+    TargetHomePage targetHomePage;
     @BeforeMethod
     public void init () {
-        ObjTargetHomePage = PageFactory.initElements(driver, TargetHomePage.class);
+        targetHomePage = PageFactory.initElements(driver, TargetHomePage.class);
     }
     @Test
     public void ClickOnRegisterF(){

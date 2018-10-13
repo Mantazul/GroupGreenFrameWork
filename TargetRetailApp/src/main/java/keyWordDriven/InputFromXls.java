@@ -23,7 +23,6 @@ public class InputFromXls extends CommonAPI {
         username.sendKeys("jmintegr1@gmail.com");
         password.sendKeys("wrongpassword");
         signin.click();
-
     }
     public void signInToTarget(){
         username.sendKeys("Jewell");

@@ -9,6 +9,7 @@ public class TargetLoginTest extends TargetLogin {
 
 TargetLogin targetLogin;
 @BeforeMethod
+
 public void init() {
     targetLogin = new TargetLogin(driver);
 }

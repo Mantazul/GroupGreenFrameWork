@@ -1,8 +1,11 @@
 package homePageTarget;
 
 import base.CommonAPI;
+import junit.framework.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import reporting.TestLogger;
 
 public class TargetShoppingCart extends CommonAPI {
 
@@ -29,32 +32,38 @@ public class TargetShoppingCart extends CommonAPI {
     public void clickOnShoppingCart() {
          //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ShoopingCart.click();
+        String Actual = "Your cart is empty";
+        String Expected = driver.findElement(By.xpath("//*[@id=\"cart-container\"]/div/div[1]/div[1]/div/div[2]")).getText();
+        Assert.assertEquals(Actual,Expected);
     }
     public void clickOnAddQuantity() {
         //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         AddQuantity.click();
+        String Actual = "QTY 2";
+        String Expected = driver.findElement(By.xpath("//*[@id=\"select_22\"]")).getText();
+        Assert.assertEquals(Actual,Expected);
     }
     public void clickOnChangeQuantity() {
-      //  TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ChangeQuantity.click();
     }
     public void clickOnShipping() {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Shipping.click();
     }
     public void clickOnOrderIncludesAGift() {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         OrderIncludesAGift.click();}
 
     public void clickOnPromoCode() {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         PromoCode.click();}
 
     public void clickOnRecentBrowsing() {
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         RecentBrowsing.click();}
 
     public void clickOnCheckOut(){
-        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ReadyToCheckOut.click();}
     }
